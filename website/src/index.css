@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #1d2021;
+  color: #ebdbb2;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ambient glow */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(104,157,106,0.06) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 20%, rgba(69,133,136,0.06) 0%, transparent 60%),
+    radial-gradient(ellipse at 50% 90%, rgba(177,98,134,0.05) 0%, transparent 60%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* grid overlay */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(168,153,132,0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(168,153,132,0.025) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+}
+
+::selection {
+  background: rgba(250,189,47,0.25);
+  color: #ebdbb2;
+}
+
+@media (max-width: 768px) {
+  section { padding: 60px 20px !important; }
+}
