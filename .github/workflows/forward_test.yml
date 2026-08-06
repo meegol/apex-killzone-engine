@@ -1,0 +1,54 @@
+name: Automated Live Forward Test
+
+on:
+  schedule:
+    # Run Monday through Friday at 21:00 UTC (5:00 PM ET post market close)
+    - cron: '0 21 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  forward-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Live Forward Test Engine
+        run: python forward_test.py
+
+      - name: Build React Website
+        run: |
+          cd website
+          npm install
+          npm run build
+
+      - name: Commit and Push Updated Results & Site
+        run: |
+          git config --global user.name "meegol-bot"
+          git config --global user.email "bot@meegol.dev"
+          git add docs/ website/src/data/
+          if git diff --staged --quiet; then
+            echo "No new forward test trades to commit."
+          else
+            git commit -m "Auto-update live forward test signals & site [skip ci]"
+            git push origin main
+          fi
