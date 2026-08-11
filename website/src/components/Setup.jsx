@@ -50,8 +50,8 @@ export default function Setup() {
                 body: 'Requires Python 3.10+. No API keys for the default yfinance setup.',
                 code: (
                   <Code>
-                    <Gr>git clone</Gr> <St>https://github.com/meegol/meegol-backtest</St><br />
-                    <Gr>cd</Gr> meegol-backtest<br />
+                    <Gr>git clone</Gr> <St>https://github.com/meegol/apex-killzone-engine</St><br />
+                    <Gr>cd</Gr> apex-killzone-engine<br />
                     <Gr>pip install</Gr> -r requirements.txt
                   </Code>
                 )

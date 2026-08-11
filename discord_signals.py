@@ -45,7 +45,7 @@ def send_webhook(webhook_url: str, payload: dict) -> bool:
         webhook_url,
         data=data,
         headers={
-            'Content-Type': 'application.json',
+            'Content-Type': 'application/json',
             'User-Agent': 'meegol-ict-backtester/1.0',
         },
         method='POST'

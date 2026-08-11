@@ -9,3 +9,6 @@ venv/
 reports/
 website/node_modules/
 website/dist/
+
+discord_webhook.txt
+sent_signals.json

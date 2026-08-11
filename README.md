@@ -1,9 +1,9 @@
-# meegol-backtest
+# apex-killzone-engine
 
 ICT Kill Zone strategy backtester for NQ, ES, MNQ, and MES futures.
 Tests whether the NY open 9:30–11 AM window produces an edge using sweeps, FVGs, IFVGs, and CISD confirmation.
 
-**[→ results website](https://meegol.github.io/meegol-backtest)**
+**[→ live strategy website](https://meegol.github.io/apex-killzone-engine)**
 
 ---
 
@@ -66,8 +66,8 @@ MES=F 1:4 was the top performer — highest total R, highest profit factor, lowe
 ## setup
 
 ```bash
-git clone https://github.com/meegol/meegol-backtest
-cd meegol-backtest
+git clone https://github.com/meegol/apex-killzone-engine
+cd apex-killzone-engine
 pip install -r requirements.txt
 python main.py
 ```

@@ -64,7 +64,7 @@ export default function Hero() {
           onMouseEnter={e => { e.currentTarget.style.background = '#d79921'; e.currentTarget.style.transform = 'translateY(-1px)' }}
           onMouseLeave={e => { e.currentTarget.style.background = '#fabd2f'; e.currentTarget.style.transform = 'translateY(0)' }}
         >view results</a>
-        <a href="https://github.com/meegol/meegol-backtest" target="_blank" rel="noreferrer" style={{
+        <a href="https://github.com/meegol/apex-killzone-engine" target="_blank" rel="noreferrer" style={{
           fontFamily: 'JetBrains Mono, monospace', fontSize: 13, fontWeight: 600,
           padding: '11px 24px', borderRadius: 6,
           border: '1px solid rgba(168,153,132,0.2)',

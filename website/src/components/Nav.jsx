@@ -34,7 +34,7 @@ export default function Nav() {
         transition: 'background 0.3s',
       }}>
         <span style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 15, fontWeight: 700, color: '#fabd2f' }}>
-          meegol<span style={{ color: '#a89984', fontWeight: 400 }}>/</span>backtest
+          apex<span style={{ color: '#a89984', fontWeight: 400 }}>/</span>killzone-engine
         </span>
 
         {/* desktop links */}
@@ -51,7 +51,7 @@ export default function Nav() {
             </li>
           ))}
           <li>
-            <a href="https://github.com/meegol/meegol-backtest" target="_blank" rel="noreferrer"
+            <a href="https://github.com/meegol/apex-killzone-engine" target="_blank" rel="noreferrer"
               style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 13, color: '#8ec07c', textDecoration: 'none' }}>
               ↗ github
             </a>
@@ -83,7 +83,7 @@ export default function Nav() {
           borderBottom: '1px solid rgba(168,153,132,0.15)',
           padding: '12px 0 20px',
         }}>
-          {[...links, ['https://github.com/meegol/meegol-backtest', '↗ github']].map(([href, label]) => (
+          {[...links, ['https://github.com/meegol/apex-killzone-engine', '↗ github']].map(([href, label]) => (
             <a
               key={href}
               href={href}
