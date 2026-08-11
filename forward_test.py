@@ -14,6 +14,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from data_fetcher import DataFetcher
 from strategy import ICTStrategy
 from backtester import Backtester
+from discord_signals import dispatch_trade_alerts
 
 ET = pytz.timezone('America/New_York')
 SYMBOLS = ['NQ=F', 'ES=F', 'MNQ=F', 'MES=F']
@@ -167,6 +168,9 @@ def run_forward_test():
     with open(json_path_docs, 'w', encoding='utf-8') as f:
         json.dump(payload, f, indent=2)
     print(f"  [OK] Saved live forward test JSON to {json_path_docs}")
+
+    # Dispatch Discord Webhook alerts for new entries & outcomes
+    dispatch_trade_alerts(trade_history)
 
     print("  done.\n")
 
