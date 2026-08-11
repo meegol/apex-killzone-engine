@@ -2,6 +2,7 @@
 
 import os
 import json
+import time
 import urllib.request
 import urllib.error
 from datetime import datetime
@@ -11,11 +12,9 @@ WEBHOOK_FILE = os.path.join(os.path.dirname(__file__), 'discord_webhook.txt')
 
 
 def get_webhook_url() -> str:
-    # 1. Environment variable
     url = os.environ.get('DISCORD_WEBHOOK_URL', '').strip()
     if url:
         return url
-    # 2. Local config file
     if os.path.exists(WEBHOOK_FILE):
         with open(WEBHOOK_FILE, 'r', encoding='utf-8') as f:
             url = f.read().strip()
@@ -39,24 +38,38 @@ def save_state(state: dict):
         json.dump(state, f, indent=2)
 
 
-def send_webhook(webhook_url: str, payload: dict) -> bool:
+def send_webhook(webhook_url: str, payload: dict, retries: int = 3) -> bool:
     data = json.dumps(payload).encode('utf-8')
     req = urllib.request.Request(
         webhook_url,
         data=data,
         headers={
             'Content-Type': 'application/json',
-            'User-Agent': 'meegol-ict-backtester/1.0',
+            'User-Agent': 'apex-killzone-engine/1.0',
         },
         method='POST'
     )
-    try:
-        with urllib.request.urlopen(req) as resp:
-            return resp.status in (200, 204)
-    except urllib.error.HTTPError as e:
-        print(f"  [DISCORD WARN] Webhook failed ({e.code}): {e.read().decode('utf-8', errors='ignore')}")
-    except Exception as e:
-        print(f"  [DISCORD WARN] Webhook connection error: {e}")
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req) as resp:
+                if resp.status in (200, 204):
+                    time.sleep(0.5)  # rate limit prevention
+                    return True
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                try:
+                    resp_data = json.loads(e.read().decode('utf-8', errors='ignore'))
+                    retry_after = float(resp_data.get('retry_after', 1.0))
+                    time.sleep(retry_after + 0.2)
+                    continue
+                except Exception:
+                    time.sleep(1.0)
+            else:
+                print(f"  [DISCORD WARN] Webhook failed ({e.code}): {e.read().decode('utf-8', errors='ignore')}")
+                break
+        except Exception as e:
+            print(f"  [DISCORD WARN] Connection error: {e}")
+            break
     return False
 
 
@@ -93,7 +106,7 @@ def dispatch_trade_alerts(trades: list, webhook_url: str = None):
                     {"name": "Target R:R", "value": "`1:4`", "inline": True},
                     {"name": "BE Protection", "value": "`Active @ +1.5R`", "inline": True},
                 ],
-                "footer": {"text": "meegol-backtest · ICT Kill Zone Live Signal Engine"},
+                "footer": {"text": "Apex Kill Zone Engine · Live Signal Feed"},
                 "timestamp": datetime.utcnow().isoformat() + "Z"
             }
 
@@ -126,7 +139,7 @@ def dispatch_trade_alerts(trades: list, webhook_url: str = None):
                     {"name": "Exit Time", "value": f"`{t['exit_time']}`", "inline": True},
                     {"name": "Cumulative R", "value": f"`+{t.get('cumulative_r', 0.0)}R`", "inline": True},
                 ],
-                "footer": {"text": "meegol-backtest · ICT Kill Zone Live Signal Engine"},
+                "footer": {"text": "Apex Kill Zone Engine · Live Signal Feed"},
                 "timestamp": datetime.utcnow().isoformat() + "Z"
             }
 
@@ -135,7 +148,6 @@ def dispatch_trade_alerts(trades: list, webhook_url: str = None):
                 print(f"  [DISCORD OK] Sent OUTCOME alert for {t['symbol']} ({outcome})")
                 sent_outcomes.add(trade_key)
 
-    # Save updated state
     state['sent_entries'] = list(sent_entries)
     state['sent_outcomes'] = list(sent_outcomes)
     save_state(state)
