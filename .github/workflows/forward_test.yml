@@ -2,7 +2,9 @@ name: Automated Live Forward Test
 
 on:
   schedule:
-    # Run Monday through Friday at 21:00 UTC (5:00 PM ET post market close)
+    # 1. Real-time intraday monitoring: Every 5 minutes during NY Kill Zone (9:30 - 11:00 AM ET / 13:30 - 15:00 UTC) Mon-Fri
+    - cron: '*/5 13-15 * * 1-5'
+    # 2. Post-market wrap up: 5:00 PM ET (21:00 UTC) Mon-Fri
     - cron: '0 21 * * 1-5'
   workflow_dispatch:
 
