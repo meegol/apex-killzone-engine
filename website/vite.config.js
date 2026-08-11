@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/meegol-backtest/',
+  base: '/apex-killzone-engine/',
   build: {
     outDir: '../docs',
     emptyOutDir: true,
