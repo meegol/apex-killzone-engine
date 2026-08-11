@@ -54,6 +54,37 @@ body::after {
   color: #ebdbb2;
 }
 
+/* ── Mobile ── */
 @media (max-width: 768px) {
-  section { padding: 60px 20px !important; }
+  section { padding: 48px 16px !important; }
+
+  /* nav */
+  .nav-links { display: none !important; }
+  .nav-mobile-toggle { display: flex !important; }
+
+  /* hero */
+  .hero-buttons { flex-direction: column !important; }
+
+  /* 2-col grids → 1 col */
+  .grid-2col { grid-template-columns: 1fr !important; }
+
+  /* 3-col grids → 1 col */
+  .grid-3col { grid-template-columns: 1fr !important; }
+
+  /* chart+radar side-by-side → stack */
+  .chart-radar-grid { grid-template-columns: 1fr !important; }
+
+  /* forward test: hide table, show cards */
+  .trade-table-wrap { display: none !important; }
+  .trade-cards { display: flex !important; }
+
+  /* modal chart height */
+  .tv-chart-container { height: 240px !important; }
+
+  /* forward test header */
+  .fwd-header { flex-direction: column !important; align-items: flex-start !important; }
+  .fwd-header-meta { align-items: flex-start !important; }
+
+  /* section padding on inner divs */
+  .section-inner { padding-left: 0 !important; padding-right: 0 !important; }
 }

@@ -140,7 +140,7 @@ export default function TradingViewChartModal({ trade, onClose }) {
 
   return (
     <div
-      style={{ position: 'fixed', inset: 0, zIndex: 1000, background: 'rgba(29,32,33,0.9)', backdropFilter: 'blur(20px)', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: 20 }}
+      style={{ position: 'fixed', inset: 0, zIndex: 1000, background: 'rgba(29,32,33,0.9)', backdropFilter: 'blur(20px)', display: 'flex', alignItems: 'center', justifyContent: 'center', padding: 'clamp(8px, 3vw, 20px)' }}
       onClick={onClose}
     >
       <div
@@ -185,7 +185,7 @@ export default function TradingViewChartModal({ trade, onClose }) {
 
         {/* Chart */}
         <div style={{ padding: '14px 22px 8px' }}>
-          <div ref={containerRef} style={{ width: '100%', height: 380, borderRadius: 6, overflow: 'hidden' }} />
+          <div ref={containerRef} className="tv-chart-container" style={{ width: '100%', height: 380, borderRadius: 6, overflow: 'hidden' }} />
         </div>
 
         {/* Footer */}

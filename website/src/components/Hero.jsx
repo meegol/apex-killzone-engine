@@ -8,7 +8,7 @@ const chips = [
 
 export default function Hero() {
   return (
-    <div style={{ padding: '100px 40px 80px', maxWidth: 1100, margin: '0 auto' }}>
+    <div style={{ padding: 'clamp(60px, 10vw, 100px) clamp(16px, 5vw, 40px) 80px', maxWidth: 1100, margin: '0 auto' }}>
       <div style={{
         display: 'flex', alignItems: 'center', gap: 8,
         fontFamily: 'JetBrains Mono, monospace', fontSize: 11,
@@ -53,7 +53,7 @@ export default function Hero() {
         ))}
       </div>
 
-      <div style={{ display: 'flex', gap: 12 }}>
+      <div className="hero-buttons" style={{ display: 'flex', gap: 12 }}>
         <a href="#results" style={{
           fontFamily: 'JetBrains Mono, monospace', fontSize: 13, fontWeight: 700,
           padding: '11px 24px', borderRadius: 6,

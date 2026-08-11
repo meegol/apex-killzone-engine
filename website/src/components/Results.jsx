@@ -169,7 +169,7 @@ export default function Results() {
         </div>
 
         {/* bar chart + radar */}
-        <div style={{ display: 'grid', gridTemplateColumns: '3fr 2fr', gap: 16, marginBottom: 16 }}>
+        <div className="chart-radar-grid" style={{ display: 'grid', gridTemplateColumns: '3fr 2fr', gap: 16, marginBottom: 16 }}>
           <div style={{ ...glass, padding: 28 }}>
             <div style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 12, fontWeight: 600, color: '#bdae93', textTransform: 'uppercase', letterSpacing: 1, marginBottom: 20 }}>
               total R per instrument × RR target

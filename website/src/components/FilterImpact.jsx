@@ -129,7 +129,7 @@ export default function FilterImpact() {
         </div>
 
         {/* filter cards */}
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 16 }}>
+        <div className="grid-3col" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 16 }}>
           {[
             ['◈', 'HTF 4H Bias', '#fabd2f', 'Only trade with the 4H trend direction. If the last two 4H closes are ascending → longs only. Descending → shorts only. Counter-trend setups are skipped entirely — they account for the majority of filtered-out losses.'],
             ['◇', 'Premium / Discount', '#8ec07c', 'The London Kill Zone range is split at its midpoint. Shorts only above the midpoint (premium). Longs only below it (discount). No equilibrium trades. This single filter eliminates a large class of mean-reversion traps.'],

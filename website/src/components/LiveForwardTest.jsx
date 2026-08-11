@@ -64,7 +64,7 @@ export default function LiveForwardTest() {
       <div style={{ maxWidth: 1100, margin: '0 auto' }}>
         
         {/* Section Title & Live Badge */}
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: 16, marginBottom: 32 }}>
+        <div className="fwd-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: 16, marginBottom: 32 }}>
           <div>
             <div style={{
               display: 'inline-flex', alignItems: 'center', gap: 8,
@@ -83,7 +83,7 @@ export default function LiveForwardTest() {
             </div>
           </div>
 
-          <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-end', gap: 4 }}>
+          <div className="fwd-header-meta" style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-end', gap: 4 }}>
             <div style={{
               fontFamily: 'JetBrains Mono, monospace', fontSize: 11,
               color: '#8ec07c', background: 'rgba(142,192,124,0.1)',
@@ -244,6 +244,53 @@ export default function LiveForwardTest() {
               </tbody>
             </table>
           </div>
+
+          {/* mobile card list - hidden on desktop via CSS */}
+          <div className="trade-cards" style={{ display: 'none', flexDirection: 'column', gap: 8, padding: '12px 16px' }}>
+            {recent_feed.map((t) => {
+              const isWin = t.outcome === 'WIN';
+              const isBE = t.outcome === 'BE';
+              const sideColor = t.direction === 'LONG' ? '#8ec07c' : '#fb4934';
+              const outcomeColor = isWin ? '#b8bb26' : (isBE ? '#fabd2f' : '#fb4934');
+              return (
+                <div
+                  key={t.id}
+                  onClick={() => setSelectedTrade(t)}
+                  style={{
+                    background: 'rgba(60,56,54,0.4)', borderRadius: 10,
+                    border: '1px solid rgba(168,153,132,0.12)',
+                    padding: '14px 16px', cursor: 'pointer',
+                  }}
+                >
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 }}>
+                    <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
+                      <span style={{
+                        fontFamily: 'JetBrains Mono, monospace', fontSize: 13, fontWeight: 700,
+                        color: symColors[t.symbol] || '#fabd2f',
+                      }}>{t.symbol}</span>
+                      <span style={{
+                        fontFamily: 'JetBrains Mono, monospace', fontSize: 10, fontWeight: 700,
+                        padding: '2px 7px', borderRadius: 4,
+                        color: sideColor, background: `${sideColor}15`, border: `1px solid ${sideColor}30`,
+                      }}>{t.direction}</span>
+                    </div>
+                    <span style={{
+                      fontFamily: 'JetBrains Mono, monospace', fontSize: 13, fontWeight: 700, color: outcomeColor,
+                    }}>{t.pnl_r > 0 ? '+' : ''}{t.pnl_r}R · {t.outcome}</span>
+                  </div>
+                  <div style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 11, color: '#a89984', marginBottom: 6 }}>
+                    {t.entry_time}
+                  </div>
+                  <div style={{ display: 'flex', gap: 16, fontFamily: 'JetBrains Mono, monospace', fontSize: 11 }}>
+                    <span style={{ color: '#fabd2f' }}>E: {t.entry}</span>
+                    <span style={{ color: '#fb4934' }}>SL: {t.sl}</span>
+                    <span style={{ color: '#8ec07c' }}>TP: {t.tp}</span>
+                  </div>
+                  <div style={{ marginTop: 8, fontSize: 11, color: '#665c54' }}>{t.reason}</div>
+                </div>
+              );
+            })}
+          </div>
         </div>
 
         {/* TradingView Chart Modal */}
@@ -257,7 +304,7 @@ export default function LiveForwardTest() {
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
             How The Automated Forward Test Works & BE Mechanism
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 16, fontSize: 13, color: '#a89984', lineHeight: 1.6 }}>
+          <div className="grid-3col" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 16, fontSize: 13, color: '#a89984', lineHeight: 1.6 }}>
             <div>
               <strong style={{ color: '#ebdbb2', display: 'block', marginBottom: 4 }}>1. Breakeven Stop @ +1.5R</strong>
               Once price moves 1.5R towards the 1:4 target, Stop Loss is moved to entry price (BE) to protect capital against trend reversals.
