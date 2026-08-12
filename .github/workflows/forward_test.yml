@@ -27,7 +27,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Install Python Dependencies
         run: |
@@ -43,7 +43,7 @@ jobs:
         run: |
           cd website
           npm install
-          npm run build
+          npx vite build
 
       - name: Commit and Push Updated Results & Site
         run: |

@@ -30,6 +30,7 @@ def run_forward_test():
     equity_curve = []
     running_cumulative_r = 0.0
 
+    fetched_dfs = {}
     for sym in SYMBOLS:
         print(f"  Fetching intraday data for {sym}...")
         df_5m, df_1h = fetcher.fetch(sym)
@@ -37,6 +38,7 @@ def run_forward_test():
             print(f"  [WARN] No data for {sym}, skipping.")
             continue
 
+        fetched_dfs[sym] = df_5m
         strategy = ICTStrategy(df_5m, df_1h)
         bt = Backtester(strategy, rr_targets=[RR_TARGET], symbol=sym)
         
@@ -67,7 +69,7 @@ def run_forward_test():
         sym = t['symbol']
         entry_time = t['entry_time']
         exit_time = t['exit_time'] if isinstance(t['exit_time'], pd.Timestamp) else entry_time + pd.Timedelta(hours=2)
-        df_5m_sym, _ = fetcher.fetch(sym)
+        df_5m_sym = fetched_dfs.get(sym)
         bars_list = []
         if df_5m_sym is not None and not df_5m_sym.empty:
             if getattr(df_5m_sym.index, 'tz', None) is not None:
