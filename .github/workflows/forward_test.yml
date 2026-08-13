@@ -43,6 +43,7 @@ jobs:
         run: |
           cd website
           npm install
+          chmod -R +x node_modules/.bin || true
           npx vite build
 
       - name: Commit and Push Updated Results & Site
