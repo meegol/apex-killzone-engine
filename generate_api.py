@@ -140,21 +140,27 @@ def generate_api_data():
         'trades': api_trades
     }
 
-    # Write to public/api/trades.json
-    public_api_dir = os.path.join(base_dir, 'website', 'public', 'api')
+    # Write to public/api/trades.json AND public/trades.json
+    public_dir = os.path.join(base_dir, 'website', 'public')
+    public_api_dir = os.path.join(public_dir, 'api')
     os.makedirs(public_api_dir, exist_ok=True)
-    public_json_path = os.path.join(public_api_dir, 'trades.json')
-    with open(public_json_path, 'w', encoding='utf-8') as f:
+    
+    with open(os.path.join(public_api_dir, 'trades.json'), 'w', encoding='utf-8') as f:
         json.dump(api_payload, f, indent=2)
-    print(f"  [OK] Saved API JSON to {public_json_path}")
+    with open(os.path.join(public_dir, 'trades.json'), 'w', encoding='utf-8') as f:
+        json.dump(api_payload, f, indent=2)
+    print(f"  [OK] Saved API JSON to public/api/trades.json and public/trades.json")
 
-    # Write to docs/api/trades.json
-    docs_api_dir = os.path.join(base_dir, 'docs', 'api')
+    # Write to docs/api/trades.json AND docs/trades.json
+    docs_dir = os.path.join(base_dir, 'docs')
+    docs_api_dir = os.path.join(docs_dir, 'api')
     os.makedirs(docs_api_dir, exist_ok=True)
-    docs_json_path = os.path.join(docs_api_dir, 'trades.json')
-    with open(docs_json_path, 'w', encoding='utf-8') as f:
+    
+    with open(os.path.join(docs_api_dir, 'trades.json'), 'w', encoding='utf-8') as f:
         json.dump(api_payload, f, indent=2)
-    print(f"  [OK] Saved API JSON to {docs_json_path}")
+    with open(os.path.join(docs_dir, 'trades.json'), 'w', encoding='utf-8') as f:
+        json.dump(api_payload, f, indent=2)
+    print(f"  [OK] Saved API JSON to docs/api/trades.json and docs/trades.json")
 
     return api_payload
 
