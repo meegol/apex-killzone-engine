@@ -50,7 +50,7 @@ jobs:
         run: |
           git config --global user.name "meegol-bot"
           git config --global user.email "bot@meegol.dev"
-          git add docs/ website/src/data/
+          git add docs/ website/public/api/ website/src/data/
           if git diff --staged --quiet; then
             echo "No new forward test trades to commit."
           else

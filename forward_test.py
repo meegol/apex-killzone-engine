@@ -171,6 +171,13 @@ def run_forward_test():
         json.dump(payload, f, indent=2)
     print(f"  [OK] Saved live forward test JSON to {json_path_docs}")
 
+    # Generate public API JSON endpoints (/api/trades.json)
+    try:
+        from generate_api import generate_api_data
+        generate_api_data()
+    except Exception as e:
+        print(f"  [WARN] Failed to generate API data: {e}")
+
     # Dispatch Discord Webhook alerts for new entries & outcomes
     dispatch_trade_alerts(trade_history)
 

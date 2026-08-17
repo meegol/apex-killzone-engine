@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apex Kill Zone Engine API Documentation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #1d2021;
+      --card-bg: #282828;
+      --text: #ebdbb2;
+      --text-muted: #a89984;
+      --accent-yellow: #fabd2f;
+      --accent-green: #8ec07c;
+      --accent-orange: #fe8019;
+      --accent-red: #fb4934;
+      --border: rgba(168, 153, 132, 0.15);
+      --font-code: 'Fira Code', monospace;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      line-height: 1.6;
+      padding: 40px 20px;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+    header {
+      margin-bottom: 40px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 24px;
+    }
+    h1 {
+      font-size: 2rem;
+      color: var(--accent-yellow);
+      margin-bottom: 8px;
+    }
+    .badge {
+      display: inline-block;
+      background: rgba(250, 189, 47, 0.15);
+      color: var(--accent-yellow);
+      font-family: var(--font-code);
+      font-size: 0.85rem;
+      padding: 4px 10px;
+      border-radius: 4px;
+      border: 1px solid rgba(250, 189, 47, 0.3);
+    }
+    .section {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 24px;
+      margin-bottom: 24px;
+    }
+    h2 {
+      font-size: 1.25rem;
+      color: var(--text);
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    p { margin-bottom: 12px; color: var(--text); }
+    code, pre {
+      font-family: var(--font-code);
+      background: rgba(0,0,0,0.3);
+      border-radius: 4px;
+    }
+    code {
+      padding: 2px 6px;
+      color: var(--accent-yellow);
+      font-size: 0.9em;
+    }
+    pre {
+      padding: 16px;
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      color: var(--accent-green);
+      font-size: 0.85rem;
+      margin: 12px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 0.9rem;
+    }
+    th, td {
+      padding: 10px 12px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+    th {
+      color: var(--text-muted);
+      font-weight: 600;
+      font-family: var(--font-code);
+      font-size: 0.8rem;
+      text-transform: uppercase;
+    }
+    .method-tag {
+      background: rgba(142, 192, 124, 0.2);
+      color: var(--accent-green);
+      font-family: var(--font-code);
+      font-weight: bold;
+      padding: 2px 8px;
+      border-radius: 4px;
+    }
+    a { color: var(--accent-yellow); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Apex Kill Zone Engine API</h1>
+    <p>Public, read-only JSON API endpoints for trade-level analysis and simulation.</p>
+    <div style="margin-top: 12px;">
+      <span class="badge">Version 1.0</span>
+      <span class="badge" style="background: rgba(142, 192, 124, 0.15); color: var(--accent-green); border-color: rgba(142, 192, 124, 0.3);">CORS Enabled</span>
+    </div>
+  </header>
+
+  <main>
+    <div class="section">
+      <h2>Endpoints</h2>
+      <p>All endpoints are <strong>GET-only</strong> and publicly accessible cross-origin (<code>Access-Control-Allow-Origin: *</code>).</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Method</th>
+            <th>Endpoint URL</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="method-tag">GET</span></td>
+            <td><code>/api/trades.json</code></td>
+            <td>Full dataset of all individual trade executions, outcomes, and exact realized R values.</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>Direct URL: <a href="https://meegol.github.io/apex-killzone-engine/api/trades.json" target="_blank"><code>https://meegol.github.io/apex-killzone-engine/api/trades.json</code></a></p>
+    </div>
+
+    <div class="section">
+      <h2>Key Parameters & Conventions</h2>
+      <ul>
+        <li><strong>Timestamps</strong>: ISO 8601 formatted in UTC (e.g. <code>2026-06-02T13:50:00Z</code>).</li>
+        <li><strong>Date Format</strong>: ISO 8601 calendar date (<code>YYYY-MM-DD</code>).</li>
+        <li><strong>Realized R (<code>realized_r</code>)</strong>: Numeric unrounded R outcome for Monte Carlo, drawdown, and expectancy modeling.
+          <ul>
+            <li><code>4.0</code> = Target hit (full 1:4 winner)</li>
+            <li><code>-1.0</code> = Stop loss hit (-1R loss)</li>
+            <li><code>0.0</code> = Breakeven exit</li>
+            <li>Fractional floats (e.g. <code>1.693</code>) = EOD exit or custom R exit</li>
+          </ul>
+        </li>
+        <li><strong>Ordering</strong>: Trades are returned in strictly chronological order (oldest &rarr; newest).</li>
+        <li><strong>Filtering</strong>: As a static GitHub Pages endpoint, client-side query parameters (e.g., <code>?instrument=NQ=F&from=2026-06-01</code>) are ignored by the host server; clients can filter the complete JSON payload in memory.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Response Schema Example</h2>
+      <pre><code>{
+  "source": "apex-killzone-engine",
+  "version": 1,
+  "generated_at": "2026-08-17T23:00:00Z",
+  "total_trades": 237,
+  "instruments": ["ES=F", "MES=F", "MNQ=F", "NQ=F"],
+  "date_range": {
+    "from": "2026-06-02",
+    "to": "2026-08-11"
+  },
+  "trades": [
+    {
+      "id": "trade-NQF-0001",
+      "timestamp": "2026-06-02T13:50:00Z",
+      "date": "2026-06-02",
+      "instrument": "NQ=F",
+      "direction": "long",
+      "entry_price": 30558.75,
+      "stop_price": 30455.82,
+      "target_price": 30970.45,
+      "exit_price": 30733.0,
+      "risk_pts": 102.92,
+      "realized_r": 1.693,
+      "result": "eod_close",
+      "setup": "London Low",
+      "trigger": "London Low",
+      "confirmation": "CISD",
+      "reason": "Sweep London Low + CISD",
+      "bars_held": null,
+      "be_active": false,
+      "rr_target": 4.0,
+      "entry_time": "2026-06-02 09:50 ET",
+      "exit_time": "2026-06-02 16:00 ET"
+    }
+  ]
+}</code></pre>
+    </div>
+  </main>
+</body>
+</html>
