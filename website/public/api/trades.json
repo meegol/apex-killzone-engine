@@ -1,8 +1,8 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-08-18T14:23:35Z",
-  "total_trades": 237,
+  "generated_at": "2026-08-18T15:02:31Z",
+  "total_trades": 238,
   "instruments": [
     "ES=F",
     "MES=F",
@@ -11,7 +11,7 @@
   ],
   "date_range": {
     "from": "2026-06-09",
-    "to": "2026-08-14"
+    "to": "2026-08-18"
   },
   "trades": [
     {
@@ -5464,6 +5464,29 @@
       "rr_target": 4.0,
       "entry_time": "2026-08-14 10:15 ET",
       "exit_time": "2026-08-14 16:00 ET"
+    },
+    {
+      "id": "trade-ESF-0238",
+      "timestamp": "2026-08-18T14:35:00Z",
+      "date": "2026-08-18",
+      "instrument": "ES=F",
+      "direction": "long",
+      "entry_price": 7731.0,
+      "stop_price": 7719.31,
+      "target_price": 7777.75,
+      "exit_price": 7726.5,
+      "risk_pts": 11.69,
+      "realized_r": -0.385,
+      "result": "eod_close",
+      "setup": "HTF Swing Low",
+      "trigger": "HTF Swing Low",
+      "confirmation": "CISD",
+      "reason": "Sweep HTF Swing Low + CISD",
+      "bars_held": null,
+      "be_active": false,
+      "rr_target": 4.0,
+      "entry_time": "2026-08-18 10:35 ET",
+      "exit_time": "2026-08-18 10:50 ET"
     }
   ]
 }
