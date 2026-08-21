@@ -1,8 +1,8 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-08-21T13:51:31Z",
-  "total_trades": 209,
+  "generated_at": "2026-08-21T14:30:50Z",
+  "total_trades": 212,
   "instruments": [
     "ES=F",
     "MES=F",
@@ -11,7 +11,7 @@
   ],
   "date_range": {
     "from": "2026-06-11",
-    "to": "2026-08-14"
+    "to": "2026-08-21"
   },
   "trades": [
     {
@@ -4820,6 +4820,75 @@
       "rr_target": 4.0,
       "entry_time": "2026-08-14 10:15 ET",
       "exit_time": "2026-08-14 16:00 ET"
+    },
+    {
+      "id": "trade-ESF-0210",
+      "timestamp": "2026-08-21T13:30:00Z",
+      "date": "2026-08-21",
+      "instrument": "ES=F",
+      "direction": "short",
+      "entry_price": 7683.5,
+      "stop_price": 7692.58,
+      "target_price": 7647.2,
+      "exit_price": 7682.0,
+      "risk_pts": 9.07,
+      "realized_r": 0.165,
+      "result": "eod_close",
+      "setup": "1H FVG",
+      "trigger": "1H FVG",
+      "confirmation": "FVG",
+      "reason": "1H FVG Tap (bearish)",
+      "bars_held": null,
+      "be_active": false,
+      "rr_target": 4.0,
+      "entry_time": "2026-08-21 09:30 ET",
+      "exit_time": "2026-08-21 10:20 ET"
+    },
+    {
+      "id": "trade-ESF-0211",
+      "timestamp": "2026-08-21T13:30:00Z",
+      "date": "2026-08-21",
+      "instrument": "ES=F",
+      "direction": "short",
+      "entry_price": 7683.5,
+      "stop_price": 7693.08,
+      "target_price": 7645.2,
+      "exit_price": 7682.0,
+      "risk_pts": 9.57,
+      "realized_r": 0.157,
+      "result": "eod_close",
+      "setup": "1H IFVG",
+      "trigger": "1H IFVG",
+      "confirmation": "IFVG",
+      "reason": "1H IFVG Tap (bullish)",
+      "bars_held": null,
+      "be_active": false,
+      "rr_target": 4.0,
+      "entry_time": "2026-08-21 09:30 ET",
+      "exit_time": "2026-08-21 10:20 ET"
+    },
+    {
+      "id": "trade-ESF-0212",
+      "timestamp": "2026-08-21T13:35:00Z",
+      "date": "2026-08-21",
+      "instrument": "ES=F",
+      "direction": "short",
+      "entry_price": 7686.25,
+      "stop_price": 7696.96,
+      "target_price": 7643.4,
+      "exit_price": 7682.0,
+      "risk_pts": 10.71,
+      "realized_r": 0.397,
+      "result": "eod_close",
+      "setup": "London High",
+      "trigger": "London High",
+      "confirmation": "CISD",
+      "reason": "Sweep London High + CISD",
+      "bars_held": null,
+      "be_active": false,
+      "rr_target": 4.0,
+      "entry_time": "2026-08-21 09:35 ET",
+      "exit_time": "2026-08-21 10:20 ET"
     }
   ]
 }
