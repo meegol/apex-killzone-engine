@@ -1,8 +1,8 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-08-24T15:36:17Z",
-  "total_trades": 197,
+  "generated_at": "2026-08-24T16:16:39Z",
+  "total_trades": 199,
   "instruments": [
     "ES=F",
     "MES=F",
@@ -11,7 +11,7 @@
   ],
   "date_range": {
     "from": "2026-06-16",
-    "to": "2026-08-21"
+    "to": "2026-08-24"
   },
   "trades": [
     {
@@ -4544,6 +4544,52 @@
       "rr_target": 4.0,
       "entry_time": "2026-08-21 10:35 ET",
       "exit_time": "2026-08-21 10:40 ET"
+    },
+    {
+      "id": "trade-ESF-0198",
+      "timestamp": "2026-08-24T14:30:00Z",
+      "date": "2026-08-24",
+      "instrument": "ES=F",
+      "direction": "long",
+      "entry_price": 7670.5,
+      "stop_price": 7668.42,
+      "target_price": 7678.8,
+      "exit_price": 7670.5,
+      "risk_pts": 2.07,
+      "realized_r": 0.0,
+      "result": "breakeven",
+      "setup": "1H IFVG",
+      "trigger": "1H IFVG",
+      "confirmation": "IFVG",
+      "reason": "1H IFVG Tap (bearish)",
+      "bars_held": null,
+      "be_active": false,
+      "rr_target": 4.0,
+      "entry_time": "2026-08-24 10:30 ET",
+      "exit_time": "2026-08-24 10:40 ET"
+    },
+    {
+      "id": "trade-MESF-0199",
+      "timestamp": "2026-08-24T14:30:00Z",
+      "date": "2026-08-24",
+      "instrument": "MES=F",
+      "direction": "long",
+      "entry_price": 7670.25,
+      "stop_price": 7668.42,
+      "target_price": 7677.55,
+      "exit_price": 7670.25,
+      "risk_pts": 1.82,
+      "realized_r": 0.0,
+      "result": "breakeven",
+      "setup": "1H IFVG",
+      "trigger": "1H IFVG",
+      "confirmation": "IFVG",
+      "reason": "1H IFVG Tap (bearish)",
+      "bars_held": null,
+      "be_active": false,
+      "rr_target": 4.0,
+      "entry_time": "2026-08-24 10:30 ET",
+      "exit_time": "2026-08-24 10:35 ET"
     }
   ]
 }
