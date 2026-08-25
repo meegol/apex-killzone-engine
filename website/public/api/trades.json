@@ -1,7 +1,7 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-08-25T16:20:57Z",
+  "generated_at": "2026-08-25T21:24:47Z",
   "total_trades": 209,
   "instruments": [
     "ES=F",
@@ -4738,9 +4738,9 @@
       "entry_price": 29207.0,
       "stop_price": 29105.6,
       "target_price": 29612.6,
-      "exit_price": 29277.5,
+      "exit_price": 29274.5,
       "risk_pts": 101.4,
-      "realized_r": 0.695,
+      "realized_r": 0.666,
       "result": "eod_close",
       "setup": "1H FVG",
       "trigger": "1H FVG",
@@ -4750,7 +4750,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-08-25 10:30 ET",
-      "exit_time": "2026-08-25 12:10 ET"
+      "exit_time": "2026-08-25 16:00 ET"
     },
     {
       "id": "trade-MNQF-0207",
@@ -4761,9 +4761,9 @@
       "entry_price": 29207.0,
       "stop_price": 29104.12,
       "target_price": 29618.5,
-      "exit_price": 29277.5,
+      "exit_price": 29274.5,
       "risk_pts": 102.88,
-      "realized_r": 0.685,
+      "realized_r": 0.656,
       "result": "eod_close",
       "setup": "1H IFVG",
       "trigger": "1H IFVG",
@@ -4773,7 +4773,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-08-25 10:30 ET",
-      "exit_time": "2026-08-25 12:10 ET"
+      "exit_time": "2026-08-25 16:00 ET"
     },
     {
       "id": "trade-NQF-0208",
@@ -4784,9 +4784,9 @@
       "entry_price": 29207.25,
       "stop_price": 29106.15,
       "target_price": 29611.65,
-      "exit_price": 29273.75,
+      "exit_price": 29274.5,
       "risk_pts": 101.1,
-      "realized_r": 0.658,
+      "realized_r": 0.665,
       "result": "eod_close",
       "setup": "1H FVG",
       "trigger": "1H FVG",
@@ -4796,7 +4796,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-08-25 10:30 ET",
-      "exit_time": "2026-08-25 12:10 ET"
+      "exit_time": "2026-08-25 16:00 ET"
     },
     {
       "id": "trade-NQF-0209",
@@ -4807,9 +4807,9 @@
       "entry_price": 29207.25,
       "stop_price": 29104.68,
       "target_price": 29617.55,
-      "exit_price": 29273.75,
+      "exit_price": 29274.5,
       "risk_pts": 102.58,
-      "realized_r": 0.648,
+      "realized_r": 0.656,
       "result": "eod_close",
       "setup": "1H IFVG",
       "trigger": "1H IFVG",
@@ -4819,7 +4819,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-08-25 10:30 ET",
-      "exit_time": "2026-08-25 12:10 ET"
+      "exit_time": "2026-08-25 16:00 ET"
     }
   ]
 }
