@@ -1,7 +1,7 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-09-08T17:12:48Z",
+  "generated_at": "2026-09-08T23:10:23Z",
   "total_trades": 225,
   "instruments": [
     "ES=F",
@@ -5060,9 +5060,9 @@
       "entry_price": 29474.5,
       "stop_price": 29356.28,
       "target_price": 29947.4,
-      "exit_price": 29618.25,
+      "exit_price": 29517.0,
       "risk_pts": 118.22,
-      "realized_r": 1.216,
+      "realized_r": 0.359,
       "result": "eod_close",
       "setup": "1H FVG",
       "trigger": "1H FVG",
@@ -5072,7 +5072,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-08 09:40 ET",
-      "exit_time": "2026-09-08 13:00 ET"
+      "exit_time": "2026-09-08 16:00 ET"
     },
     {
       "id": "trade-NQF-0221",
@@ -5083,9 +5083,9 @@
       "entry_price": 29474.0,
       "stop_price": 29356.5,
       "target_price": 29944.0,
-      "exit_price": 29617.25,
+      "exit_price": 29517.25,
       "risk_pts": 117.5,
-      "realized_r": 1.219,
+      "realized_r": 0.368,
       "result": "eod_close",
       "setup": "1H FVG",
       "trigger": "1H FVG",
@@ -5095,7 +5095,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-08 09:40 ET",
-      "exit_time": "2026-09-08 13:00 ET"
+      "exit_time": "2026-09-08 16:00 ET"
     },
     {
       "id": "trade-MNQF-0222",
@@ -5106,10 +5106,10 @@
       "entry_price": 29526.75,
       "stop_price": 29391.1,
       "target_price": 30069.35,
-      "exit_price": 29618.25,
+      "exit_price": 29517.0,
       "risk_pts": 135.65,
-      "realized_r": 0.675,
-      "result": "eod_close",
+      "realized_r": -0.072,
+      "result": "breakeven",
       "setup": "4H IFVG",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
@@ -5118,7 +5118,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-08 09:45 ET",
-      "exit_time": "2026-09-08 13:00 ET"
+      "exit_time": "2026-09-08 16:00 ET"
     },
     {
       "id": "trade-NQF-0223",
@@ -5129,10 +5129,10 @@
       "entry_price": 29526.75,
       "stop_price": 29390.52,
       "target_price": 30071.65,
-      "exit_price": 29617.25,
+      "exit_price": 29517.25,
       "risk_pts": 136.22,
-      "realized_r": 0.664,
-      "result": "eod_close",
+      "realized_r": -0.07,
+      "result": "breakeven",
       "setup": "4H IFVG",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
@@ -5141,7 +5141,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-08 09:45 ET",
-      "exit_time": "2026-09-08 13:00 ET"
+      "exit_time": "2026-09-08 16:00 ET"
     },
     {
       "id": "trade-ESF-0224",
@@ -5152,10 +5152,10 @@
       "entry_price": 7690.0,
       "stop_price": 7672.42,
       "target_price": 7760.3,
-      "exit_price": 7698.5,
+      "exit_price": 7672.42,
       "risk_pts": 17.57,
-      "realized_r": 0.484,
-      "result": "eod_close",
+      "realized_r": -1.0,
+      "result": "loss",
       "setup": "4H IFVG",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
@@ -5164,7 +5164,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-08 10:00 ET",
-      "exit_time": "2026-09-08 13:00 ET"
+      "exit_time": "2026-09-08 15:55 ET"
     },
     {
       "id": "trade-MESF-0225",
@@ -5175,10 +5175,10 @@
       "entry_price": 7690.25,
       "stop_price": 7672.42,
       "target_price": 7761.55,
-      "exit_price": 7698.5,
+      "exit_price": 7672.42,
       "risk_pts": 17.82,
-      "realized_r": 0.463,
-      "result": "eod_close",
+      "realized_r": -1.0,
+      "result": "loss",
       "setup": "4H IFVG",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
@@ -5187,7 +5187,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-08 10:00 ET",
-      "exit_time": "2026-09-08 13:00 ET"
+      "exit_time": "2026-09-08 15:55 ET"
     }
   ]
 }
