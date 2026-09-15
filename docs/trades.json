@@ -1,7 +1,7 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-09-15T17:37:58Z",
+  "generated_at": "2026-09-15T23:23:34Z",
   "total_trades": 208,
   "instruments": [
     "ES=F",
@@ -4554,9 +4554,9 @@
       "entry_price": 7672.0,
       "stop_price": 7691.88,
       "target_price": 7592.5,
-      "exit_price": 7650.5,
+      "exit_price": 7661.75,
       "risk_pts": 19.88,
-      "realized_r": 1.082,
+      "realized_r": 0.516,
       "result": "eod_close",
       "setup": "4H IFVG",
       "trigger": "4H IFVG",
@@ -4566,7 +4566,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-15 09:30 ET",
-      "exit_time": "2026-09-15 13:25 ET"
+      "exit_time": "2026-09-15 16:00 ET"
     },
     {
       "id": "trade-MNQF-0199",
