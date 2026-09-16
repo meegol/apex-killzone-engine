@@ -1,7 +1,7 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-09-16T17:35:37Z",
+  "generated_at": "2026-09-16T23:32:35Z",
   "total_trades": 212,
   "instruments": [
     "ES=F",
@@ -4807,10 +4807,10 @@
       "entry_price": 7670.25,
       "stop_price": 7620.1,
       "target_price": 7870.85,
-      "exit_price": 7678.75,
+      "exit_price": 7620.1,
       "risk_pts": 50.15,
-      "realized_r": 0.169,
-      "result": "eod_close",
+      "realized_r": -1.0,
+      "result": "loss",
       "setup": "1H FVG",
       "trigger": "1H FVG",
       "confirmation": "FVG",
@@ -4819,7 +4819,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-16 09:35 ET",
-      "exit_time": "2026-09-16 13:25 ET"
+      "exit_time": "2026-09-16 14:55 ET"
     },
     {
       "id": "trade-ESF-0210",
@@ -4830,10 +4830,10 @@
       "entry_price": 7670.25,
       "stop_price": 7658.7,
       "target_price": 7716.45,
-      "exit_price": 7678.75,
+      "exit_price": 7670.25,
       "risk_pts": 11.55,
-      "realized_r": 0.736,
-      "result": "eod_close",
+      "realized_r": 0.0,
+      "result": "breakeven",
       "setup": "1H IFVG",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
@@ -4842,7 +4842,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-16 09:35 ET",
-      "exit_time": "2026-09-16 13:25 ET"
+      "exit_time": "2026-09-16 14:00 ET"
     },
     {
       "id": "trade-MESF-0211",
@@ -4853,10 +4853,10 @@
       "entry_price": 7670.0,
       "stop_price": 7620.28,
       "target_price": 7868.9,
-      "exit_price": 7679.0,
+      "exit_price": 7620.28,
       "risk_pts": 49.73,
-      "realized_r": 0.181,
-      "result": "eod_close",
+      "realized_r": -1.0,
+      "result": "loss",
       "setup": "1H FVG",
       "trigger": "1H FVG",
       "confirmation": "FVG",
@@ -4865,7 +4865,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-16 09:35 ET",
-      "exit_time": "2026-09-16 13:25 ET"
+      "exit_time": "2026-09-16 14:55 ET"
     },
     {
       "id": "trade-MESF-0212",
@@ -4876,10 +4876,10 @@
       "entry_price": 7670.0,
       "stop_price": 7658.7,
       "target_price": 7715.2,
-      "exit_price": 7679.0,
+      "exit_price": 7670.0,
       "risk_pts": 11.3,
-      "realized_r": 0.796,
-      "result": "eod_close",
+      "realized_r": 0.0,
+      "result": "breakeven",
       "setup": "1H IFVG",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
@@ -4888,7 +4888,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-16 09:35 ET",
-      "exit_time": "2026-09-16 13:25 ET"
+      "exit_time": "2026-09-16 14:00 ET"
     }
   ]
 }
