@@ -1,8 +1,8 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-09-17T23:21:53Z",
-  "total_trades": 202,
+  "generated_at": "2026-09-18T17:01:49Z",
+  "total_trades": 194,
   "instruments": [
     "ES=F",
     "MES=F",
@@ -10,196 +10,12 @@
     "NQ=F"
   ],
   "date_range": {
-    "from": "2026-07-09",
+    "from": "2026-07-13",
     "to": "2026-09-16"
   },
   "trades": [
     {
       "id": "trade-ESF-0001",
-      "timestamp": "2026-07-09T13:30:00Z",
-      "date": "2026-07-09",
-      "instrument": "ES=F",
-      "direction": "long",
-      "entry_price": 7547.25,
-      "stop_price": 7544.8,
-      "target_price": 7557.05,
-      "exit_price": 7547.25,
-      "risk_pts": 2.45,
-      "realized_r": 0.0,
-      "result": "breakeven",
-      "setup": "1H IFVG",
-      "trigger": "1H IFVG",
-      "confirmation": "IFVG",
-      "reason": "1H IFVG Tap (bearish)",
-      "bars_held": null,
-      "be_active": false,
-      "rr_target": 4.0,
-      "entry_time": "2026-07-09 09:30 ET",
-      "exit_time": "2026-07-09 09:35 ET"
-    },
-    {
-      "id": "trade-MESF-0002",
-      "timestamp": "2026-07-09T13:30:00Z",
-      "date": "2026-07-09",
-      "instrument": "MES=F",
-      "direction": "long",
-      "entry_price": 7547.5,
-      "stop_price": 7544.8,
-      "target_price": 7558.3,
-      "exit_price": 7547.5,
-      "risk_pts": 2.7,
-      "realized_r": 0.0,
-      "result": "breakeven",
-      "setup": "1H IFVG",
-      "trigger": "1H IFVG",
-      "confirmation": "IFVG",
-      "reason": "1H IFVG Tap (bearish)",
-      "bars_held": null,
-      "be_active": false,
-      "rr_target": 4.0,
-      "entry_time": "2026-07-09 09:30 ET",
-      "exit_time": "2026-07-09 09:35 ET"
-    },
-    {
-      "id": "trade-ESF-0003",
-      "timestamp": "2026-07-09T14:10:00Z",
-      "date": "2026-07-09",
-      "instrument": "ES=F",
-      "direction": "long",
-      "entry_price": 7549.25,
-      "stop_price": 7536.38,
-      "target_price": 7600.75,
-      "exit_price": 7536.38,
-      "risk_pts": 12.88,
-      "realized_r": -1.0,
-      "result": "loss",
-      "setup": "4H FVG",
-      "trigger": "4H FVG",
-      "confirmation": "FVG",
-      "reason": "4H FVG Tap (bullish)",
-      "bars_held": null,
-      "be_active": false,
-      "rr_target": 4.0,
-      "entry_time": "2026-07-09 10:10 ET",
-      "exit_time": "2026-07-09 10:15 ET"
-    },
-    {
-      "id": "trade-MESF-0004",
-      "timestamp": "2026-07-09T14:10:00Z",
-      "date": "2026-07-09",
-      "instrument": "MES=F",
-      "direction": "long",
-      "entry_price": 7549.25,
-      "stop_price": 7536.4,
-      "target_price": 7600.65,
-      "exit_price": 7536.4,
-      "risk_pts": 12.85,
-      "realized_r": -1.0,
-      "result": "loss",
-      "setup": "4H FVG",
-      "trigger": "4H FVG",
-      "confirmation": "FVG",
-      "reason": "4H FVG Tap (bullish)",
-      "bars_held": null,
-      "be_active": false,
-      "rr_target": 4.0,
-      "entry_time": "2026-07-09 10:10 ET",
-      "exit_time": "2026-07-09 10:15 ET"
-    },
-    {
-      "id": "trade-ESF-0005",
-      "timestamp": "2026-07-09T14:15:00Z",
-      "date": "2026-07-09",
-      "instrument": "ES=F",
-      "direction": "long",
-      "entry_price": 7536.5,
-      "stop_price": 7514.8,
-      "target_price": 7623.3,
-      "exit_price": 7588.5,
-      "risk_pts": 21.7,
-      "realized_r": 2.396,
-      "result": "eod_close",
-      "setup": "4H FVG",
-      "trigger": "4H FVG",
-      "confirmation": "FVG",
-      "reason": "4H FVG Tap (bullish)",
-      "bars_held": null,
-      "be_active": false,
-      "rr_target": 4.0,
-      "entry_time": "2026-07-09 10:15 ET",
-      "exit_time": "2026-07-09 16:00 ET"
-    },
-    {
-      "id": "trade-ESF-0006",
-      "timestamp": "2026-07-09T14:15:00Z",
-      "date": "2026-07-09",
-      "instrument": "ES=F",
-      "direction": "long",
-      "entry_price": 7536.5,
-      "stop_price": 7534.38,
-      "target_price": 7545.0,
-      "exit_price": 7536.5,
-      "risk_pts": 2.12,
-      "realized_r": 0.0,
-      "result": "breakeven",
-      "setup": "4H IFVG",
-      "trigger": "4H IFVG",
-      "confirmation": "IFVG",
-      "reason": "4H IFVG Tap (bearish)",
-      "bars_held": null,
-      "be_active": false,
-      "rr_target": 4.0,
-      "entry_time": "2026-07-09 10:15 ET",
-      "exit_time": "2026-07-09 10:20 ET"
-    },
-    {
-      "id": "trade-MESF-0007",
-      "timestamp": "2026-07-09T14:15:00Z",
-      "date": "2026-07-09",
-      "instrument": "MES=F",
-      "direction": "long",
-      "entry_price": 7536.5,
-      "stop_price": 7514.8,
-      "target_price": 7623.3,
-      "exit_price": 7588.5,
-      "risk_pts": 21.7,
-      "realized_r": 2.396,
-      "result": "eod_close",
-      "setup": "4H FVG",
-      "trigger": "4H FVG",
-      "confirmation": "FVG",
-      "reason": "4H FVG Tap (bullish)",
-      "bars_held": null,
-      "be_active": false,
-      "rr_target": 4.0,
-      "entry_time": "2026-07-09 10:15 ET",
-      "exit_time": "2026-07-09 16:00 ET"
-    },
-    {
-      "id": "trade-MESF-0008",
-      "timestamp": "2026-07-09T14:15:00Z",
-      "date": "2026-07-09",
-      "instrument": "MES=F",
-      "direction": "long",
-      "entry_price": 7536.5,
-      "stop_price": 7534.65,
-      "target_price": 7543.9,
-      "exit_price": 7536.5,
-      "risk_pts": 1.85,
-      "realized_r": 0.0,
-      "result": "breakeven",
-      "setup": "4H IFVG",
-      "trigger": "4H IFVG",
-      "confirmation": "IFVG",
-      "reason": "4H IFVG Tap (bearish)",
-      "bars_held": null,
-      "be_active": false,
-      "rr_target": 4.0,
-      "entry_time": "2026-07-09 10:15 ET",
-      "exit_time": "2026-07-09 10:20 ET"
-    },
-    {
-      "id": "trade-ESF-0009",
       "timestamp": "2026-07-13T13:30:00Z",
       "date": "2026-07-13",
       "instrument": "ES=F",
@@ -222,7 +38,7 @@
       "exit_time": "2026-07-13 16:00 ET"
     },
     {
-      "id": "trade-ESF-0010",
+      "id": "trade-ESF-0002",
       "timestamp": "2026-07-13T13:30:00Z",
       "date": "2026-07-13",
       "instrument": "ES=F",
@@ -245,7 +61,7 @@
       "exit_time": "2026-07-13 09:35 ET"
     },
     {
-      "id": "trade-MESF-0011",
+      "id": "trade-MESF-0003",
       "timestamp": "2026-07-13T13:30:00Z",
       "date": "2026-07-13",
       "instrument": "MES=F",
@@ -268,7 +84,7 @@
       "exit_time": "2026-07-13 10:15 ET"
     },
     {
-      "id": "trade-MESF-0012",
+      "id": "trade-MESF-0004",
       "timestamp": "2026-07-13T13:30:00Z",
       "date": "2026-07-13",
       "instrument": "MES=F",
@@ -291,7 +107,7 @@
       "exit_time": "2026-07-13 09:35 ET"
     },
     {
-      "id": "trade-ESF-0013",
+      "id": "trade-ESF-0005",
       "timestamp": "2026-07-13T14:15:00Z",
       "date": "2026-07-13",
       "instrument": "ES=F",
@@ -314,7 +130,7 @@
       "exit_time": "2026-07-13 16:00 ET"
     },
     {
-      "id": "trade-MESF-0014",
+      "id": "trade-MESF-0006",
       "timestamp": "2026-07-13T14:15:00Z",
       "date": "2026-07-13",
       "instrument": "MES=F",
@@ -337,7 +153,7 @@
       "exit_time": "2026-07-13 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0015",
+      "id": "trade-MNQF-0007",
       "timestamp": "2026-07-13T14:25:00Z",
       "date": "2026-07-13",
       "instrument": "MNQ=F",
@@ -360,7 +176,7 @@
       "exit_time": "2026-07-13 10:30 ET"
     },
     {
-      "id": "trade-MNQF-0016",
+      "id": "trade-MNQF-0008",
       "timestamp": "2026-07-13T14:25:00Z",
       "date": "2026-07-13",
       "instrument": "MNQ=F",
@@ -383,7 +199,7 @@
       "exit_time": "2026-07-13 10:30 ET"
     },
     {
-      "id": "trade-NQF-0017",
+      "id": "trade-NQF-0009",
       "timestamp": "2026-07-13T14:25:00Z",
       "date": "2026-07-13",
       "instrument": "NQ=F",
@@ -406,7 +222,7 @@
       "exit_time": "2026-07-13 10:30 ET"
     },
     {
-      "id": "trade-NQF-0018",
+      "id": "trade-NQF-0010",
       "timestamp": "2026-07-13T14:25:00Z",
       "date": "2026-07-13",
       "instrument": "NQ=F",
@@ -429,7 +245,7 @@
       "exit_time": "2026-07-13 10:30 ET"
     },
     {
-      "id": "trade-MNQF-0019",
+      "id": "trade-MNQF-0011",
       "timestamp": "2026-07-13T14:55:00Z",
       "date": "2026-07-13",
       "instrument": "MNQ=F",
@@ -452,7 +268,7 @@
       "exit_time": "2026-07-13 16:00 ET"
     },
     {
-      "id": "trade-NQF-0020",
+      "id": "trade-NQF-0012",
       "timestamp": "2026-07-13T14:55:00Z",
       "date": "2026-07-13",
       "instrument": "NQ=F",
@@ -475,7 +291,7 @@
       "exit_time": "2026-07-13 16:00 ET"
     },
     {
-      "id": "trade-ESF-0021",
+      "id": "trade-ESF-0013",
       "timestamp": "2026-07-15T13:45:00Z",
       "date": "2026-07-15",
       "instrument": "ES=F",
@@ -498,7 +314,7 @@
       "exit_time": "2026-07-15 10:00 ET"
     },
     {
-      "id": "trade-ESF-0022",
+      "id": "trade-ESF-0014",
       "timestamp": "2026-07-15T13:45:00Z",
       "date": "2026-07-15",
       "instrument": "ES=F",
@@ -521,7 +337,7 @@
       "exit_time": "2026-07-15 10:00 ET"
     },
     {
-      "id": "trade-MESF-0023",
+      "id": "trade-MESF-0015",
       "timestamp": "2026-07-15T13:45:00Z",
       "date": "2026-07-15",
       "instrument": "MES=F",
@@ -544,7 +360,7 @@
       "exit_time": "2026-07-15 10:00 ET"
     },
     {
-      "id": "trade-MESF-0024",
+      "id": "trade-MESF-0016",
       "timestamp": "2026-07-15T13:45:00Z",
       "date": "2026-07-15",
       "instrument": "MES=F",
@@ -567,7 +383,7 @@
       "exit_time": "2026-07-15 10:00 ET"
     },
     {
-      "id": "trade-ESF-0025",
+      "id": "trade-ESF-0017",
       "timestamp": "2026-07-15T14:35:00Z",
       "date": "2026-07-15",
       "instrument": "ES=F",
@@ -590,7 +406,7 @@
       "exit_time": "2026-07-15 13:45 ET"
     },
     {
-      "id": "trade-ESF-0026",
+      "id": "trade-ESF-0018",
       "timestamp": "2026-07-15T14:35:00Z",
       "date": "2026-07-15",
       "instrument": "ES=F",
@@ -613,7 +429,7 @@
       "exit_time": "2026-07-15 13:45 ET"
     },
     {
-      "id": "trade-MESF-0027",
+      "id": "trade-MESF-0019",
       "timestamp": "2026-07-15T14:35:00Z",
       "date": "2026-07-15",
       "instrument": "MES=F",
@@ -636,7 +452,7 @@
       "exit_time": "2026-07-15 13:45 ET"
     },
     {
-      "id": "trade-MESF-0028",
+      "id": "trade-MESF-0020",
       "timestamp": "2026-07-15T14:35:00Z",
       "date": "2026-07-15",
       "instrument": "MES=F",
@@ -659,7 +475,7 @@
       "exit_time": "2026-07-15 13:45 ET"
     },
     {
-      "id": "trade-ESF-0029",
+      "id": "trade-ESF-0021",
       "timestamp": "2026-07-16T13:40:00Z",
       "date": "2026-07-16",
       "instrument": "ES=F",
@@ -682,7 +498,7 @@
       "exit_time": "2026-07-16 09:45 ET"
     },
     {
-      "id": "trade-ESF-0030",
+      "id": "trade-ESF-0022",
       "timestamp": "2026-07-16T13:40:00Z",
       "date": "2026-07-16",
       "instrument": "ES=F",
@@ -705,7 +521,7 @@
       "exit_time": "2026-07-16 09:45 ET"
     },
     {
-      "id": "trade-MESF-0031",
+      "id": "trade-MESF-0023",
       "timestamp": "2026-07-16T13:40:00Z",
       "date": "2026-07-16",
       "instrument": "MES=F",
@@ -728,7 +544,7 @@
       "exit_time": "2026-07-16 09:45 ET"
     },
     {
-      "id": "trade-MESF-0032",
+      "id": "trade-MESF-0024",
       "timestamp": "2026-07-16T13:50:00Z",
       "date": "2026-07-16",
       "instrument": "MES=F",
@@ -751,7 +567,7 @@
       "exit_time": "2026-07-16 10:05 ET"
     },
     {
-      "id": "trade-ESF-0033",
+      "id": "trade-ESF-0025",
       "timestamp": "2026-07-16T14:05:00Z",
       "date": "2026-07-16",
       "instrument": "ES=F",
@@ -774,7 +590,7 @@
       "exit_time": "2026-07-16 12:25 ET"
     },
     {
-      "id": "trade-MESF-0034",
+      "id": "trade-MESF-0026",
       "timestamp": "2026-07-16T14:05:00Z",
       "date": "2026-07-16",
       "instrument": "MES=F",
@@ -797,7 +613,7 @@
       "exit_time": "2026-07-16 12:25 ET"
     },
     {
-      "id": "trade-ESF-0035",
+      "id": "trade-ESF-0027",
       "timestamp": "2026-07-17T13:45:00Z",
       "date": "2026-07-17",
       "instrument": "ES=F",
@@ -820,7 +636,7 @@
       "exit_time": "2026-07-17 14:40 ET"
     },
     {
-      "id": "trade-MESF-0036",
+      "id": "trade-MESF-0028",
       "timestamp": "2026-07-17T13:45:00Z",
       "date": "2026-07-17",
       "instrument": "MES=F",
@@ -843,7 +659,7 @@
       "exit_time": "2026-07-17 14:40 ET"
     },
     {
-      "id": "trade-ESF-0037",
+      "id": "trade-ESF-0029",
       "timestamp": "2026-07-17T13:50:00Z",
       "date": "2026-07-17",
       "instrument": "ES=F",
@@ -866,7 +682,7 @@
       "exit_time": "2026-07-17 16:00 ET"
     },
     {
-      "id": "trade-MESF-0038",
+      "id": "trade-MESF-0030",
       "timestamp": "2026-07-17T13:50:00Z",
       "date": "2026-07-17",
       "instrument": "MES=F",
@@ -889,7 +705,7 @@
       "exit_time": "2026-07-17 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0039",
+      "id": "trade-MNQF-0031",
       "timestamp": "2026-07-17T13:55:00Z",
       "date": "2026-07-17",
       "instrument": "MNQ=F",
@@ -912,7 +728,7 @@
       "exit_time": "2026-07-17 16:00 ET"
     },
     {
-      "id": "trade-NQF-0040",
+      "id": "trade-NQF-0032",
       "timestamp": "2026-07-17T13:55:00Z",
       "date": "2026-07-17",
       "instrument": "NQ=F",
@@ -935,7 +751,7 @@
       "exit_time": "2026-07-17 16:00 ET"
     },
     {
-      "id": "trade-ESF-0041",
+      "id": "trade-ESF-0033",
       "timestamp": "2026-07-20T14:55:00Z",
       "date": "2026-07-20",
       "instrument": "ES=F",
@@ -958,7 +774,7 @@
       "exit_time": "2026-07-20 11:05 ET"
     },
     {
-      "id": "trade-MESF-0042",
+      "id": "trade-MESF-0034",
       "timestamp": "2026-07-20T14:55:00Z",
       "date": "2026-07-20",
       "instrument": "MES=F",
@@ -981,7 +797,7 @@
       "exit_time": "2026-07-20 11:05 ET"
     },
     {
-      "id": "trade-ESF-0043",
+      "id": "trade-ESF-0035",
       "timestamp": "2026-07-21T13:45:00Z",
       "date": "2026-07-21",
       "instrument": "ES=F",
@@ -1004,7 +820,7 @@
       "exit_time": "2026-07-21 16:00 ET"
     },
     {
-      "id": "trade-MESF-0044",
+      "id": "trade-MESF-0036",
       "timestamp": "2026-07-21T13:45:00Z",
       "date": "2026-07-21",
       "instrument": "MES=F",
@@ -1027,7 +843,7 @@
       "exit_time": "2026-07-21 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0045",
+      "id": "trade-MNQF-0037",
       "timestamp": "2026-07-21T14:00:00Z",
       "date": "2026-07-21",
       "instrument": "MNQ=F",
@@ -1050,7 +866,7 @@
       "exit_time": "2026-07-21 10:05 ET"
     },
     {
-      "id": "trade-NQF-0046",
+      "id": "trade-NQF-0038",
       "timestamp": "2026-07-21T14:00:00Z",
       "date": "2026-07-21",
       "instrument": "NQ=F",
@@ -1073,7 +889,7 @@
       "exit_time": "2026-07-21 10:05 ET"
     },
     {
-      "id": "trade-MNQF-0047",
+      "id": "trade-MNQF-0039",
       "timestamp": "2026-07-21T14:15:00Z",
       "date": "2026-07-21",
       "instrument": "MNQ=F",
@@ -1096,7 +912,7 @@
       "exit_time": "2026-07-21 16:00 ET"
     },
     {
-      "id": "trade-NQF-0048",
+      "id": "trade-NQF-0040",
       "timestamp": "2026-07-21T14:15:00Z",
       "date": "2026-07-21",
       "instrument": "NQ=F",
@@ -1119,7 +935,7 @@
       "exit_time": "2026-07-21 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0049",
+      "id": "trade-MNQF-0041",
       "timestamp": "2026-07-24T13:30:00Z",
       "date": "2026-07-24",
       "instrument": "MNQ=F",
@@ -1142,7 +958,7 @@
       "exit_time": "2026-07-24 09:35 ET"
     },
     {
-      "id": "trade-NQF-0050",
+      "id": "trade-NQF-0042",
       "timestamp": "2026-07-24T13:30:00Z",
       "date": "2026-07-24",
       "instrument": "NQ=F",
@@ -1165,7 +981,7 @@
       "exit_time": "2026-07-24 09:35 ET"
     },
     {
-      "id": "trade-NQF-0051",
+      "id": "trade-NQF-0043",
       "timestamp": "2026-07-24T13:30:00Z",
       "date": "2026-07-24",
       "instrument": "NQ=F",
@@ -1188,7 +1004,7 @@
       "exit_time": "2026-07-24 09:35 ET"
     },
     {
-      "id": "trade-ESF-0052",
+      "id": "trade-ESF-0044",
       "timestamp": "2026-07-24T13:40:00Z",
       "date": "2026-07-24",
       "instrument": "ES=F",
@@ -1211,7 +1027,7 @@
       "exit_time": "2026-07-24 09:45 ET"
     },
     {
-      "id": "trade-MESF-0053",
+      "id": "trade-MESF-0045",
       "timestamp": "2026-07-24T13:40:00Z",
       "date": "2026-07-24",
       "instrument": "MES=F",
@@ -1234,7 +1050,7 @@
       "exit_time": "2026-07-24 09:45 ET"
     },
     {
-      "id": "trade-ESF-0054",
+      "id": "trade-ESF-0046",
       "timestamp": "2026-07-28T14:40:00Z",
       "date": "2026-07-28",
       "instrument": "ES=F",
@@ -1257,7 +1073,7 @@
       "exit_time": "2026-07-28 16:00 ET"
     },
     {
-      "id": "trade-MESF-0055",
+      "id": "trade-MESF-0047",
       "timestamp": "2026-07-28T14:40:00Z",
       "date": "2026-07-28",
       "instrument": "MES=F",
@@ -1280,7 +1096,7 @@
       "exit_time": "2026-07-28 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0056",
+      "id": "trade-MNQF-0048",
       "timestamp": "2026-07-28T14:50:00Z",
       "date": "2026-07-28",
       "instrument": "MNQ=F",
@@ -1303,7 +1119,7 @@
       "exit_time": "2026-07-28 16:00 ET"
     },
     {
-      "id": "trade-NQF-0057",
+      "id": "trade-NQF-0049",
       "timestamp": "2026-07-28T14:50:00Z",
       "date": "2026-07-28",
       "instrument": "NQ=F",
@@ -1326,7 +1142,7 @@
       "exit_time": "2026-07-28 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0058",
+      "id": "trade-MNQF-0050",
       "timestamp": "2026-07-29T13:35:00Z",
       "date": "2026-07-29",
       "instrument": "MNQ=F",
@@ -1349,7 +1165,7 @@
       "exit_time": "2026-07-29 14:00 ET"
     },
     {
-      "id": "trade-MNQF-0059",
+      "id": "trade-MNQF-0051",
       "timestamp": "2026-07-29T13:35:00Z",
       "date": "2026-07-29",
       "instrument": "MNQ=F",
@@ -1372,7 +1188,7 @@
       "exit_time": "2026-07-29 10:25 ET"
     },
     {
-      "id": "trade-NQF-0060",
+      "id": "trade-NQF-0052",
       "timestamp": "2026-07-29T13:35:00Z",
       "date": "2026-07-29",
       "instrument": "NQ=F",
@@ -1395,7 +1211,7 @@
       "exit_time": "2026-07-29 14:00 ET"
     },
     {
-      "id": "trade-NQF-0061",
+      "id": "trade-NQF-0053",
       "timestamp": "2026-07-29T13:35:00Z",
       "date": "2026-07-29",
       "instrument": "NQ=F",
@@ -1418,7 +1234,7 @@
       "exit_time": "2026-07-29 10:25 ET"
     },
     {
-      "id": "trade-MNQF-0062",
+      "id": "trade-MNQF-0054",
       "timestamp": "2026-07-29T13:45:00Z",
       "date": "2026-07-29",
       "instrument": "MNQ=F",
@@ -1441,7 +1257,7 @@
       "exit_time": "2026-07-29 14:00 ET"
     },
     {
-      "id": "trade-NQF-0063",
+      "id": "trade-NQF-0055",
       "timestamp": "2026-07-29T13:45:00Z",
       "date": "2026-07-29",
       "instrument": "NQ=F",
@@ -1464,7 +1280,7 @@
       "exit_time": "2026-07-29 14:00 ET"
     },
     {
-      "id": "trade-ESF-0064",
+      "id": "trade-ESF-0056",
       "timestamp": "2026-07-31T13:40:00Z",
       "date": "2026-07-31",
       "instrument": "ES=F",
@@ -1487,7 +1303,7 @@
       "exit_time": "2026-07-31 15:15 ET"
     },
     {
-      "id": "trade-MESF-0065",
+      "id": "trade-MESF-0057",
       "timestamp": "2026-07-31T13:40:00Z",
       "date": "2026-07-31",
       "instrument": "MES=F",
@@ -1510,7 +1326,7 @@
       "exit_time": "2026-07-31 15:15 ET"
     },
     {
-      "id": "trade-MNQF-0066",
+      "id": "trade-MNQF-0058",
       "timestamp": "2026-07-31T13:40:00Z",
       "date": "2026-07-31",
       "instrument": "MNQ=F",
@@ -1533,7 +1349,7 @@
       "exit_time": "2026-07-31 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0067",
+      "id": "trade-MNQF-0059",
       "timestamp": "2026-07-31T13:40:00Z",
       "date": "2026-07-31",
       "instrument": "MNQ=F",
@@ -1556,7 +1372,7 @@
       "exit_time": "2026-07-31 16:00 ET"
     },
     {
-      "id": "trade-NQF-0068",
+      "id": "trade-NQF-0060",
       "timestamp": "2026-07-31T13:40:00Z",
       "date": "2026-07-31",
       "instrument": "NQ=F",
@@ -1579,7 +1395,7 @@
       "exit_time": "2026-07-31 16:00 ET"
     },
     {
-      "id": "trade-NQF-0069",
+      "id": "trade-NQF-0061",
       "timestamp": "2026-07-31T13:40:00Z",
       "date": "2026-07-31",
       "instrument": "NQ=F",
@@ -1602,7 +1418,7 @@
       "exit_time": "2026-07-31 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0070",
+      "id": "trade-MNQF-0062",
       "timestamp": "2026-08-03T13:35:00Z",
       "date": "2026-08-03",
       "instrument": "MNQ=F",
@@ -1625,7 +1441,7 @@
       "exit_time": "2026-08-03 16:00 ET"
     },
     {
-      "id": "trade-NQF-0071",
+      "id": "trade-NQF-0063",
       "timestamp": "2026-08-03T13:35:00Z",
       "date": "2026-08-03",
       "instrument": "NQ=F",
@@ -1648,7 +1464,7 @@
       "exit_time": "2026-08-03 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0072",
+      "id": "trade-MNQF-0064",
       "timestamp": "2026-08-03T13:40:00Z",
       "date": "2026-08-03",
       "instrument": "MNQ=F",
@@ -1671,7 +1487,7 @@
       "exit_time": "2026-08-03 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0073",
+      "id": "trade-MNQF-0065",
       "timestamp": "2026-08-03T13:40:00Z",
       "date": "2026-08-03",
       "instrument": "MNQ=F",
@@ -1694,7 +1510,7 @@
       "exit_time": "2026-08-03 16:00 ET"
     },
     {
-      "id": "trade-NQF-0074",
+      "id": "trade-NQF-0066",
       "timestamp": "2026-08-03T13:40:00Z",
       "date": "2026-08-03",
       "instrument": "NQ=F",
@@ -1717,7 +1533,7 @@
       "exit_time": "2026-08-03 16:00 ET"
     },
     {
-      "id": "trade-NQF-0075",
+      "id": "trade-NQF-0067",
       "timestamp": "2026-08-03T13:40:00Z",
       "date": "2026-08-03",
       "instrument": "NQ=F",
@@ -1740,7 +1556,7 @@
       "exit_time": "2026-08-03 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0076",
+      "id": "trade-MNQF-0068",
       "timestamp": "2026-08-05T14:05:00Z",
       "date": "2026-08-05",
       "instrument": "MNQ=F",
@@ -1763,7 +1579,7 @@
       "exit_time": "2026-08-05 11:15 ET"
     },
     {
-      "id": "trade-NQF-0077",
+      "id": "trade-NQF-0069",
       "timestamp": "2026-08-05T14:05:00Z",
       "date": "2026-08-05",
       "instrument": "NQ=F",
@@ -1786,7 +1602,7 @@
       "exit_time": "2026-08-05 11:15 ET"
     },
     {
-      "id": "trade-MNQF-0078",
+      "id": "trade-MNQF-0070",
       "timestamp": "2026-08-05T14:25:00Z",
       "date": "2026-08-05",
       "instrument": "MNQ=F",
@@ -1809,7 +1625,7 @@
       "exit_time": "2026-08-05 10:30 ET"
     },
     {
-      "id": "trade-NQF-0079",
+      "id": "trade-NQF-0071",
       "timestamp": "2026-08-05T14:25:00Z",
       "date": "2026-08-05",
       "instrument": "NQ=F",
@@ -1832,7 +1648,7 @@
       "exit_time": "2026-08-05 10:30 ET"
     },
     {
-      "id": "trade-ESF-0080",
+      "id": "trade-ESF-0072",
       "timestamp": "2026-08-05T14:35:00Z",
       "date": "2026-08-05",
       "instrument": "ES=F",
@@ -1855,7 +1671,7 @@
       "exit_time": "2026-08-05 10:40 ET"
     },
     {
-      "id": "trade-MESF-0081",
+      "id": "trade-MESF-0073",
       "timestamp": "2026-08-05T14:35:00Z",
       "date": "2026-08-05",
       "instrument": "MES=F",
@@ -1878,7 +1694,7 @@
       "exit_time": "2026-08-05 10:40 ET"
     },
     {
-      "id": "trade-ESF-0082",
+      "id": "trade-ESF-0074",
       "timestamp": "2026-08-05T14:40:00Z",
       "date": "2026-08-05",
       "instrument": "ES=F",
@@ -1901,7 +1717,7 @@
       "exit_time": "2026-08-05 10:50 ET"
     },
     {
-      "id": "trade-ESF-0083",
+      "id": "trade-ESF-0075",
       "timestamp": "2026-08-05T14:40:00Z",
       "date": "2026-08-05",
       "instrument": "ES=F",
@@ -1924,7 +1740,7 @@
       "exit_time": "2026-08-05 10:50 ET"
     },
     {
-      "id": "trade-MESF-0084",
+      "id": "trade-MESF-0076",
       "timestamp": "2026-08-05T14:40:00Z",
       "date": "2026-08-05",
       "instrument": "MES=F",
@@ -1947,7 +1763,7 @@
       "exit_time": "2026-08-05 15:55 ET"
     },
     {
-      "id": "trade-MESF-0085",
+      "id": "trade-MESF-0077",
       "timestamp": "2026-08-05T14:40:00Z",
       "date": "2026-08-05",
       "instrument": "MES=F",
@@ -1970,7 +1786,7 @@
       "exit_time": "2026-08-05 15:55 ET"
     },
     {
-      "id": "trade-MNQF-0086",
+      "id": "trade-MNQF-0078",
       "timestamp": "2026-08-06T13:30:00Z",
       "date": "2026-08-06",
       "instrument": "MNQ=F",
@@ -1993,7 +1809,7 @@
       "exit_time": "2026-08-06 16:00 ET"
     },
     {
-      "id": "trade-NQF-0087",
+      "id": "trade-NQF-0079",
       "timestamp": "2026-08-06T13:30:00Z",
       "date": "2026-08-06",
       "instrument": "NQ=F",
@@ -2016,7 +1832,7 @@
       "exit_time": "2026-08-06 16:00 ET"
     },
     {
-      "id": "trade-ESF-0088",
+      "id": "trade-ESF-0080",
       "timestamp": "2026-08-06T13:45:00Z",
       "date": "2026-08-06",
       "instrument": "ES=F",
@@ -2039,7 +1855,7 @@
       "exit_time": "2026-08-06 09:50 ET"
     },
     {
-      "id": "trade-ESF-0089",
+      "id": "trade-ESF-0081",
       "timestamp": "2026-08-06T13:45:00Z",
       "date": "2026-08-06",
       "instrument": "ES=F",
@@ -2062,7 +1878,7 @@
       "exit_time": "2026-08-06 09:50 ET"
     },
     {
-      "id": "trade-MESF-0090",
+      "id": "trade-MESF-0082",
       "timestamp": "2026-08-06T13:45:00Z",
       "date": "2026-08-06",
       "instrument": "MES=F",
@@ -2085,7 +1901,7 @@
       "exit_time": "2026-08-06 09:50 ET"
     },
     {
-      "id": "trade-MESF-0091",
+      "id": "trade-MESF-0083",
       "timestamp": "2026-08-06T13:45:00Z",
       "date": "2026-08-06",
       "instrument": "MES=F",
@@ -2108,7 +1924,7 @@
       "exit_time": "2026-08-06 09:50 ET"
     },
     {
-      "id": "trade-MNQF-0092",
+      "id": "trade-MNQF-0084",
       "timestamp": "2026-08-06T13:45:00Z",
       "date": "2026-08-06",
       "instrument": "MNQ=F",
@@ -2131,7 +1947,7 @@
       "exit_time": "2026-08-06 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0093",
+      "id": "trade-MNQF-0085",
       "timestamp": "2026-08-06T13:45:00Z",
       "date": "2026-08-06",
       "instrument": "MNQ=F",
@@ -2154,7 +1970,7 @@
       "exit_time": "2026-08-06 16:00 ET"
     },
     {
-      "id": "trade-NQF-0094",
+      "id": "trade-NQF-0086",
       "timestamp": "2026-08-06T13:45:00Z",
       "date": "2026-08-06",
       "instrument": "NQ=F",
@@ -2177,7 +1993,7 @@
       "exit_time": "2026-08-06 16:00 ET"
     },
     {
-      "id": "trade-NQF-0095",
+      "id": "trade-NQF-0087",
       "timestamp": "2026-08-06T13:45:00Z",
       "date": "2026-08-06",
       "instrument": "NQ=F",
@@ -2200,7 +2016,7 @@
       "exit_time": "2026-08-06 16:00 ET"
     },
     {
-      "id": "trade-ESF-0096",
+      "id": "trade-ESF-0088",
       "timestamp": "2026-08-11T13:30:00Z",
       "date": "2026-08-11",
       "instrument": "ES=F",
@@ -2223,7 +2039,7 @@
       "exit_time": "2026-08-11 13:10 ET"
     },
     {
-      "id": "trade-ESF-0097",
+      "id": "trade-ESF-0089",
       "timestamp": "2026-08-11T13:30:00Z",
       "date": "2026-08-11",
       "instrument": "ES=F",
@@ -2246,7 +2062,7 @@
       "exit_time": "2026-08-11 13:00 ET"
     },
     {
-      "id": "trade-MESF-0098",
+      "id": "trade-MESF-0090",
       "timestamp": "2026-08-11T13:30:00Z",
       "date": "2026-08-11",
       "instrument": "MES=F",
@@ -2269,7 +2085,7 @@
       "exit_time": "2026-08-11 13:10 ET"
     },
     {
-      "id": "trade-MESF-0099",
+      "id": "trade-MESF-0091",
       "timestamp": "2026-08-11T13:30:00Z",
       "date": "2026-08-11",
       "instrument": "MES=F",
@@ -2292,7 +2108,7 @@
       "exit_time": "2026-08-11 13:00 ET"
     },
     {
-      "id": "trade-ESF-0100",
+      "id": "trade-ESF-0092",
       "timestamp": "2026-08-11T13:35:00Z",
       "date": "2026-08-11",
       "instrument": "ES=F",
@@ -2315,7 +2131,7 @@
       "exit_time": "2026-08-11 16:00 ET"
     },
     {
-      "id": "trade-ESF-0101",
+      "id": "trade-ESF-0093",
       "timestamp": "2026-08-11T13:35:00Z",
       "date": "2026-08-11",
       "instrument": "ES=F",
@@ -2338,7 +2154,7 @@
       "exit_time": "2026-08-11 16:00 ET"
     },
     {
-      "id": "trade-ESF-0102",
+      "id": "trade-ESF-0094",
       "timestamp": "2026-08-11T13:35:00Z",
       "date": "2026-08-11",
       "instrument": "ES=F",
@@ -2361,7 +2177,7 @@
       "exit_time": "2026-08-11 16:00 ET"
     },
     {
-      "id": "trade-MESF-0103",
+      "id": "trade-MESF-0095",
       "timestamp": "2026-08-11T13:35:00Z",
       "date": "2026-08-11",
       "instrument": "MES=F",
@@ -2384,7 +2200,7 @@
       "exit_time": "2026-08-11 16:00 ET"
     },
     {
-      "id": "trade-MESF-0104",
+      "id": "trade-MESF-0096",
       "timestamp": "2026-08-11T13:35:00Z",
       "date": "2026-08-11",
       "instrument": "MES=F",
@@ -2407,7 +2223,7 @@
       "exit_time": "2026-08-11 16:00 ET"
     },
     {
-      "id": "trade-MESF-0105",
+      "id": "trade-MESF-0097",
       "timestamp": "2026-08-11T13:35:00Z",
       "date": "2026-08-11",
       "instrument": "MES=F",
@@ -2430,7 +2246,7 @@
       "exit_time": "2026-08-11 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0106",
+      "id": "trade-MNQF-0098",
       "timestamp": "2026-08-11T14:05:00Z",
       "date": "2026-08-11",
       "instrument": "MNQ=F",
@@ -2453,7 +2269,7 @@
       "exit_time": "2026-08-11 10:10 ET"
     },
     {
-      "id": "trade-MNQF-0107",
+      "id": "trade-MNQF-0099",
       "timestamp": "2026-08-11T14:05:00Z",
       "date": "2026-08-11",
       "instrument": "MNQ=F",
@@ -2476,7 +2292,7 @@
       "exit_time": "2026-08-11 10:30 ET"
     },
     {
-      "id": "trade-NQF-0108",
+      "id": "trade-NQF-0100",
       "timestamp": "2026-08-11T14:05:00Z",
       "date": "2026-08-11",
       "instrument": "NQ=F",
@@ -2499,7 +2315,7 @@
       "exit_time": "2026-08-11 10:10 ET"
     },
     {
-      "id": "trade-NQF-0109",
+      "id": "trade-NQF-0101",
       "timestamp": "2026-08-11T14:05:00Z",
       "date": "2026-08-11",
       "instrument": "NQ=F",
@@ -2522,7 +2338,7 @@
       "exit_time": "2026-08-11 10:30 ET"
     },
     {
-      "id": "trade-MNQF-0110",
+      "id": "trade-MNQF-0102",
       "timestamp": "2026-08-14T13:30:00Z",
       "date": "2026-08-14",
       "instrument": "MNQ=F",
@@ -2545,7 +2361,7 @@
       "exit_time": "2026-08-14 09:40 ET"
     },
     {
-      "id": "trade-NQF-0111",
+      "id": "trade-NQF-0103",
       "timestamp": "2026-08-14T13:30:00Z",
       "date": "2026-08-14",
       "instrument": "NQ=F",
@@ -2568,7 +2384,7 @@
       "exit_time": "2026-08-14 09:40 ET"
     },
     {
-      "id": "trade-MNQF-0112",
+      "id": "trade-MNQF-0104",
       "timestamp": "2026-08-14T13:35:00Z",
       "date": "2026-08-14",
       "instrument": "MNQ=F",
@@ -2591,7 +2407,7 @@
       "exit_time": "2026-08-14 09:45 ET"
     },
     {
-      "id": "trade-MNQF-0113",
+      "id": "trade-MNQF-0105",
       "timestamp": "2026-08-14T13:35:00Z",
       "date": "2026-08-14",
       "instrument": "MNQ=F",
@@ -2614,7 +2430,7 @@
       "exit_time": "2026-08-14 09:45 ET"
     },
     {
-      "id": "trade-NQF-0114",
+      "id": "trade-NQF-0106",
       "timestamp": "2026-08-14T13:35:00Z",
       "date": "2026-08-14",
       "instrument": "NQ=F",
@@ -2637,7 +2453,7 @@
       "exit_time": "2026-08-14 09:45 ET"
     },
     {
-      "id": "trade-NQF-0115",
+      "id": "trade-NQF-0107",
       "timestamp": "2026-08-14T13:35:00Z",
       "date": "2026-08-14",
       "instrument": "NQ=F",
@@ -2660,7 +2476,7 @@
       "exit_time": "2026-08-14 09:45 ET"
     },
     {
-      "id": "trade-MESF-0116",
+      "id": "trade-MESF-0108",
       "timestamp": "2026-08-14T14:15:00Z",
       "date": "2026-08-14",
       "instrument": "MES=F",
@@ -2683,7 +2499,7 @@
       "exit_time": "2026-08-14 16:00 ET"
     },
     {
-      "id": "trade-MESF-0117",
+      "id": "trade-MESF-0109",
       "timestamp": "2026-08-14T14:15:00Z",
       "date": "2026-08-14",
       "instrument": "MES=F",
@@ -2706,7 +2522,7 @@
       "exit_time": "2026-08-14 16:00 ET"
     },
     {
-      "id": "trade-ESF-0118",
+      "id": "trade-ESF-0110",
       "timestamp": "2026-08-21T14:35:00Z",
       "date": "2026-08-21",
       "instrument": "ES=F",
@@ -2729,7 +2545,7 @@
       "exit_time": "2026-08-21 10:55 ET"
     },
     {
-      "id": "trade-ESF-0119",
+      "id": "trade-ESF-0111",
       "timestamp": "2026-08-21T14:35:00Z",
       "date": "2026-08-21",
       "instrument": "ES=F",
@@ -2752,7 +2568,7 @@
       "exit_time": "2026-08-21 10:40 ET"
     },
     {
-      "id": "trade-ESF-0120",
+      "id": "trade-ESF-0112",
       "timestamp": "2026-08-24T14:30:00Z",
       "date": "2026-08-24",
       "instrument": "ES=F",
@@ -2775,7 +2591,7 @@
       "exit_time": "2026-08-24 10:40 ET"
     },
     {
-      "id": "trade-MESF-0121",
+      "id": "trade-MESF-0113",
       "timestamp": "2026-08-24T14:30:00Z",
       "date": "2026-08-24",
       "instrument": "MES=F",
@@ -2798,7 +2614,7 @@
       "exit_time": "2026-08-24 10:35 ET"
     },
     {
-      "id": "trade-ESF-0122",
+      "id": "trade-ESF-0114",
       "timestamp": "2026-08-25T14:20:00Z",
       "date": "2026-08-25",
       "instrument": "ES=F",
@@ -2821,7 +2637,7 @@
       "exit_time": "2026-08-25 10:25 ET"
     },
     {
-      "id": "trade-MESF-0123",
+      "id": "trade-MESF-0115",
       "timestamp": "2026-08-25T14:20:00Z",
       "date": "2026-08-25",
       "instrument": "MES=F",
@@ -2844,7 +2660,7 @@
       "exit_time": "2026-08-25 10:25 ET"
     },
     {
-      "id": "trade-ESF-0124",
+      "id": "trade-ESF-0116",
       "timestamp": "2026-08-25T14:25:00Z",
       "date": "2026-08-25",
       "instrument": "ES=F",
@@ -2867,7 +2683,7 @@
       "exit_time": "2026-08-25 10:30 ET"
     },
     {
-      "id": "trade-MESF-0125",
+      "id": "trade-MESF-0117",
       "timestamp": "2026-08-25T14:25:00Z",
       "date": "2026-08-25",
       "instrument": "MES=F",
@@ -2890,7 +2706,7 @@
       "exit_time": "2026-08-25 10:30 ET"
     },
     {
-      "id": "trade-ESF-0126",
+      "id": "trade-ESF-0118",
       "timestamp": "2026-08-25T14:30:00Z",
       "date": "2026-08-25",
       "instrument": "ES=F",
@@ -2913,7 +2729,7 @@
       "exit_time": "2026-08-25 10:35 ET"
     },
     {
-      "id": "trade-MESF-0127",
+      "id": "trade-MESF-0119",
       "timestamp": "2026-08-25T14:30:00Z",
       "date": "2026-08-25",
       "instrument": "MES=F",
@@ -2936,7 +2752,7 @@
       "exit_time": "2026-08-25 10:35 ET"
     },
     {
-      "id": "trade-MNQF-0128",
+      "id": "trade-MNQF-0120",
       "timestamp": "2026-08-25T14:30:00Z",
       "date": "2026-08-25",
       "instrument": "MNQ=F",
@@ -2959,7 +2775,7 @@
       "exit_time": "2026-08-25 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0129",
+      "id": "trade-MNQF-0121",
       "timestamp": "2026-08-25T14:30:00Z",
       "date": "2026-08-25",
       "instrument": "MNQ=F",
@@ -2982,7 +2798,7 @@
       "exit_time": "2026-08-25 16:00 ET"
     },
     {
-      "id": "trade-NQF-0130",
+      "id": "trade-NQF-0122",
       "timestamp": "2026-08-25T14:30:00Z",
       "date": "2026-08-25",
       "instrument": "NQ=F",
@@ -3005,7 +2821,7 @@
       "exit_time": "2026-08-25 16:00 ET"
     },
     {
-      "id": "trade-NQF-0131",
+      "id": "trade-NQF-0123",
       "timestamp": "2026-08-25T14:30:00Z",
       "date": "2026-08-25",
       "instrument": "NQ=F",
@@ -3028,7 +2844,7 @@
       "exit_time": "2026-08-25 16:00 ET"
     },
     {
-      "id": "trade-ESF-0132",
+      "id": "trade-ESF-0124",
       "timestamp": "2026-08-26T13:45:00Z",
       "date": "2026-08-26",
       "instrument": "ES=F",
@@ -3051,7 +2867,7 @@
       "exit_time": "2026-08-26 09:50 ET"
     },
     {
-      "id": "trade-MESF-0133",
+      "id": "trade-MESF-0125",
       "timestamp": "2026-08-26T13:45:00Z",
       "date": "2026-08-26",
       "instrument": "MES=F",
@@ -3074,7 +2890,7 @@
       "exit_time": "2026-08-26 09:50 ET"
     },
     {
-      "id": "trade-MESF-0134",
+      "id": "trade-MESF-0126",
       "timestamp": "2026-08-26T14:05:00Z",
       "date": "2026-08-26",
       "instrument": "MES=F",
@@ -3097,7 +2913,7 @@
       "exit_time": "2026-08-26 10:10 ET"
     },
     {
-      "id": "trade-MNQF-0135",
+      "id": "trade-MNQF-0127",
       "timestamp": "2026-08-26T14:20:00Z",
       "date": "2026-08-26",
       "instrument": "MNQ=F",
@@ -3120,7 +2936,7 @@
       "exit_time": "2026-08-26 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0136",
+      "id": "trade-MNQF-0128",
       "timestamp": "2026-08-26T14:20:00Z",
       "date": "2026-08-26",
       "instrument": "MNQ=F",
@@ -3143,7 +2959,7 @@
       "exit_time": "2026-08-26 16:00 ET"
     },
     {
-      "id": "trade-NQF-0137",
+      "id": "trade-NQF-0129",
       "timestamp": "2026-08-26T14:20:00Z",
       "date": "2026-08-26",
       "instrument": "NQ=F",
@@ -3166,7 +2982,7 @@
       "exit_time": "2026-08-26 16:00 ET"
     },
     {
-      "id": "trade-NQF-0138",
+      "id": "trade-NQF-0130",
       "timestamp": "2026-08-26T14:20:00Z",
       "date": "2026-08-26",
       "instrument": "NQ=F",
@@ -3189,7 +3005,7 @@
       "exit_time": "2026-08-26 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0139",
+      "id": "trade-MNQF-0131",
       "timestamp": "2026-08-26T14:25:00Z",
       "date": "2026-08-26",
       "instrument": "MNQ=F",
@@ -3212,7 +3028,7 @@
       "exit_time": "2026-08-26 12:40 ET"
     },
     {
-      "id": "trade-MNQF-0140",
+      "id": "trade-MNQF-0132",
       "timestamp": "2026-08-26T14:25:00Z",
       "date": "2026-08-26",
       "instrument": "MNQ=F",
@@ -3235,7 +3051,7 @@
       "exit_time": "2026-08-26 12:40 ET"
     },
     {
-      "id": "trade-NQF-0141",
+      "id": "trade-NQF-0133",
       "timestamp": "2026-08-26T14:25:00Z",
       "date": "2026-08-26",
       "instrument": "NQ=F",
@@ -3258,7 +3074,7 @@
       "exit_time": "2026-08-26 12:40 ET"
     },
     {
-      "id": "trade-NQF-0142",
+      "id": "trade-NQF-0134",
       "timestamp": "2026-08-26T14:25:00Z",
       "date": "2026-08-26",
       "instrument": "NQ=F",
@@ -3281,7 +3097,7 @@
       "exit_time": "2026-08-26 12:40 ET"
     },
     {
-      "id": "trade-ESF-0143",
+      "id": "trade-ESF-0135",
       "timestamp": "2026-08-27T13:30:00Z",
       "date": "2026-08-27",
       "instrument": "ES=F",
@@ -3304,7 +3120,7 @@
       "exit_time": "2026-08-27 09:35 ET"
     },
     {
-      "id": "trade-MESF-0144",
+      "id": "trade-MESF-0136",
       "timestamp": "2026-08-27T13:30:00Z",
       "date": "2026-08-27",
       "instrument": "MES=F",
@@ -3327,7 +3143,7 @@
       "exit_time": "2026-08-27 09:35 ET"
     },
     {
-      "id": "trade-MNQF-0145",
+      "id": "trade-MNQF-0137",
       "timestamp": "2026-08-27T13:30:00Z",
       "date": "2026-08-27",
       "instrument": "MNQ=F",
@@ -3350,7 +3166,7 @@
       "exit_time": "2026-08-27 16:00 ET"
     },
     {
-      "id": "trade-NQF-0146",
+      "id": "trade-NQF-0138",
       "timestamp": "2026-08-27T13:30:00Z",
       "date": "2026-08-27",
       "instrument": "NQ=F",
@@ -3373,7 +3189,7 @@
       "exit_time": "2026-08-27 16:00 ET"
     },
     {
-      "id": "trade-ESF-0147",
+      "id": "trade-ESF-0139",
       "timestamp": "2026-08-27T13:40:00Z",
       "date": "2026-08-27",
       "instrument": "ES=F",
@@ -3396,7 +3212,7 @@
       "exit_time": "2026-08-27 16:00 ET"
     },
     {
-      "id": "trade-MESF-0148",
+      "id": "trade-MESF-0140",
       "timestamp": "2026-08-27T13:40:00Z",
       "date": "2026-08-27",
       "instrument": "MES=F",
@@ -3419,7 +3235,7 @@
       "exit_time": "2026-08-27 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0149",
+      "id": "trade-MNQF-0141",
       "timestamp": "2026-08-27T14:05:00Z",
       "date": "2026-08-27",
       "instrument": "MNQ=F",
@@ -3442,7 +3258,7 @@
       "exit_time": "2026-08-27 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0150",
+      "id": "trade-MNQF-0142",
       "timestamp": "2026-08-27T14:05:00Z",
       "date": "2026-08-27",
       "instrument": "MNQ=F",
@@ -3465,7 +3281,7 @@
       "exit_time": "2026-08-27 10:10 ET"
     },
     {
-      "id": "trade-NQF-0151",
+      "id": "trade-NQF-0143",
       "timestamp": "2026-08-27T14:05:00Z",
       "date": "2026-08-27",
       "instrument": "NQ=F",
@@ -3488,7 +3304,7 @@
       "exit_time": "2026-08-27 16:00 ET"
     },
     {
-      "id": "trade-NQF-0152",
+      "id": "trade-NQF-0144",
       "timestamp": "2026-08-27T14:05:00Z",
       "date": "2026-08-27",
       "instrument": "NQ=F",
@@ -3511,7 +3327,7 @@
       "exit_time": "2026-08-27 10:10 ET"
     },
     {
-      "id": "trade-MNQF-0153",
+      "id": "trade-MNQF-0145",
       "timestamp": "2026-08-27T14:15:00Z",
       "date": "2026-08-27",
       "instrument": "MNQ=F",
@@ -3534,7 +3350,7 @@
       "exit_time": "2026-08-27 16:00 ET"
     },
     {
-      "id": "trade-NQF-0154",
+      "id": "trade-NQF-0146",
       "timestamp": "2026-08-27T14:15:00Z",
       "date": "2026-08-27",
       "instrument": "NQ=F",
@@ -3557,7 +3373,7 @@
       "exit_time": "2026-08-27 16:00 ET"
     },
     {
-      "id": "trade-ESF-0155",
+      "id": "trade-ESF-0147",
       "timestamp": "2026-08-27T14:20:00Z",
       "date": "2026-08-27",
       "instrument": "ES=F",
@@ -3580,7 +3396,7 @@
       "exit_time": "2026-08-27 16:00 ET"
     },
     {
-      "id": "trade-MESF-0156",
+      "id": "trade-MESF-0148",
       "timestamp": "2026-08-27T14:20:00Z",
       "date": "2026-08-27",
       "instrument": "MES=F",
@@ -3603,7 +3419,7 @@
       "exit_time": "2026-08-27 16:00 ET"
     },
     {
-      "id": "trade-ESF-0157",
+      "id": "trade-ESF-0149",
       "timestamp": "2026-08-28T13:30:00Z",
       "date": "2026-08-28",
       "instrument": "ES=F",
@@ -3626,7 +3442,7 @@
       "exit_time": "2026-08-28 10:20 ET"
     },
     {
-      "id": "trade-MESF-0158",
+      "id": "trade-MESF-0150",
       "timestamp": "2026-08-28T13:30:00Z",
       "date": "2026-08-28",
       "instrument": "MES=F",
@@ -3649,7 +3465,7 @@
       "exit_time": "2026-08-28 10:20 ET"
     },
     {
-      "id": "trade-ESF-0159",
+      "id": "trade-ESF-0151",
       "timestamp": "2026-08-28T13:50:00Z",
       "date": "2026-08-28",
       "instrument": "ES=F",
@@ -3672,7 +3488,7 @@
       "exit_time": "2026-08-28 10:00 ET"
     },
     {
-      "id": "trade-MNQF-0160",
+      "id": "trade-MNQF-0152",
       "timestamp": "2026-08-28T13:50:00Z",
       "date": "2026-08-28",
       "instrument": "MNQ=F",
@@ -3695,7 +3511,7 @@
       "exit_time": "2026-08-28 09:55 ET"
     },
     {
-      "id": "trade-NQF-0161",
+      "id": "trade-NQF-0153",
       "timestamp": "2026-08-28T13:50:00Z",
       "date": "2026-08-28",
       "instrument": "NQ=F",
@@ -3718,7 +3534,7 @@
       "exit_time": "2026-08-28 09:55 ET"
     },
     {
-      "id": "trade-MESF-0162",
+      "id": "trade-MESF-0154",
       "timestamp": "2026-08-28T13:55:00Z",
       "date": "2026-08-28",
       "instrument": "MES=F",
@@ -3741,7 +3557,7 @@
       "exit_time": "2026-08-28 10:00 ET"
     },
     {
-      "id": "trade-MESF-0163",
+      "id": "trade-MESF-0155",
       "timestamp": "2026-08-28T13:55:00Z",
       "date": "2026-08-28",
       "instrument": "MES=F",
@@ -3764,7 +3580,7 @@
       "exit_time": "2026-08-28 10:00 ET"
     },
     {
-      "id": "trade-ESF-0164",
+      "id": "trade-ESF-0156",
       "timestamp": "2026-08-28T14:00:00Z",
       "date": "2026-08-28",
       "instrument": "ES=F",
@@ -3787,7 +3603,7 @@
       "exit_time": "2026-08-28 10:15 ET"
     },
     {
-      "id": "trade-MNQF-0165",
+      "id": "trade-MNQF-0157",
       "timestamp": "2026-08-28T14:05:00Z",
       "date": "2026-08-28",
       "instrument": "MNQ=F",
@@ -3810,7 +3626,7 @@
       "exit_time": "2026-08-28 10:20 ET"
     },
     {
-      "id": "trade-NQF-0166",
+      "id": "trade-NQF-0158",
       "timestamp": "2026-08-28T14:05:00Z",
       "date": "2026-08-28",
       "instrument": "NQ=F",
@@ -3833,7 +3649,7 @@
       "exit_time": "2026-08-28 10:20 ET"
     },
     {
-      "id": "trade-MNQF-0167",
+      "id": "trade-MNQF-0159",
       "timestamp": "2026-09-02T13:50:00Z",
       "date": "2026-09-02",
       "instrument": "MNQ=F",
@@ -3856,7 +3672,7 @@
       "exit_time": "2026-09-02 10:20 ET"
     },
     {
-      "id": "trade-MNQF-0168",
+      "id": "trade-MNQF-0160",
       "timestamp": "2026-09-02T13:50:00Z",
       "date": "2026-09-02",
       "instrument": "MNQ=F",
@@ -3879,7 +3695,7 @@
       "exit_time": "2026-09-02 09:55 ET"
     },
     {
-      "id": "trade-NQF-0169",
+      "id": "trade-NQF-0161",
       "timestamp": "2026-09-02T13:50:00Z",
       "date": "2026-09-02",
       "instrument": "NQ=F",
@@ -3902,7 +3718,7 @@
       "exit_time": "2026-09-02 10:20 ET"
     },
     {
-      "id": "trade-NQF-0170",
+      "id": "trade-NQF-0162",
       "timestamp": "2026-09-02T13:50:00Z",
       "date": "2026-09-02",
       "instrument": "NQ=F",
@@ -3925,7 +3741,7 @@
       "exit_time": "2026-09-02 09:55 ET"
     },
     {
-      "id": "trade-ESF-0171",
+      "id": "trade-ESF-0163",
       "timestamp": "2026-09-08T13:40:00Z",
       "date": "2026-09-08",
       "instrument": "ES=F",
@@ -3948,7 +3764,7 @@
       "exit_time": "2026-09-08 10:05 ET"
     },
     {
-      "id": "trade-ESF-0172",
+      "id": "trade-ESF-0164",
       "timestamp": "2026-09-08T13:40:00Z",
       "date": "2026-09-08",
       "instrument": "ES=F",
@@ -3971,7 +3787,7 @@
       "exit_time": "2026-09-08 09:45 ET"
     },
     {
-      "id": "trade-MESF-0173",
+      "id": "trade-MESF-0165",
       "timestamp": "2026-09-08T13:40:00Z",
       "date": "2026-09-08",
       "instrument": "MES=F",
@@ -3994,7 +3810,7 @@
       "exit_time": "2026-09-08 10:05 ET"
     },
     {
-      "id": "trade-MESF-0174",
+      "id": "trade-MESF-0166",
       "timestamp": "2026-09-08T13:40:00Z",
       "date": "2026-09-08",
       "instrument": "MES=F",
@@ -4017,7 +3833,7 @@
       "exit_time": "2026-09-08 09:45 ET"
     },
     {
-      "id": "trade-MNQF-0175",
+      "id": "trade-MNQF-0167",
       "timestamp": "2026-09-08T13:40:00Z",
       "date": "2026-09-08",
       "instrument": "MNQ=F",
@@ -4040,7 +3856,7 @@
       "exit_time": "2026-09-08 16:00 ET"
     },
     {
-      "id": "trade-NQF-0176",
+      "id": "trade-NQF-0168",
       "timestamp": "2026-09-08T13:40:00Z",
       "date": "2026-09-08",
       "instrument": "NQ=F",
@@ -4063,7 +3879,7 @@
       "exit_time": "2026-09-08 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0177",
+      "id": "trade-MNQF-0169",
       "timestamp": "2026-09-08T13:45:00Z",
       "date": "2026-09-08",
       "instrument": "MNQ=F",
@@ -4086,7 +3902,7 @@
       "exit_time": "2026-09-08 16:00 ET"
     },
     {
-      "id": "trade-NQF-0178",
+      "id": "trade-NQF-0170",
       "timestamp": "2026-09-08T13:45:00Z",
       "date": "2026-09-08",
       "instrument": "NQ=F",
@@ -4109,7 +3925,7 @@
       "exit_time": "2026-09-08 16:00 ET"
     },
     {
-      "id": "trade-ESF-0179",
+      "id": "trade-ESF-0171",
       "timestamp": "2026-09-08T14:00:00Z",
       "date": "2026-09-08",
       "instrument": "ES=F",
@@ -4132,7 +3948,7 @@
       "exit_time": "2026-09-08 15:55 ET"
     },
     {
-      "id": "trade-MESF-0180",
+      "id": "trade-MESF-0172",
       "timestamp": "2026-09-08T14:00:00Z",
       "date": "2026-09-08",
       "instrument": "MES=F",
@@ -4155,7 +3971,7 @@
       "exit_time": "2026-09-08 15:55 ET"
     },
     {
-      "id": "trade-ESF-0181",
+      "id": "trade-ESF-0173",
       "timestamp": "2026-09-14T13:30:00Z",
       "date": "2026-09-14",
       "instrument": "ES=F",
@@ -4178,7 +3994,7 @@
       "exit_time": "2026-09-14 09:35 ET"
     },
     {
-      "id": "trade-MNQF-0182",
+      "id": "trade-MNQF-0174",
       "timestamp": "2026-09-14T13:30:00Z",
       "date": "2026-09-14",
       "instrument": "MNQ=F",
@@ -4201,7 +4017,7 @@
       "exit_time": "2026-09-14 09:35 ET"
     },
     {
-      "id": "trade-MNQF-0183",
+      "id": "trade-MNQF-0175",
       "timestamp": "2026-09-14T13:30:00Z",
       "date": "2026-09-14",
       "instrument": "MNQ=F",
@@ -4224,7 +4040,7 @@
       "exit_time": "2026-09-14 09:35 ET"
     },
     {
-      "id": "trade-ESF-0184",
+      "id": "trade-ESF-0176",
       "timestamp": "2026-09-14T13:40:00Z",
       "date": "2026-09-14",
       "instrument": "ES=F",
@@ -4247,7 +4063,7 @@
       "exit_time": "2026-09-14 09:45 ET"
     },
     {
-      "id": "trade-ESF-0185",
+      "id": "trade-ESF-0177",
       "timestamp": "2026-09-14T13:45:00Z",
       "date": "2026-09-14",
       "instrument": "ES=F",
@@ -4270,7 +4086,7 @@
       "exit_time": "2026-09-14 10:25 ET"
     },
     {
-      "id": "trade-ESF-0186",
+      "id": "trade-ESF-0178",
       "timestamp": "2026-09-15T13:30:00Z",
       "date": "2026-09-15",
       "instrument": "ES=F",
@@ -4293,7 +4109,7 @@
       "exit_time": "2026-09-15 09:35 ET"
     },
     {
-      "id": "trade-MESF-0187",
+      "id": "trade-MESF-0179",
       "timestamp": "2026-09-15T13:30:00Z",
       "date": "2026-09-15",
       "instrument": "MES=F",
@@ -4316,7 +4132,7 @@
       "exit_time": "2026-09-15 09:35 ET"
     },
     {
-      "id": "trade-MESF-0188",
+      "id": "trade-MESF-0180",
       "timestamp": "2026-09-15T13:30:00Z",
       "date": "2026-09-15",
       "instrument": "MES=F",
@@ -4339,7 +4155,7 @@
       "exit_time": "2026-09-15 16:00 ET"
     },
     {
-      "id": "trade-MNQF-0189",
+      "id": "trade-MNQF-0181",
       "timestamp": "2026-09-15T13:30:00Z",
       "date": "2026-09-15",
       "instrument": "MNQ=F",
@@ -4362,7 +4178,7 @@
       "exit_time": "2026-09-15 09:35 ET"
     },
     {
-      "id": "trade-NQF-0190",
+      "id": "trade-NQF-0182",
       "timestamp": "2026-09-15T13:30:00Z",
       "date": "2026-09-15",
       "instrument": "NQ=F",
@@ -4385,7 +4201,7 @@
       "exit_time": "2026-09-15 09:35 ET"
     },
     {
-      "id": "trade-ESF-0191",
+      "id": "trade-ESF-0183",
       "timestamp": "2026-09-15T13:35:00Z",
       "date": "2026-09-15",
       "instrument": "ES=F",
@@ -4408,7 +4224,7 @@
       "exit_time": "2026-09-15 10:50 ET"
     },
     {
-      "id": "trade-ESF-0192",
+      "id": "trade-ESF-0184",
       "timestamp": "2026-09-15T13:35:00Z",
       "date": "2026-09-15",
       "instrument": "ES=F",
@@ -4431,7 +4247,7 @@
       "exit_time": "2026-09-15 10:50 ET"
     },
     {
-      "id": "trade-MESF-0193",
+      "id": "trade-MESF-0185",
       "timestamp": "2026-09-15T13:35:00Z",
       "date": "2026-09-15",
       "instrument": "MES=F",
@@ -4454,7 +4270,7 @@
       "exit_time": "2026-09-15 10:50 ET"
     },
     {
-      "id": "trade-MESF-0194",
+      "id": "trade-MESF-0186",
       "timestamp": "2026-09-15T13:35:00Z",
       "date": "2026-09-15",
       "instrument": "MES=F",
@@ -4477,7 +4293,7 @@
       "exit_time": "2026-09-15 10:50 ET"
     },
     {
-      "id": "trade-MNQF-0195",
+      "id": "trade-MNQF-0187",
       "timestamp": "2026-09-15T13:35:00Z",
       "date": "2026-09-15",
       "instrument": "MNQ=F",
@@ -4500,7 +4316,7 @@
       "exit_time": "2026-09-15 09:40 ET"
     },
     {
-      "id": "trade-NQF-0196",
+      "id": "trade-NQF-0188",
       "timestamp": "2026-09-15T13:35:00Z",
       "date": "2026-09-15",
       "instrument": "NQ=F",
@@ -4523,7 +4339,7 @@
       "exit_time": "2026-09-15 09:40 ET"
     },
     {
-      "id": "trade-MNQF-0197",
+      "id": "trade-MNQF-0189",
       "timestamp": "2026-09-15T14:00:00Z",
       "date": "2026-09-15",
       "instrument": "MNQ=F",
@@ -4546,7 +4362,7 @@
       "exit_time": "2026-09-15 10:05 ET"
     },
     {
-      "id": "trade-NQF-0198",
+      "id": "trade-NQF-0190",
       "timestamp": "2026-09-15T14:00:00Z",
       "date": "2026-09-15",
       "instrument": "NQ=F",
@@ -4569,7 +4385,7 @@
       "exit_time": "2026-09-15 10:05 ET"
     },
     {
-      "id": "trade-ESF-0199",
+      "id": "trade-ESF-0191",
       "timestamp": "2026-09-16T13:35:00Z",
       "date": "2026-09-16",
       "instrument": "ES=F",
@@ -4592,7 +4408,7 @@
       "exit_time": "2026-09-16 14:55 ET"
     },
     {
-      "id": "trade-ESF-0200",
+      "id": "trade-ESF-0192",
       "timestamp": "2026-09-16T13:35:00Z",
       "date": "2026-09-16",
       "instrument": "ES=F",
@@ -4615,7 +4431,7 @@
       "exit_time": "2026-09-16 14:00 ET"
     },
     {
-      "id": "trade-MESF-0201",
+      "id": "trade-MESF-0193",
       "timestamp": "2026-09-16T13:35:00Z",
       "date": "2026-09-16",
       "instrument": "MES=F",
@@ -4638,7 +4454,7 @@
       "exit_time": "2026-09-16 14:55 ET"
     },
     {
-      "id": "trade-MESF-0202",
+      "id": "trade-MESF-0194",
       "timestamp": "2026-09-16T13:35:00Z",
       "date": "2026-09-16",
       "instrument": "MES=F",
