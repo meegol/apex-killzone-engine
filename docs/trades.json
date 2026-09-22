@@ -1,7 +1,7 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-09-22T17:36:35Z",
+  "generated_at": "2026-09-22T23:28:08Z",
   "total_trades": 185,
   "instruments": [
     "ES=F",
@@ -4209,9 +4209,9 @@
       "entry_price": 7835.0,
       "stop_price": 7849.6,
       "target_price": 7776.6,
-      "exit_price": 7829.5,
+      "exit_price": 7832.5,
       "risk_pts": 14.6,
-      "realized_r": 0.377,
+      "realized_r": 0.171,
       "result": "eod_close",
       "setup": "HTF Swing High",
       "trigger": "HTF Swing High",
@@ -4221,7 +4221,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-22 09:55 ET",
-      "exit_time": "2026-09-22 13:25 ET"
+      "exit_time": "2026-09-22 16:00 ET"
     },
     {
       "id": "trade-MESF-0184",
