@@ -1,7 +1,7 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-09-25T17:53:22Z",
+  "generated_at": "2026-09-25T23:47:06Z",
   "total_trades": 185,
   "instruments": [
     "ES=F",
@@ -4232,9 +4232,9 @@
       "entry_price": 7760.5,
       "stop_price": 7740.0,
       "target_price": 7842.5,
-      "exit_price": 7802.75,
+      "exit_price": 7806.0,
       "risk_pts": 20.5,
-      "realized_r": 2.061,
+      "realized_r": 2.22,
       "result": "eod_close",
       "setup": "1H FVG",
       "trigger": "1H FVG",
@@ -4244,7 +4244,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-25 10:15 ET",
-      "exit_time": "2026-09-25 13:40 ET"
+      "exit_time": "2026-09-25 16:00 ET"
     },
     {
       "id": "trade-MESF-0185",
@@ -4255,9 +4255,9 @@
       "entry_price": 7760.5,
       "stop_price": 7740.0,
       "target_price": 7842.5,
-      "exit_price": 7802.75,
+      "exit_price": 7806.0,
       "risk_pts": 20.5,
-      "realized_r": 2.061,
+      "realized_r": 2.22,
       "result": "eod_close",
       "setup": "1H FVG",
       "trigger": "1H FVG",
@@ -4267,7 +4267,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-09-25 10:15 ET",
-      "exit_time": "2026-09-25 13:40 ET"
+      "exit_time": "2026-09-25 16:00 ET"
     }
   ]
 }
