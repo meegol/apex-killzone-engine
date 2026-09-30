@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-29 14:33:30 ET",
+  "last_updated": "2026-09-29 20:03:18 ET",
   "status": "ACTIVE",
   "execution_frequency": "Daily post-market (5:00 PM ET)",
   "target_rr": "1:4",
   "metrics": {
     "total_trades": 191,
     "win_rate": 42.9,
-    "total_r": 108.0,
-    "profit_factor": 3.45,
+    "total_r": 104.95,
+    "profit_factor": 3.38,
     "winning_trades": 82,
     "losing_trades": 109
   },
@@ -25,10 +25,10 @@
       "symbol": "ES=F",
       "trades": 45,
       "win_rate": 11.1,
-      "total_r": 23.62,
-      "profit_factor": 2.82,
+      "total_r": 22.16,
+      "profit_factor": 2.7,
       "max_drawdown": 6.74,
-      "expectancy": 0.525
+      "expectancy": 0.492
     },
     "MNQ=F": {
       "symbol": "MNQ=F",
@@ -43,10 +43,10 @@
       "symbol": "MES=F",
       "trades": 47,
       "win_rate": 12.8,
-      "total_r": 30.93,
-      "profit_factor": 3.21,
+      "total_r": 29.34,
+      "profit_factor": 3.1,
       "max_drawdown": 5.74,
-      "expectancy": 0.658
+      "expectancy": 0.624
     }
   },
   "equity_curve": [
@@ -594,607 +594,607 @@
       "trade": 91,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 49.81
+      "cumulative_r": 49.42
     },
     {
       "trade": 92,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 51.16
+      "cumulative_r": 50.38
     },
     {
       "trade": 93,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 51.87
+      "cumulative_r": 50.8
     },
     {
       "trade": 94,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 52.81
+      "cumulative_r": 51.36
     },
     {
       "trade": 95,
       "date": "2026-07-21",
       "symbol": "MNQ=F",
-      "cumulative_r": 51.81
+      "cumulative_r": 50.36
     },
     {
       "trade": 96,
       "date": "2026-07-21",
       "symbol": "MNQ=F",
-      "cumulative_r": 53.07
+      "cumulative_r": 51.62
     },
     {
       "trade": 97,
       "date": "2026-07-24",
       "symbol": "MNQ=F",
-      "cumulative_r": 53.07
+      "cumulative_r": 51.62
     },
     {
       "trade": 98,
       "date": "2026-07-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 53.57
+      "cumulative_r": 52.12
     },
     {
       "trade": 99,
       "date": "2026-07-29",
       "symbol": "MNQ=F",
-      "cumulative_r": 53.57
+      "cumulative_r": 52.12
     },
     {
       "trade": 100,
       "date": "2026-07-29",
       "symbol": "MNQ=F",
-      "cumulative_r": 53.57
+      "cumulative_r": 52.12
     },
     {
       "trade": 101,
       "date": "2026-07-29",
       "symbol": "MNQ=F",
-      "cumulative_r": 57.57
+      "cumulative_r": 56.12
     },
     {
       "trade": 102,
       "date": "2026-07-31",
       "symbol": "MNQ=F",
-      "cumulative_r": 57.74
+      "cumulative_r": 56.28
     },
     {
       "trade": 103,
       "date": "2026-07-31",
       "symbol": "MNQ=F",
-      "cumulative_r": 57.9
+      "cumulative_r": 56.44
     },
     {
       "trade": 104,
       "date": "2026-08-03",
       "symbol": "MNQ=F",
-      "cumulative_r": 60.65
+      "cumulative_r": 59.19
     },
     {
       "trade": 105,
       "date": "2026-08-03",
       "symbol": "MNQ=F",
-      "cumulative_r": 63.4
+      "cumulative_r": 61.94
     },
     {
       "trade": 106,
       "date": "2026-08-03",
       "symbol": "MNQ=F",
-      "cumulative_r": 65.38
+      "cumulative_r": 63.92
     },
     {
       "trade": 107,
       "date": "2026-08-05",
       "symbol": "MNQ=F",
-      "cumulative_r": 69.38
+      "cumulative_r": 67.92
     },
     {
       "trade": 108,
       "date": "2026-08-05",
       "symbol": "MNQ=F",
-      "cumulative_r": 69.38
+      "cumulative_r": 67.92
     },
     {
       "trade": 109,
       "date": "2026-08-06",
       "symbol": "MNQ=F",
-      "cumulative_r": 71.01
+      "cumulative_r": 69.55
     },
     {
       "trade": 110,
       "date": "2026-08-06",
       "symbol": "MNQ=F",
-      "cumulative_r": 71.09
+      "cumulative_r": 69.63
     },
     {
       "trade": 111,
       "date": "2026-08-06",
       "symbol": "MNQ=F",
-      "cumulative_r": 71.17
+      "cumulative_r": 69.71
     },
     {
       "trade": 112,
       "date": "2026-08-11",
       "symbol": "MNQ=F",
-      "cumulative_r": 71.17
+      "cumulative_r": 69.71
     },
     {
       "trade": 113,
       "date": "2026-08-11",
       "symbol": "MNQ=F",
-      "cumulative_r": 71.17
+      "cumulative_r": 69.71
     },
     {
       "trade": 114,
       "date": "2026-08-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 70.17
+      "cumulative_r": 68.71
     },
     {
       "trade": 115,
       "date": "2026-08-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 69.17
+      "cumulative_r": 67.71
     },
     {
       "trade": 116,
       "date": "2026-08-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 68.17
+      "cumulative_r": 66.71
     },
     {
       "trade": 117,
       "date": "2026-08-25",
       "symbol": "MNQ=F",
-      "cumulative_r": 68.84
+      "cumulative_r": 67.38
     },
     {
       "trade": 118,
       "date": "2026-08-25",
       "symbol": "MNQ=F",
-      "cumulative_r": 69.5
+      "cumulative_r": 68.04
     },
     {
       "trade": 119,
       "date": "2026-08-26",
       "symbol": "MNQ=F",
-      "cumulative_r": 71.7
+      "cumulative_r": 70.24
     },
     {
       "trade": 120,
       "date": "2026-08-26",
       "symbol": "MNQ=F",
-      "cumulative_r": 73.9
+      "cumulative_r": 72.44
     },
     {
       "trade": 121,
       "date": "2026-08-26",
       "symbol": "MNQ=F",
-      "cumulative_r": 73.9
+      "cumulative_r": 72.44
     },
     {
       "trade": 122,
       "date": "2026-08-26",
       "symbol": "MNQ=F",
-      "cumulative_r": 73.9
+      "cumulative_r": 72.44
     },
     {
       "trade": 123,
       "date": "2026-08-27",
       "symbol": "MNQ=F",
-      "cumulative_r": 75.85
+      "cumulative_r": 74.39
     },
     {
       "trade": 124,
       "date": "2026-08-27",
       "symbol": "MNQ=F",
-      "cumulative_r": 76.45
+      "cumulative_r": 74.99
     },
     {
       "trade": 125,
       "date": "2026-08-27",
       "symbol": "MNQ=F",
-      "cumulative_r": 77.8
+      "cumulative_r": 76.34
     },
     {
       "trade": 126,
       "date": "2026-08-27",
       "symbol": "MNQ=F",
-      "cumulative_r": 77.8
+      "cumulative_r": 76.34
     },
     {
       "trade": 127,
       "date": "2026-08-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 76.8
+      "cumulative_r": 75.34
     },
     {
       "trade": 128,
       "date": "2026-08-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 76.8
+      "cumulative_r": 75.34
     },
     {
       "trade": 129,
       "date": "2026-09-02",
       "symbol": "MNQ=F",
-      "cumulative_r": 80.8
+      "cumulative_r": 79.34
     },
     {
       "trade": 130,
       "date": "2026-09-02",
       "symbol": "MNQ=F",
-      "cumulative_r": 80.8
+      "cumulative_r": 79.34
     },
     {
       "trade": 131,
       "date": "2026-09-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 81.16
+      "cumulative_r": 79.7
     },
     {
       "trade": 132,
       "date": "2026-09-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 81.09
+      "cumulative_r": 79.63
     },
     {
       "trade": 133,
       "date": "2026-09-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 80.09
+      "cumulative_r": 78.63
     },
     {
       "trade": 134,
       "date": "2026-09-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 79.09
+      "cumulative_r": 77.63
     },
     {
       "trade": 135,
       "date": "2026-09-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 78.09
+      "cumulative_r": 76.63
     },
     {
       "trade": 136,
       "date": "2026-09-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 78.09
+      "cumulative_r": 76.63
     },
     {
       "trade": 137,
       "date": "2026-09-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 78.09
+      "cumulative_r": 76.63
     },
     {
       "trade": 138,
       "date": "2026-09-24",
       "symbol": "MNQ=F",
-      "cumulative_r": 78.09
+      "cumulative_r": 76.63
     },
     {
       "trade": 139,
       "date": "2026-09-24",
       "symbol": "MNQ=F",
-      "cumulative_r": 77.09
+      "cumulative_r": 75.63
     },
     {
       "trade": 140,
       "date": "2026-09-25",
       "symbol": "MNQ=F",
-      "cumulative_r": 77.09
+      "cumulative_r": 75.63
     },
     {
       "trade": 141,
       "date": "2026-09-25",
       "symbol": "MNQ=F",
-      "cumulative_r": 77.09
+      "cumulative_r": 75.63
     },
     {
       "trade": 142,
       "date": "2026-09-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 77.09
+      "cumulative_r": 75.63
     },
     {
       "trade": 143,
       "date": "2026-09-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 77.09
+      "cumulative_r": 75.63
     },
     {
       "trade": 144,
       "date": "2026-09-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 77.09
+      "cumulative_r": 75.63
     },
     {
       "trade": 145,
       "date": "2026-07-21",
       "symbol": "MES=F",
-      "cumulative_r": 79.24
+      "cumulative_r": 77.78
     },
     {
       "trade": 146,
       "date": "2026-07-24",
       "symbol": "MES=F",
-      "cumulative_r": 79.24
+      "cumulative_r": 77.78
     },
     {
       "trade": 147,
       "date": "2026-07-28",
       "symbol": "MES=F",
-      "cumulative_r": 80.39
+      "cumulative_r": 78.93
     },
     {
       "trade": 148,
       "date": "2026-07-31",
       "symbol": "MES=F",
-      "cumulative_r": 79.39
+      "cumulative_r": 77.93
     },
     {
       "trade": 149,
       "date": "2026-08-05",
       "symbol": "MES=F",
-      "cumulative_r": 83.39
+      "cumulative_r": 81.93
     },
     {
       "trade": 150,
       "date": "2026-08-05",
       "symbol": "MES=F",
-      "cumulative_r": 87.39
+      "cumulative_r": 85.93
     },
     {
       "trade": 151,
       "date": "2026-08-05",
       "symbol": "MES=F",
-      "cumulative_r": 87.39
+      "cumulative_r": 85.93
     },
     {
       "trade": 152,
       "date": "2026-08-06",
       "symbol": "MES=F",
-      "cumulative_r": 87.39
+      "cumulative_r": 85.93
     },
     {
       "trade": 153,
       "date": "2026-08-06",
       "symbol": "MES=F",
-      "cumulative_r": 87.39
+      "cumulative_r": 85.93
     },
     {
       "trade": 154,
       "date": "2026-08-11",
       "symbol": "MES=F",
-      "cumulative_r": 89.19
+      "cumulative_r": 87.73
     },
     {
       "trade": 155,
       "date": "2026-08-11",
       "symbol": "MES=F",
-      "cumulative_r": 90.99
+      "cumulative_r": 89.53
     },
     {
       "trade": 156,
       "date": "2026-08-11",
       "symbol": "MES=F",
-      "cumulative_r": 92.79
+      "cumulative_r": 91.33
     },
     {
       "trade": 157,
       "date": "2026-08-11",
       "symbol": "MES=F",
-      "cumulative_r": 96.79
+      "cumulative_r": 95.33
     },
     {
       "trade": 158,
       "date": "2026-08-11",
       "symbol": "MES=F",
-      "cumulative_r": 100.79
+      "cumulative_r": 99.33
     },
     {
       "trade": 159,
       "date": "2026-08-14",
       "symbol": "MES=F",
-      "cumulative_r": 102.58
+      "cumulative_r": 101.12
     },
     {
       "trade": 160,
       "date": "2026-08-14",
       "symbol": "MES=F",
-      "cumulative_r": 104.37
+      "cumulative_r": 102.91
     },
     {
       "trade": 161,
       "date": "2026-08-24",
       "symbol": "MES=F",
-      "cumulative_r": 104.37
+      "cumulative_r": 102.91
     },
     {
       "trade": 162,
       "date": "2026-08-25",
       "symbol": "MES=F",
-      "cumulative_r": 103.37
+      "cumulative_r": 101.91
     },
     {
       "trade": 163,
       "date": "2026-08-25",
       "symbol": "MES=F",
-      "cumulative_r": 102.37
+      "cumulative_r": 100.91
     },
     {
       "trade": 164,
       "date": "2026-08-25",
       "symbol": "MES=F",
-      "cumulative_r": 102.37
+      "cumulative_r": 100.91
     },
     {
       "trade": 165,
       "date": "2026-08-26",
       "symbol": "MES=F",
-      "cumulative_r": 101.37
+      "cumulative_r": 99.91
     },
     {
       "trade": 166,
       "date": "2026-08-26",
       "symbol": "MES=F",
-      "cumulative_r": 101.37
+      "cumulative_r": 99.91
     },
     {
       "trade": 167,
       "date": "2026-08-27",
       "symbol": "MES=F",
-      "cumulative_r": 101.37
+      "cumulative_r": 99.91
     },
     {
       "trade": 168,
       "date": "2026-08-27",
       "symbol": "MES=F",
-      "cumulative_r": 102.05
+      "cumulative_r": 100.59
     },
     {
       "trade": 169,
       "date": "2026-08-27",
       "symbol": "MES=F",
-      "cumulative_r": 102.63
+      "cumulative_r": 101.17
     },
     {
       "trade": 170,
       "date": "2026-08-28",
       "symbol": "MES=F",
-      "cumulative_r": 102.63
+      "cumulative_r": 101.17
     },
     {
       "trade": 171,
       "date": "2026-08-28",
       "symbol": "MES=F",
-      "cumulative_r": 101.63
+      "cumulative_r": 100.17
     },
     {
       "trade": 172,
       "date": "2026-08-28",
       "symbol": "MES=F",
-      "cumulative_r": 100.63
+      "cumulative_r": 99.17
     },
     {
       "trade": 173,
       "date": "2026-09-08",
       "symbol": "MES=F",
-      "cumulative_r": 99.63
+      "cumulative_r": 98.17
     },
     {
       "trade": 174,
       "date": "2026-09-08",
       "symbol": "MES=F",
-      "cumulative_r": 99.63
+      "cumulative_r": 98.17
     },
     {
       "trade": 175,
       "date": "2026-09-08",
       "symbol": "MES=F",
-      "cumulative_r": 98.63
+      "cumulative_r": 97.17
     },
     {
       "trade": 176,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 102.63
+      "cumulative_r": 101.17
     },
     {
       "trade": 177,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 106.63
+      "cumulative_r": 105.17
     },
     {
       "trade": 178,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 105.63
+      "cumulative_r": 104.17
     },
     {
       "trade": 179,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 106.15
+      "cumulative_r": 104.69
     },
     {
       "trade": 180,
       "date": "2026-09-16",
       "symbol": "MES=F",
-      "cumulative_r": 105.15
+      "cumulative_r": 103.69
     },
     {
       "trade": 181,
       "date": "2026-09-16",
       "symbol": "MES=F",
-      "cumulative_r": 105.15
+      "cumulative_r": 103.69
     },
     {
       "trade": 182,
       "date": "2026-09-22",
       "symbol": "MES=F",
-      "cumulative_r": 105.32
+      "cumulative_r": 103.86
     },
     {
       "trade": 183,
       "date": "2026-09-22",
       "symbol": "MES=F",
-      "cumulative_r": 104.32
+      "cumulative_r": 102.86
     },
     {
       "trade": 184,
       "date": "2026-09-22",
       "symbol": "MES=F",
-      "cumulative_r": 103.32
+      "cumulative_r": 101.86
     },
     {
       "trade": 185,
       "date": "2026-09-25",
       "symbol": "MES=F",
-      "cumulative_r": 102.32
+      "cumulative_r": 100.86
     },
     {
       "trade": 186,
       "date": "2026-09-25",
       "symbol": "MES=F",
-      "cumulative_r": 101.32
+      "cumulative_r": 99.86
     },
     {
       "trade": 187,
       "date": "2026-09-25",
       "symbol": "MES=F",
-      "cumulative_r": 103.54
+      "cumulative_r": 102.08
     },
     {
       "trade": 188,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 104.92
+      "cumulative_r": 103.03
     },
     {
       "trade": 189,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 106.3
+      "cumulative_r": 103.98
     },
     {
       "trade": 190,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 107.05
+      "cumulative_r": 104.42
     },
     {
       "trade": 191,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 108.05
+      "cumulative_r": 105.0
     }
   ],
   "recent_feed": [
@@ -1202,20 +1202,20 @@
       "id": 191,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:30 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "MES=F",
       "direction": "SHORT",
       "entry": 7743.25,
-      "exit": 7730.75,
+      "exit": 7736.0,
       "sl": 7755.75,
       "tp": 7693.25,
       "risk_pts": 12.5,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 1.0,
+      "pnl_r": 0.58,
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 108.05,
+      "cumulative_r": 105.0,
       "bars": [
         {
           "time": 1790686800,
@@ -1800,7 +1800,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7730.75
+          "close": 7727.75
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.25
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7741.75,
+          "low": 7734.75,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.0
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.5,
+          "close": 7737.0
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.5,
+          "low": 7735.75,
+          "close": 7735.75
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.5,
+          "low": 7733.0,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.25,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7728.75,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.0,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.5
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.25
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.75
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.5,
+          "low": 7732.0,
+          "close": 7736.0
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.25,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7736.0,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.5
         }
       ]
     },
@@ -1808,20 +2015,20 @@
       "id": 190,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:30 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "MES=F",
       "direction": "SHORT",
       "entry": 7743.25,
-      "exit": 7730.75,
+      "exit": 7736.0,
       "sl": 7759.88,
       "tp": 7676.75,
       "risk_pts": 16.62,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 0.752,
+      "pnl_r": 0.436,
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 107.05,
+      "cumulative_r": 104.42,
       "bars": [
         {
           "time": 1790686800,
@@ -2406,7 +2613,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7730.75
+          "close": 7727.75
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.25
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7741.75,
+          "low": 7734.75,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.0
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.5,
+          "close": 7737.0
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.5,
+          "low": 7735.75,
+          "close": 7735.75
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.5,
+          "low": 7733.0,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.25,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7728.75,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.0,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.5
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.25
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.75
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.5,
+          "low": 7732.0,
+          "close": 7736.0
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.25,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7736.0,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.5
         }
       ]
     },
@@ -2414,20 +2828,20 @@
       "id": 189,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:35 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "MES=F",
       "direction": "SHORT",
       "entry": 7747.75,
-      "exit": 7730.75,
+      "exit": 7736.0,
       "sl": 7760.1,
       "tp": 7698.35,
       "risk_pts": 12.35,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 1.377,
+      "pnl_r": 0.951,
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 106.3,
+      "cumulative_r": 103.98,
       "bars": [
         {
           "time": 1790686800,
@@ -3012,7 +3426,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7730.75
+          "close": 7727.75
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.25
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7741.75,
+          "low": 7734.75,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.0
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.5,
+          "close": 7737.0
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.5,
+          "low": 7735.75,
+          "close": 7735.75
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.5,
+          "low": 7733.0,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.25,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7728.75,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.0,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.5
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.25
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.75
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.5,
+          "low": 7732.0,
+          "close": 7736.0
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.25,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7736.0,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.5
         }
       ]
     },
@@ -3020,20 +3641,20 @@
       "id": 188,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:35 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "MES=F",
       "direction": "SHORT",
       "entry": 7747.75,
-      "exit": 7730.75,
+      "exit": 7736.0,
       "sl": 7760.1,
       "tp": 7698.35,
       "risk_pts": 12.35,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 1.377,
+      "pnl_r": 0.951,
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 104.92,
+      "cumulative_r": 103.03,
       "bars": [
         {
           "time": 1790686800,
@@ -3618,7 +4239,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7730.75
+          "close": 7727.75
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.25
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7741.75,
+          "low": 7734.75,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.0
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.5,
+          "close": 7737.0
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.5,
+          "low": 7735.75,
+          "close": 7735.75
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.5,
+          "low": 7733.0,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.25,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7728.75,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.0,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.5
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.25
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.75
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.5,
+          "low": 7732.0,
+          "close": 7736.0
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.25,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7736.0,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.5
         }
       ]
     },
@@ -3639,7 +4467,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 103.54,
+      "cumulative_r": 102.08,
       "bars": [
         {
           "time": 1790341200,
@@ -4452,7 +5280,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 101.32,
+      "cumulative_r": 99.86,
       "bars": [
         {
           "time": 1790341200,
@@ -5265,7 +6093,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 102.32,
+      "cumulative_r": 100.86,
       "bars": [
         {
           "time": 1790341200,
@@ -6078,7 +6906,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 103.32,
+      "cumulative_r": 101.86,
       "bars": [
         {
           "time": 1790082000,
@@ -6891,7 +7719,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 104.32,
+      "cumulative_r": 102.86,
       "bars": [
         {
           "time": 1790082000,
@@ -7704,7 +8532,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 105.32,
+      "cumulative_r": 103.86,
       "bars": [
         {
           "time": 1790082000,
@@ -8517,7 +9345,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 105.15,
+      "cumulative_r": 103.69,
       "bars": [
         {
           "time": 1789563600,
@@ -9330,7 +10158,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 105.15,
+      "cumulative_r": 103.69,
       "bars": [
         {
           "time": 1789563600,
@@ -10143,7 +10971,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 106.15,
+      "cumulative_r": 104.69,
       "bars": [
         {
           "time": 1789477200,
@@ -10956,7 +11784,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 105.63,
+      "cumulative_r": 104.17,
       "bars": [
         {
           "time": 1789477200,
@@ -11769,7 +12597,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 106.63,
+      "cumulative_r": 105.17,
       "bars": [
         {
           "time": 1789477200,
@@ -14343,16 +15171,16 @@
           "time_str": "10:10",
           "full_time": "2026-07-24 10:10 ET",
           "open": 28427.75,
-          "high": 28436.25,
-          "low": 28406.25,
-          "close": 28421.25
+          "high": 28451.25,
+          "low": 28386.0,
+          "close": 28420.75
         },
         {
           "time": 1784902500,
           "time_str": "10:15",
           "full_time": "2026-07-24 10:15 ET",
-          "open": 28393.5,
-          "high": 28395.25,
+          "open": 28421.0,
+          "high": 28432.25,
           "low": 28299.0,
           "close": 28333.75
         },
@@ -15156,16 +15984,16 @@
           "time_str": "10:10",
           "full_time": "2026-07-24 10:10 ET",
           "open": 28427.75,
-          "high": 28436.25,
-          "low": 28406.25,
-          "close": 28421.25
+          "high": 28451.25,
+          "low": 28386.0,
+          "close": 28420.75
         },
         {
           "time": 1784902500,
           "time_str": "10:15",
           "full_time": "2026-07-24 10:15 ET",
-          "open": 28393.5,
-          "high": 28395.25,
+          "open": 28421.0,
+          "high": 28432.25,
           "low": 28299.0,
           "close": 28333.75
         },
@@ -53377,16 +54205,16 @@
           "full_time": "2026-07-24 10:15 ET",
           "open": 7454.0,
           "high": 7455.75,
-          "low": 7441.25,
-          "close": 7444.5
+          "low": 7438.5,
+          "close": 7443.75
         },
         {
           "time": 1784902800,
           "time_str": "10:20",
           "full_time": "2026-07-24 10:20 ET",
-          "open": 7455.25,
-          "high": 7455.25,
-          "low": 7453.0,
+          "open": 7443.75,
+          "high": 7458.5,
+          "low": 7439.75,
           "close": 7454.0
         },
         {
@@ -65924,13 +66752,13 @@
           "open": 7668.0,
           "high": 7670.0,
           "low": 7667.0,
-          "close": 7667.25
+          "close": 7669.0
         },
         {
           "time": 1787592900,
           "time_str": "13:35",
           "full_time": "2026-08-24 13:35 ET",
-          "open": 7667.0,
+          "open": 7665.5,
           "high": 7668.25,
           "low": 7665.25,
           "close": 7668.0
@@ -66156,9 +66984,9 @@
           "time_str": "15:40",
           "full_time": "2026-08-24 15:40 ET",
           "open": 7671.0,
-          "high": 7672.0,
-          "low": 7671.0,
-          "close": 7671.75
+          "high": 7672.25,
+          "low": 7670.0,
+          "close": 7671.25
         },
         {
           "time": 1787600700,
@@ -85741,20 +86569,20 @@
       "id": 91,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:35 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "ES=F",
       "direction": "SHORT",
       "entry": 7747.75,
-      "exit": 7731.5,
+      "exit": 7736.25,
       "sl": 7759.76,
       "tp": 7699.7,
       "risk_pts": 12.01,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 1.353,
+      "pnl_r": 0.957,
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 49.81,
+      "cumulative_r": 49.42,
       "bars": [
         {
           "time": 1790686800,
@@ -86339,7 +87167,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7731.5
+          "close": 7728.0
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.0
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7742.0,
+          "low": 7735.0,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.25
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7736.75,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.25,
+          "close": 7737.25
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7736.0
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.75,
+          "low": 7733.0,
+          "close": 7734.75
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.5,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7734.0
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7729.0,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.25,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.25
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.0
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.5
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.75,
+          "low": 7732.0,
+          "close": 7736.25
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.0,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.0,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7735.75,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.25
         }
       ]
     },
@@ -86347,20 +87382,20 @@
       "id": 92,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:35 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "ES=F",
       "direction": "SHORT",
       "entry": 7747.75,
-      "exit": 7731.5,
+      "exit": 7736.25,
       "sl": 7759.76,
       "tp": 7699.7,
       "risk_pts": 12.01,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 1.353,
+      "pnl_r": 0.957,
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 51.16,
+      "cumulative_r": 50.38,
       "bars": [
         {
           "time": 1790686800,
@@ -86945,7 +87980,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7731.5
+          "close": 7728.0
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.0
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7742.0,
+          "low": 7735.0,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.25
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7736.75,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.25,
+          "close": 7737.25
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7736.0
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.75,
+          "low": 7733.0,
+          "close": 7734.75
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.5,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7734.0
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7729.0,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.25,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.25
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.0
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.5
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.75,
+          "low": 7732.0,
+          "close": 7736.25
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.0,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.0,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7735.75,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.25
         }
       ]
     },
@@ -86953,20 +88195,20 @@
       "id": 93,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:30 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "ES=F",
       "direction": "SHORT",
       "entry": 7743.25,
-      "exit": 7731.5,
+      "exit": 7736.25,
       "sl": 7759.9,
       "tp": 7676.65,
       "risk_pts": 16.65,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 0.706,
+      "pnl_r": 0.42,
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 51.87,
+      "cumulative_r": 50.8,
       "bars": [
         {
           "time": 1790686800,
@@ -87551,7 +88793,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7731.5
+          "close": 7728.0
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.0
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7742.0,
+          "low": 7735.0,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.25
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7736.75,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.25,
+          "close": 7737.25
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7736.0
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.75,
+          "low": 7733.0,
+          "close": 7734.75
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.5,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7734.0
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7729.0,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.25,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.25
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.0
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.5
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.75,
+          "low": 7732.0,
+          "close": 7736.25
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.0,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.0,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7735.75,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.25
         }
       ]
     },
@@ -87559,20 +89008,20 @@
       "id": 94,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:30 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "ES=F",
       "direction": "SHORT",
       "entry": 7743.25,
-      "exit": 7731.5,
+      "exit": 7736.25,
       "sl": 7755.78,
       "tp": 7693.15,
       "risk_pts": 12.52,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 0.938,
+      "pnl_r": 0.559,
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 52.81,
+      "cumulative_r": 51.36,
       "bars": [
         {
           "time": 1790686800,
@@ -88157,7 +89606,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7731.5
+          "close": 7728.0
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.0
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7742.0,
+          "low": 7735.0,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.25
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7736.75,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.25,
+          "close": 7737.25
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7736.0
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.75,
+          "low": 7733.0,
+          "close": 7734.75
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.5,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7734.0
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7729.0,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.25,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.25
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.0
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.5
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.75,
+          "low": 7732.0,
+          "close": 7736.25
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.0,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.0,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7735.75,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.25
         }
       ]
     },
@@ -88178,7 +89834,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 51.81,
+      "cumulative_r": 50.36,
       "bars": [
         {
           "time": 1784638800,
@@ -88991,7 +90647,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 53.07,
+      "cumulative_r": 51.62,
       "bars": [
         {
           "time": 1784638800,
@@ -89804,7 +91460,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 53.07,
+      "cumulative_r": 51.62,
       "bars": [
         {
           "time": 1784898000,
@@ -89957,14 +91613,23 @@
           "open": 28333.0,
           "high": 28424.0,
           "low": 28306.0,
-          "close": 28419.75
+          "close": 28393.0
+        },
+        {
+          "time": 1784903100,
+          "time_str": "10:25",
+          "full_time": "2026-07-24 10:25 ET",
+          "open": 28393.5,
+          "high": 28408.0,
+          "low": 28362.5,
+          "close": 28391.75
         },
         {
           "time": 1784903400,
           "time_str": "10:30",
           "full_time": "2026-07-24 10:30 ET",
-          "open": 28339.0,
-          "high": 28369.5,
+          "open": 28391.5,
+          "high": 28396.25,
           "low": 28304.25,
           "close": 28306.25
         },
@@ -90608,7 +92273,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 53.57,
+      "cumulative_r": 52.12,
       "bars": [
         {
           "time": 1785243600,
@@ -91421,7 +93086,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 53.57,
+      "cumulative_r": 52.12,
       "bars": [
         {
           "time": 1785330000,
@@ -92234,7 +93899,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 53.57,
+      "cumulative_r": 52.12,
       "bars": [
         {
           "time": 1785330000,
@@ -93047,7 +94712,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 57.57,
+      "cumulative_r": 56.12,
       "bars": [
         {
           "time": 1785330000,
@@ -93860,7 +95525,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 57.74,
+      "cumulative_r": 56.28,
       "bars": [
         {
           "time": 1785502800,
@@ -94673,7 +96338,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 57.9,
+      "cumulative_r": 56.44,
       "bars": [
         {
           "time": 1785502800,
@@ -95486,7 +97151,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 60.65,
+      "cumulative_r": 59.19,
       "bars": [
         {
           "time": 1785762000,
@@ -96299,7 +97964,7 @@
       "reason": "Sweep HTF Swing Low + CISD",
       "trigger": "HTF Swing Low",
       "confirmation": "CISD",
-      "cumulative_r": 63.4,
+      "cumulative_r": 61.94,
       "bars": [
         {
           "time": 1785762000,
@@ -97112,7 +98777,7 @@
       "reason": "4H FVG Tap (bullish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 65.38,
+      "cumulative_r": 63.92,
       "bars": [
         {
           "time": 1785762000,
@@ -97925,7 +99590,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 69.38,
+      "cumulative_r": 67.92,
       "bars": [
         {
           "time": 1785934800,
@@ -98738,7 +100403,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 69.38,
+      "cumulative_r": 67.92,
       "bars": [
         {
           "time": 1785934800,
@@ -99551,7 +101216,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 71.01,
+      "cumulative_r": 69.55,
       "bars": [
         {
           "time": 1786021200,
@@ -100364,7 +102029,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 71.09,
+      "cumulative_r": 69.63,
       "bars": [
         {
           "time": 1786021200,
@@ -101177,7 +102842,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 71.17,
+      "cumulative_r": 69.71,
       "bars": [
         {
           "time": 1786021200,
@@ -101990,7 +103655,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 71.17,
+      "cumulative_r": 69.71,
       "bars": [
         {
           "time": 1786453200,
@@ -102803,7 +104468,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 71.17,
+      "cumulative_r": 69.71,
       "bars": [
         {
           "time": 1786453200,
@@ -103616,7 +105281,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 70.17,
+      "cumulative_r": 68.71,
       "bars": [
         {
           "time": 1786712400,
@@ -104429,7 +106094,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 69.17,
+      "cumulative_r": 67.71,
       "bars": [
         {
           "time": 1786712400,
@@ -105242,7 +106907,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 68.17,
+      "cumulative_r": 66.71,
       "bars": [
         {
           "time": 1786712400,
@@ -106055,7 +107720,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 68.84,
+      "cumulative_r": 67.38,
       "bars": [
         {
           "time": 1787662800,
@@ -106868,7 +108533,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 69.5,
+      "cumulative_r": 68.04,
       "bars": [
         {
           "time": 1787662800,
@@ -107681,7 +109346,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 71.7,
+      "cumulative_r": 70.24,
       "bars": [
         {
           "time": 1787749200,
@@ -108494,7 +110159,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 73.9,
+      "cumulative_r": 72.44,
       "bars": [
         {
           "time": 1787749200,
@@ -109307,7 +110972,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 73.9,
+      "cumulative_r": 72.44,
       "bars": [
         {
           "time": 1787749200,
@@ -110120,7 +111785,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 73.9,
+      "cumulative_r": 72.44,
       "bars": [
         {
           "time": 1787749200,
@@ -110933,7 +112598,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 75.85,
+      "cumulative_r": 74.39,
       "bars": [
         {
           "time": 1787835600,
@@ -111746,7 +113411,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 76.45,
+      "cumulative_r": 74.99,
       "bars": [
         {
           "time": 1787835600,
@@ -112559,7 +114224,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 77.8,
+      "cumulative_r": 76.34,
       "bars": [
         {
           "time": 1787835600,
@@ -113372,7 +115037,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 77.8,
+      "cumulative_r": 76.34,
       "bars": [
         {
           "time": 1787835600,
@@ -114185,7 +115850,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 76.8,
+      "cumulative_r": 75.34,
       "bars": [
         {
           "time": 1787922000,
@@ -114998,7 +116663,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 76.8,
+      "cumulative_r": 75.34,
       "bars": [
         {
           "time": 1787922000,
@@ -115811,7 +117476,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 80.8,
+      "cumulative_r": 79.34,
       "bars": [
         {
           "time": 1788354000,
@@ -116624,7 +118289,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 80.8,
+      "cumulative_r": 79.34,
       "bars": [
         {
           "time": 1788354000,
@@ -117437,7 +119102,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 81.16,
+      "cumulative_r": 79.7,
       "bars": [
         {
           "time": 1788872400,
@@ -118250,7 +119915,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 81.09,
+      "cumulative_r": 79.63,
       "bars": [
         {
           "time": 1788872400,
@@ -119063,7 +120728,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 80.09,
+      "cumulative_r": 78.63,
       "bars": [
         {
           "time": 1789390800,
@@ -119876,7 +121541,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 79.09,
+      "cumulative_r": 77.63,
       "bars": [
         {
           "time": 1789390800,
@@ -120689,7 +122354,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 78.09,
+      "cumulative_r": 76.63,
       "bars": [
         {
           "time": 1789477200,
@@ -121502,7 +123167,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 78.09,
+      "cumulative_r": 76.63,
       "bars": [
         {
           "time": 1789477200,
@@ -122315,7 +123980,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 78.09,
+      "cumulative_r": 76.63,
       "bars": [
         {
           "time": 1789477200,
@@ -123128,7 +124793,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 78.09,
+      "cumulative_r": 76.63,
       "bars": [
         {
           "time": 1790254800,
@@ -123941,7 +125606,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 77.09,
+      "cumulative_r": 75.63,
       "bars": [
         {
           "time": 1790254800,
@@ -124754,7 +126419,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 77.09,
+      "cumulative_r": 75.63,
       "bars": [
         {
           "time": 1790341200,
@@ -125567,7 +127232,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 77.09,
+      "cumulative_r": 75.63,
       "bars": [
         {
           "time": 1790341200,
@@ -126380,7 +128045,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 77.09,
+      "cumulative_r": 75.63,
       "bars": [
         {
           "time": 1790600400,
@@ -127193,7 +128858,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 77.09,
+      "cumulative_r": 75.63,
       "bars": [
         {
           "time": 1790600400,
@@ -128006,7 +129671,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 77.09,
+      "cumulative_r": 75.63,
       "bars": [
         {
           "time": 1790600400,
@@ -128819,7 +130484,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 79.24,
+      "cumulative_r": 77.78,
       "bars": [
         {
           "time": 1784638800,
@@ -129632,7 +131297,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 79.24,
+      "cumulative_r": 77.78,
       "bars": [
         {
           "time": 1784898000,
@@ -129792,16 +131457,16 @@
           "time_str": "10:25",
           "full_time": "2026-07-24 10:25 ET",
           "open": 7454.25,
-          "high": 7455.25,
-          "low": 7453.75,
-          "close": 7453.75
+          "high": 7456.0,
+          "low": 7448.0,
+          "close": 7450.25
         },
         {
           "time": 1784903400,
           "time_str": "10:30",
           "full_time": "2026-07-24 10:30 ET",
-          "open": 7445.25,
-          "high": 7449.25,
+          "open": 7450.25,
+          "high": 7451.0,
           "low": 7441.75,
           "close": 7441.75
         },
@@ -130445,7 +132110,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 80.39,
+      "cumulative_r": 78.93,
       "bars": [
         {
           "time": 1785243600,
@@ -131258,7 +132923,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 79.39,
+      "cumulative_r": 77.93,
       "bars": [
         {
           "time": 1785502800,
@@ -132071,7 +133736,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 83.39,
+      "cumulative_r": 81.93,
       "bars": [
         {
           "time": 1785934800,
@@ -132884,7 +134549,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 87.39,
+      "cumulative_r": 85.93,
       "bars": [
         {
           "time": 1785934800,
@@ -133697,7 +135362,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 87.39,
+      "cumulative_r": 85.93,
       "bars": [
         {
           "time": 1785934800,
@@ -134510,7 +136175,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 87.39,
+      "cumulative_r": 85.93,
       "bars": [
         {
           "time": 1786021200,
@@ -135323,7 +136988,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 87.39,
+      "cumulative_r": 85.93,
       "bars": [
         {
           "time": 1786021200,
@@ -136136,7 +137801,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 89.19,
+      "cumulative_r": 87.73,
       "bars": [
         {
           "time": 1786453200,
@@ -136949,7 +138614,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 90.99,
+      "cumulative_r": 89.53,
       "bars": [
         {
           "time": 1786453200,
@@ -137762,7 +139427,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 92.79,
+      "cumulative_r": 91.33,
       "bars": [
         {
           "time": 1786453200,
@@ -138575,7 +140240,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 96.79,
+      "cumulative_r": 95.33,
       "bars": [
         {
           "time": 1786453200,
@@ -139388,7 +141053,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 100.79,
+      "cumulative_r": 99.33,
       "bars": [
         {
           "time": 1786453200,
@@ -140201,7 +141866,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 102.58,
+      "cumulative_r": 101.12,
       "bars": [
         {
           "time": 1786712400,
@@ -141014,7 +142679,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 104.37,
+      "cumulative_r": 102.91,
       "bars": [
         {
           "time": 1786712400,
@@ -141827,7 +143492,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 104.37,
+      "cumulative_r": 102.91,
       "bars": [
         {
           "time": 1787576400,
@@ -142322,13 +143987,13 @@
           "open": 7668.0,
           "high": 7669.75,
           "low": 7666.75,
-          "close": 7667.0
+          "close": 7669.0
         },
         {
           "time": 1787592900,
           "time_str": "13:35",
           "full_time": "2026-08-24 13:35 ET",
-          "open": 7667.0,
+          "open": 7665.75,
           "high": 7668.25,
           "low": 7665.5,
           "close": 7668.0
@@ -142554,15 +144219,15 @@
           "time_str": "15:40",
           "full_time": "2026-08-24 15:40 ET",
           "open": 7671.25,
-          "high": 7671.75,
-          "low": 7671.0,
-          "close": 7671.5
+          "high": 7672.25,
+          "low": 7670.0,
+          "close": 7671.25
         },
         {
           "time": 1787600700,
           "time_str": "15:45",
           "full_time": "2026-08-24 15:45 ET",
-          "open": 7671.25,
+          "open": 7671.5,
           "high": 7672.5,
           "low": 7669.25,
           "close": 7672.0
@@ -142640,7 +144305,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 103.37,
+      "cumulative_r": 101.91,
       "bars": [
         {
           "time": 1787662800,
@@ -143453,7 +145118,7 @@
       "reason": "4H FVG Tap (bullish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 102.37,
+      "cumulative_r": 100.91,
       "bars": [
         {
           "time": 1787662800,
@@ -144266,7 +145931,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 102.37,
+      "cumulative_r": 100.91,
       "bars": [
         {
           "time": 1787662800,
@@ -145079,7 +146744,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 101.37,
+      "cumulative_r": 99.91,
       "bars": [
         {
           "time": 1787749200,
@@ -145892,7 +147557,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 101.37,
+      "cumulative_r": 99.91,
       "bars": [
         {
           "time": 1787749200,
@@ -146705,7 +148370,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 101.37,
+      "cumulative_r": 99.91,
       "bars": [
         {
           "time": 1787835600,
@@ -147518,7 +149183,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 102.05,
+      "cumulative_r": 100.59,
       "bars": [
         {
           "time": 1787835600,
@@ -148331,7 +149996,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 102.63,
+      "cumulative_r": 101.17,
       "bars": [
         {
           "time": 1787835600,
@@ -149144,7 +150809,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 102.63,
+      "cumulative_r": 101.17,
       "bars": [
         {
           "time": 1787922000,
@@ -149957,7 +151622,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 101.63,
+      "cumulative_r": 100.17,
       "bars": [
         {
           "time": 1787922000,
@@ -150770,7 +152435,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 100.63,
+      "cumulative_r": 99.17,
       "bars": [
         {
           "time": 1787922000,
@@ -151583,7 +153248,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 99.63,
+      "cumulative_r": 98.17,
       "bars": [
         {
           "time": 1788872400,
@@ -152396,7 +154061,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 99.63,
+      "cumulative_r": 98.17,
       "bars": [
         {
           "time": 1788872400,
@@ -153209,7 +154874,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 98.63,
+      "cumulative_r": 97.17,
       "bars": [
         {
           "time": 1788872400,
@@ -154022,7 +155687,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 102.63,
+      "cumulative_r": 101.17,
       "bars": [
         {
           "time": 1789477200,
@@ -154835,7 +156500,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 106.63,
+      "cumulative_r": 105.17,
       "bars": [
         {
           "time": 1789477200,
@@ -155648,7 +157313,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 105.63,
+      "cumulative_r": 104.17,
       "bars": [
         {
           "time": 1789477200,
@@ -156461,7 +158126,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 106.15,
+      "cumulative_r": 104.69,
       "bars": [
         {
           "time": 1789477200,
@@ -157274,7 +158939,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 105.15,
+      "cumulative_r": 103.69,
       "bars": [
         {
           "time": 1789563600,
@@ -158087,7 +159752,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 105.15,
+      "cumulative_r": 103.69,
       "bars": [
         {
           "time": 1789563600,
@@ -158900,7 +160565,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 105.32,
+      "cumulative_r": 103.86,
       "bars": [
         {
           "time": 1790082000,
@@ -159713,7 +161378,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 104.32,
+      "cumulative_r": 102.86,
       "bars": [
         {
           "time": 1790082000,
@@ -160526,7 +162191,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 103.32,
+      "cumulative_r": 101.86,
       "bars": [
         {
           "time": 1790082000,
@@ -161339,7 +163004,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 102.32,
+      "cumulative_r": 100.86,
       "bars": [
         {
           "time": 1790341200,
@@ -162152,7 +163817,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 101.32,
+      "cumulative_r": 99.86,
       "bars": [
         {
           "time": 1790341200,
@@ -162965,7 +164630,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 103.54,
+      "cumulative_r": 102.08,
       "bars": [
         {
           "time": 1790341200,
@@ -163765,20 +165430,20 @@
       "id": 188,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:35 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "MES=F",
       "direction": "SHORT",
       "entry": 7747.75,
-      "exit": 7730.75,
+      "exit": 7736.0,
       "sl": 7760.1,
       "tp": 7698.35,
       "risk_pts": 12.35,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 1.377,
+      "pnl_r": 0.951,
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 104.92,
+      "cumulative_r": 103.03,
       "bars": [
         {
           "time": 1790686800,
@@ -164363,7 +166028,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7730.75
+          "close": 7727.75
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.25
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7741.75,
+          "low": 7734.75,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.0
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.5,
+          "close": 7737.0
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.5,
+          "low": 7735.75,
+          "close": 7735.75
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.5,
+          "low": 7733.0,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.25,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7728.75,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.0,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.5
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.25
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.75
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.5,
+          "low": 7732.0,
+          "close": 7736.0
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.25,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7736.0,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.5
         }
       ]
     },
@@ -164371,20 +166243,20 @@
       "id": 189,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:35 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "MES=F",
       "direction": "SHORT",
       "entry": 7747.75,
-      "exit": 7730.75,
+      "exit": 7736.0,
       "sl": 7760.1,
       "tp": 7698.35,
       "risk_pts": 12.35,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 1.377,
+      "pnl_r": 0.951,
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 106.3,
+      "cumulative_r": 103.98,
       "bars": [
         {
           "time": 1790686800,
@@ -164969,7 +166841,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7730.75
+          "close": 7727.75
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.25
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7741.75,
+          "low": 7734.75,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.0
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.5,
+          "close": 7737.0
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.5,
+          "low": 7735.75,
+          "close": 7735.75
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.5,
+          "low": 7733.0,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.25,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7728.75,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.0,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.5
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.25
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.75
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.5,
+          "low": 7732.0,
+          "close": 7736.0
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.25,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7736.0,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.5
         }
       ]
     },
@@ -164977,20 +167056,20 @@
       "id": 190,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:30 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "MES=F",
       "direction": "SHORT",
       "entry": 7743.25,
-      "exit": 7730.75,
+      "exit": 7736.0,
       "sl": 7759.88,
       "tp": 7676.75,
       "risk_pts": 16.62,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 0.752,
+      "pnl_r": 0.436,
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 107.05,
+      "cumulative_r": 104.42,
       "bars": [
         {
           "time": 1790686800,
@@ -165575,7 +167654,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7730.75
+          "close": 7727.75
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.25
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7741.75,
+          "low": 7734.75,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.0
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.5,
+          "close": 7737.0
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.5,
+          "low": 7735.75,
+          "close": 7735.75
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.5,
+          "low": 7733.0,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.25,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7728.75,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.0,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.5
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.25
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.75
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.5,
+          "low": 7732.0,
+          "close": 7736.0
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.25,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7736.0,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.5
         }
       ]
     },
@@ -165583,20 +167869,20 @@
       "id": 191,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:30 ET",
-      "exit_time": "2026-09-29 14:20 ET",
+      "exit_time": "2026-09-29 16:00 ET",
       "symbol": "MES=F",
       "direction": "SHORT",
       "entry": 7743.25,
-      "exit": 7730.75,
+      "exit": 7736.0,
       "sl": 7755.75,
       "tp": 7693.25,
       "risk_pts": 12.5,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 1.0,
+      "pnl_r": 0.58,
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 108.05,
+      "cumulative_r": 105.0,
       "bars": [
         {
           "time": 1790686800,
@@ -166181,7 +168467,214 @@
           "open": 7728.0,
           "high": 7733.0,
           "low": 7726.75,
-          "close": 7730.75
+          "close": 7727.75
+        },
+        {
+          "time": 1790706300,
+          "time_str": "14:25",
+          "full_time": "2026-09-29 14:25 ET",
+          "open": 7728.0,
+          "high": 7731.0,
+          "low": 7727.0,
+          "close": 7728.25
+        },
+        {
+          "time": 1790706600,
+          "time_str": "14:30",
+          "full_time": "2026-09-29 14:30 ET",
+          "open": 7728.25,
+          "high": 7732.75,
+          "low": 7724.25,
+          "close": 7727.25
+        },
+        {
+          "time": 1790706900,
+          "time_str": "14:35",
+          "full_time": "2026-09-29 14:35 ET",
+          "open": 7727.0,
+          "high": 7738.0,
+          "low": 7726.25,
+          "close": 7737.5
+        },
+        {
+          "time": 1790707200,
+          "time_str": "14:40",
+          "full_time": "2026-09-29 14:40 ET",
+          "open": 7737.5,
+          "high": 7741.75,
+          "low": 7734.75,
+          "close": 7737.25
+        },
+        {
+          "time": 1790707500,
+          "time_str": "14:45",
+          "full_time": "2026-09-29 14:45 ET",
+          "open": 7737.25,
+          "high": 7738.5,
+          "low": 7732.5,
+          "close": 7735.0
+        },
+        {
+          "time": 1790707800,
+          "time_str": "14:50",
+          "full_time": "2026-09-29 14:50 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7733.75,
+          "close": 7734.5
+        },
+        {
+          "time": 1790708100,
+          "time_str": "14:55",
+          "full_time": "2026-09-29 14:55 ET",
+          "open": 7734.5,
+          "high": 7737.75,
+          "low": 7733.5,
+          "close": 7737.0
+        },
+        {
+          "time": 1790708400,
+          "time_str": "15:00",
+          "full_time": "2026-09-29 15:00 ET",
+          "open": 7737.25,
+          "high": 7739.25,
+          "low": 7735.75,
+          "close": 7739.0
+        },
+        {
+          "time": 1790708700,
+          "time_str": "15:05",
+          "full_time": "2026-09-29 15:05 ET",
+          "open": 7738.75,
+          "high": 7739.5,
+          "low": 7735.75,
+          "close": 7735.75
+        },
+        {
+          "time": 1790709000,
+          "time_str": "15:10",
+          "full_time": "2026-09-29 15:10 ET",
+          "open": 7735.75,
+          "high": 7737.0,
+          "low": 7731.75,
+          "close": 7732.25
+        },
+        {
+          "time": 1790709300,
+          "time_str": "15:15",
+          "full_time": "2026-09-29 15:15 ET",
+          "open": 7732.5,
+          "high": 7734.5,
+          "low": 7731.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790709600,
+          "time_str": "15:20",
+          "full_time": "2026-09-29 15:20 ET",
+          "open": 7733.75,
+          "high": 7737.0,
+          "low": 7732.25,
+          "close": 7734.5
+        },
+        {
+          "time": 1790709900,
+          "time_str": "15:25",
+          "full_time": "2026-09-29 15:25 ET",
+          "open": 7734.5,
+          "high": 7735.5,
+          "low": 7733.0,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710200,
+          "time_str": "15:30",
+          "full_time": "2026-09-29 15:30 ET",
+          "open": 7734.75,
+          "high": 7737.25,
+          "low": 7732.5,
+          "close": 7734.5
+        },
+        {
+          "time": 1790710500,
+          "time_str": "15:35",
+          "full_time": "2026-09-29 15:35 ET",
+          "open": 7734.25,
+          "high": 7735.75,
+          "low": 7733.25,
+          "close": 7733.75
+        },
+        {
+          "time": 1790710800,
+          "time_str": "15:40",
+          "full_time": "2026-09-29 15:40 ET",
+          "open": 7734.0,
+          "high": 7734.25,
+          "low": 7728.75,
+          "close": 7730.0
+        },
+        {
+          "time": 1790711100,
+          "time_str": "15:45",
+          "full_time": "2026-09-29 15:45 ET",
+          "open": 7730.0,
+          "high": 7732.5,
+          "low": 7728.0,
+          "close": 7731.5
+        },
+        {
+          "time": 1790711400,
+          "time_str": "15:50",
+          "full_time": "2026-09-29 15:50 ET",
+          "open": 7731.25,
+          "high": 7737.5,
+          "low": 7730.25,
+          "close": 7735.25
+        },
+        {
+          "time": 1790711700,
+          "time_str": "15:55",
+          "full_time": "2026-09-29 15:55 ET",
+          "open": 7735.25,
+          "high": 7735.25,
+          "low": 7727.0,
+          "close": 7732.75
+        },
+        {
+          "time": 1790712000,
+          "time_str": "16:00",
+          "full_time": "2026-09-29 16:00 ET",
+          "open": 7732.5,
+          "high": 7738.5,
+          "low": 7732.0,
+          "close": 7736.0
+        },
+        {
+          "time": 1790712300,
+          "time_str": "16:05",
+          "full_time": "2026-09-29 16:05 ET",
+          "open": 7736.25,
+          "high": 7736.25,
+          "low": 7733.75,
+          "close": 7735.0
+        },
+        {
+          "time": 1790712600,
+          "time_str": "16:10",
+          "full_time": "2026-09-29 16:10 ET",
+          "open": 7735.25,
+          "high": 7737.0,
+          "low": 7734.25,
+          "close": 7735.75
+        },
+        {
+          "time": 1790712900,
+          "time_str": "16:15",
+          "full_time": "2026-09-29 16:15 ET",
+          "open": 7736.0,
+          "high": 7736.5,
+          "low": 7734.75,
+          "close": 7736.5
         }
       ]
     }
