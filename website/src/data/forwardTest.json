@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-21 13:58:07 ET",
+  "last_updated": "2026-10-21 19:53:18 ET",
   "status": "ACTIVE",
   "execution_frequency": "Daily post-market (5:00 PM ET)",
   "target_rr": "1:4",
   "metrics": {
     "total_trades": 200,
     "win_rate": 35.5,
-    "total_r": 36.32,
-    "profit_factor": 1.53,
+    "total_r": 35.98,
+    "profit_factor": 1.52,
     "winning_trades": 71,
     "losing_trades": 129
   },
@@ -16,10 +16,10 @@
       "symbol": "NQ=F",
       "trades": 48,
       "win_rate": 4.2,
-      "total_r": 7.18,
-      "profit_factor": 1.46,
+      "total_r": 7.02,
+      "profit_factor": 1.45,
       "max_drawdown": 6.11,
-      "expectancy": 0.149
+      "expectancy": 0.146
     },
     "ES=F": {
       "symbol": "ES=F",
@@ -34,10 +34,10 @@
       "symbol": "MNQ=F",
       "trades": 48,
       "win_rate": 2.1,
-      "total_r": 5.28,
-      "profit_factor": 1.39,
+      "total_r": 5.1,
+      "profit_factor": 1.38,
       "max_drawdown": 9.18,
-      "expectancy": 0.11
+      "expectancy": 0.106
     },
     "MES=F": {
       "symbol": "MES=F",
@@ -336,919 +336,919 @@
       "trade": 48,
       "date": "2026-10-21",
       "symbol": "NQ=F",
-      "cumulative_r": 7.15
+      "cumulative_r": 7.0
     },
     {
       "trade": 49,
       "date": "2026-08-21",
       "symbol": "ES=F",
-      "cumulative_r": 11.15
+      "cumulative_r": 11.0
     },
     {
       "trade": 50,
       "date": "2026-08-21",
       "symbol": "ES=F",
-      "cumulative_r": 11.15
+      "cumulative_r": 11.0
     },
     {
       "trade": 51,
       "date": "2026-08-24",
       "symbol": "ES=F",
-      "cumulative_r": 11.15
+      "cumulative_r": 11.0
     },
     {
       "trade": 52,
       "date": "2026-08-25",
       "symbol": "ES=F",
-      "cumulative_r": 10.15
+      "cumulative_r": 10.0
     },
     {
       "trade": 53,
       "date": "2026-08-25",
       "symbol": "ES=F",
-      "cumulative_r": 9.15
+      "cumulative_r": 9.0
     },
     {
       "trade": 54,
       "date": "2026-08-25",
       "symbol": "ES=F",
-      "cumulative_r": 9.15
+      "cumulative_r": 9.0
     },
     {
       "trade": 55,
       "date": "2026-08-26",
       "symbol": "ES=F",
-      "cumulative_r": 8.15
+      "cumulative_r": 8.0
     },
     {
       "trade": 56,
       "date": "2026-08-27",
       "symbol": "ES=F",
-      "cumulative_r": 8.15
+      "cumulative_r": 8.0
     },
     {
       "trade": 57,
       "date": "2026-08-27",
       "symbol": "ES=F",
-      "cumulative_r": 8.84
+      "cumulative_r": 8.69
     },
     {
       "trade": 58,
       "date": "2026-08-27",
       "symbol": "ES=F",
-      "cumulative_r": 9.43
+      "cumulative_r": 9.28
     },
     {
       "trade": 59,
       "date": "2026-08-28",
       "symbol": "ES=F",
-      "cumulative_r": 9.43
+      "cumulative_r": 9.28
     },
     {
       "trade": 60,
       "date": "2026-08-28",
       "symbol": "ES=F",
-      "cumulative_r": 8.43
+      "cumulative_r": 8.28
     },
     {
       "trade": 61,
       "date": "2026-08-28",
       "symbol": "ES=F",
-      "cumulative_r": 8.43
+      "cumulative_r": 8.28
     },
     {
       "trade": 62,
       "date": "2026-09-08",
       "symbol": "ES=F",
-      "cumulative_r": 7.43
+      "cumulative_r": 7.28
     },
     {
       "trade": 63,
       "date": "2026-09-08",
       "symbol": "ES=F",
-      "cumulative_r": 7.43
+      "cumulative_r": 7.28
     },
     {
       "trade": 64,
       "date": "2026-09-08",
       "symbol": "ES=F",
-      "cumulative_r": 6.43
+      "cumulative_r": 6.28
     },
     {
       "trade": 65,
       "date": "2026-09-14",
       "symbol": "ES=F",
-      "cumulative_r": 5.43
+      "cumulative_r": 5.28
     },
     {
       "trade": 66,
       "date": "2026-09-14",
       "symbol": "ES=F",
-      "cumulative_r": 4.43
+      "cumulative_r": 4.28
     },
     {
       "trade": 67,
       "date": "2026-09-14",
       "symbol": "ES=F",
-      "cumulative_r": 4.43
+      "cumulative_r": 4.28
     },
     {
       "trade": 68,
       "date": "2026-09-15",
       "symbol": "ES=F",
-      "cumulative_r": 8.43
+      "cumulative_r": 8.28
     },
     {
       "trade": 69,
       "date": "2026-09-15",
       "symbol": "ES=F",
-      "cumulative_r": 12.43
+      "cumulative_r": 12.28
     },
     {
       "trade": 70,
       "date": "2026-09-15",
       "symbol": "ES=F",
-      "cumulative_r": 11.43
+      "cumulative_r": 11.28
     },
     {
       "trade": 71,
       "date": "2026-09-16",
       "symbol": "ES=F",
-      "cumulative_r": 10.43
+      "cumulative_r": 10.28
     },
     {
       "trade": 72,
       "date": "2026-09-16",
       "symbol": "ES=F",
-      "cumulative_r": 10.43
+      "cumulative_r": 10.28
     },
     {
       "trade": 73,
       "date": "2026-09-25",
       "symbol": "ES=F",
-      "cumulative_r": 9.43
+      "cumulative_r": 9.28
     },
     {
       "trade": 74,
       "date": "2026-09-25",
       "symbol": "ES=F",
-      "cumulative_r": 8.43
+      "cumulative_r": 8.28
     },
     {
       "trade": 75,
       "date": "2026-09-25",
       "symbol": "ES=F",
-      "cumulative_r": 10.69
+      "cumulative_r": 10.54
     },
     {
       "trade": 76,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 11.61
+      "cumulative_r": 11.46
     },
     {
       "trade": 77,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 12.53
+      "cumulative_r": 12.38
     },
     {
       "trade": 78,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 12.95
+      "cumulative_r": 12.8
     },
     {
       "trade": 79,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 13.51
+      "cumulative_r": 13.36
     },
     {
       "trade": 80,
       "date": "2026-10-08",
       "symbol": "ES=F",
-      "cumulative_r": 12.51
+      "cumulative_r": 12.36
     },
     {
       "trade": 81,
       "date": "2026-10-08",
       "symbol": "ES=F",
-      "cumulative_r": 11.51
+      "cumulative_r": 11.36
     },
     {
       "trade": 82,
       "date": "2026-10-08",
       "symbol": "ES=F",
-      "cumulative_r": 11.51
+      "cumulative_r": 11.36
     },
     {
       "trade": 83,
       "date": "2026-10-09",
       "symbol": "ES=F",
-      "cumulative_r": 10.51
+      "cumulative_r": 10.36
     },
     {
       "trade": 84,
       "date": "2026-10-09",
       "symbol": "ES=F",
-      "cumulative_r": 9.51
+      "cumulative_r": 9.36
     },
     {
       "trade": 85,
       "date": "2026-10-09",
       "symbol": "ES=F",
-      "cumulative_r": 8.51
+      "cumulative_r": 8.36
     },
     {
       "trade": 86,
       "date": "2026-10-13",
       "symbol": "ES=F",
-      "cumulative_r": 8.51
+      "cumulative_r": 8.36
     },
     {
       "trade": 87,
       "date": "2026-10-13",
       "symbol": "ES=F",
-      "cumulative_r": 8.51
+      "cumulative_r": 8.36
     },
     {
       "trade": 88,
       "date": "2026-10-15",
       "symbol": "ES=F",
-      "cumulative_r": 10.96
+      "cumulative_r": 10.81
     },
     {
       "trade": 89,
       "date": "2026-10-19",
       "symbol": "ES=F",
-      "cumulative_r": 9.96
+      "cumulative_r": 9.81
     },
     {
       "trade": 90,
       "date": "2026-10-19",
       "symbol": "ES=F",
-      "cumulative_r": 9.96
+      "cumulative_r": 9.81
     },
     {
       "trade": 91,
       "date": "2026-10-20",
       "symbol": "ES=F",
-      "cumulative_r": 11.03
+      "cumulative_r": 10.88
     },
     {
       "trade": 92,
       "date": "2026-10-20",
       "symbol": "ES=F",
-      "cumulative_r": 12.1
+      "cumulative_r": 11.95
     },
     {
       "trade": 93,
       "date": "2026-10-20",
       "symbol": "ES=F",
-      "cumulative_r": 13.17
+      "cumulative_r": 13.02
     },
     {
       "trade": 94,
       "date": "2026-10-20",
       "symbol": "ES=F",
-      "cumulative_r": 14.69
+      "cumulative_r": 14.54
     },
     {
       "trade": 95,
       "date": "2026-10-20",
       "symbol": "ES=F",
-      "cumulative_r": 15.92
+      "cumulative_r": 15.77
     },
     {
       "trade": 96,
       "date": "2026-10-21",
       "symbol": "ES=F",
-      "cumulative_r": 14.92
+      "cumulative_r": 14.77
     },
     {
       "trade": 97,
       "date": "2026-10-21",
       "symbol": "ES=F",
-      "cumulative_r": 18.92
+      "cumulative_r": 18.77
     },
     {
       "trade": 98,
       "date": "2026-10-21",
       "symbol": "ES=F",
-      "cumulative_r": 18.92
+      "cumulative_r": 18.77
     },
     {
       "trade": 99,
       "date": "2026-08-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 17.92
+      "cumulative_r": 17.77
     },
     {
       "trade": 100,
       "date": "2026-08-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 16.92
+      "cumulative_r": 16.77
     },
     {
       "trade": 101,
       "date": "2026-08-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 15.92
+      "cumulative_r": 15.77
     },
     {
       "trade": 102,
       "date": "2026-08-25",
       "symbol": "MNQ=F",
-      "cumulative_r": 16.59
+      "cumulative_r": 16.44
     },
     {
       "trade": 103,
       "date": "2026-08-25",
       "symbol": "MNQ=F",
-      "cumulative_r": 17.25
+      "cumulative_r": 17.1
     },
     {
       "trade": 104,
       "date": "2026-08-26",
       "symbol": "MNQ=F",
-      "cumulative_r": 19.47
+      "cumulative_r": 19.32
     },
     {
       "trade": 105,
       "date": "2026-08-26",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.68
+      "cumulative_r": 21.53
     },
     {
       "trade": 106,
       "date": "2026-08-26",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.68
+      "cumulative_r": 21.53
     },
     {
       "trade": 107,
       "date": "2026-08-26",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.68
+      "cumulative_r": 21.53
     },
     {
       "trade": 108,
       "date": "2026-08-27",
       "symbol": "MNQ=F",
-      "cumulative_r": 23.62
+      "cumulative_r": 23.47
     },
     {
       "trade": 109,
       "date": "2026-08-27",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.22
+      "cumulative_r": 24.07
     },
     {
       "trade": 110,
       "date": "2026-08-27",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.58
+      "cumulative_r": 25.43
     },
     {
       "trade": 111,
       "date": "2026-08-27",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.58
+      "cumulative_r": 25.43
     },
     {
       "trade": 112,
       "date": "2026-08-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.58
+      "cumulative_r": 24.43
     },
     {
       "trade": 113,
       "date": "2026-08-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.58
+      "cumulative_r": 24.43
     },
     {
       "trade": 114,
       "date": "2026-08-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.58
+      "cumulative_r": 24.43
     },
     {
       "trade": 115,
       "date": "2026-09-02",
       "symbol": "MNQ=F",
-      "cumulative_r": 28.58
+      "cumulative_r": 28.43
     },
     {
       "trade": 116,
       "date": "2026-09-02",
       "symbol": "MNQ=F",
-      "cumulative_r": 28.58
+      "cumulative_r": 28.43
     },
     {
       "trade": 117,
       "date": "2026-09-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 28.94
+      "cumulative_r": 28.79
     },
     {
       "trade": 118,
       "date": "2026-09-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 28.87
+      "cumulative_r": 28.72
     },
     {
       "trade": 119,
       "date": "2026-09-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 27.87
+      "cumulative_r": 27.72
     },
     {
       "trade": 120,
       "date": "2026-09-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 26.87
+      "cumulative_r": 26.72
     },
     {
       "trade": 121,
       "date": "2026-09-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.87
+      "cumulative_r": 25.72
     },
     {
       "trade": 122,
       "date": "2026-09-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.87
+      "cumulative_r": 25.72
     },
     {
       "trade": 123,
       "date": "2026-09-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.87
+      "cumulative_r": 25.72
     },
     {
       "trade": 124,
       "date": "2026-09-24",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.87
+      "cumulative_r": 25.72
     },
     {
       "trade": 125,
       "date": "2026-09-24",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.87
+      "cumulative_r": 24.72
     },
     {
       "trade": 126,
       "date": "2026-09-25",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.87
+      "cumulative_r": 24.72
     },
     {
       "trade": 127,
       "date": "2026-09-25",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.87
+      "cumulative_r": 24.72
     },
     {
       "trade": 128,
       "date": "2026-09-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.87
+      "cumulative_r": 24.72
     },
     {
       "trade": 129,
       "date": "2026-09-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.87
+      "cumulative_r": 24.72
     },
     {
       "trade": 130,
       "date": "2026-09-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.87
+      "cumulative_r": 24.72
     },
     {
       "trade": 131,
       "date": "2026-10-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 23.87
+      "cumulative_r": 23.72
     },
     {
       "trade": 132,
       "date": "2026-10-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 22.87
+      "cumulative_r": 22.72
     },
     {
       "trade": 133,
       "date": "2026-10-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.87
+      "cumulative_r": 21.72
     },
     {
       "trade": 134,
       "date": "2026-10-13",
       "symbol": "MNQ=F",
-      "cumulative_r": 22.04
+      "cumulative_r": 21.89
     },
     {
       "trade": 135,
       "date": "2026-10-13",
       "symbol": "MNQ=F",
-      "cumulative_r": 22.21
+      "cumulative_r": 22.06
     },
     {
       "trade": 136,
       "date": "2026-10-13",
       "symbol": "MNQ=F",
-      "cumulative_r": 22.21
+      "cumulative_r": 22.06
     },
     {
       "trade": 137,
       "date": "2026-10-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.21
+      "cumulative_r": 21.06
     },
     {
       "trade": 138,
       "date": "2026-10-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 20.21
+      "cumulative_r": 20.06
     },
     {
       "trade": 139,
       "date": "2026-10-19",
       "symbol": "MNQ=F",
-      "cumulative_r": 19.75
+      "cumulative_r": 19.6
     },
     {
       "trade": 140,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
-      "cumulative_r": 20.11
+      "cumulative_r": 19.96
     },
     {
       "trade": 141,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
-      "cumulative_r": 20.47
+      "cumulative_r": 20.32
     },
     {
       "trade": 142,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
-      "cumulative_r": 20.83
+      "cumulative_r": 20.68
     },
     {
       "trade": 143,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.27
+      "cumulative_r": 21.12
     },
     {
       "trade": 144,
       "date": "2026-10-21",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.27
+      "cumulative_r": 21.12
     },
     {
       "trade": 145,
       "date": "2026-10-21",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.27
+      "cumulative_r": 21.12
     },
     {
       "trade": 146,
       "date": "2026-10-21",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.2
+      "cumulative_r": 23.86
     },
     {
       "trade": 147,
       "date": "2026-08-14",
       "symbol": "MES=F",
-      "cumulative_r": 25.92
+      "cumulative_r": 25.58
     },
     {
       "trade": 148,
       "date": "2026-08-14",
       "symbol": "MES=F",
-      "cumulative_r": 27.64
+      "cumulative_r": 27.3
     },
     {
       "trade": 149,
       "date": "2026-08-24",
       "symbol": "MES=F",
-      "cumulative_r": 27.64
+      "cumulative_r": 27.3
     },
     {
       "trade": 150,
       "date": "2026-08-25",
       "symbol": "MES=F",
-      "cumulative_r": 26.64
+      "cumulative_r": 26.3
     },
     {
       "trade": 151,
       "date": "2026-08-25",
       "symbol": "MES=F",
-      "cumulative_r": 25.64
+      "cumulative_r": 25.3
     },
     {
       "trade": 152,
       "date": "2026-08-25",
       "symbol": "MES=F",
-      "cumulative_r": 25.64
+      "cumulative_r": 25.3
     },
     {
       "trade": 153,
       "date": "2026-08-26",
       "symbol": "MES=F",
-      "cumulative_r": 24.64
+      "cumulative_r": 24.3
     },
     {
       "trade": 154,
       "date": "2026-08-26",
       "symbol": "MES=F",
-      "cumulative_r": 24.64
+      "cumulative_r": 24.3
     },
     {
       "trade": 155,
       "date": "2026-08-27",
       "symbol": "MES=F",
-      "cumulative_r": 24.64
+      "cumulative_r": 24.3
     },
     {
       "trade": 156,
       "date": "2026-08-27",
       "symbol": "MES=F",
-      "cumulative_r": 25.3
+      "cumulative_r": 24.96
     },
     {
       "trade": 157,
       "date": "2026-08-27",
       "symbol": "MES=F",
-      "cumulative_r": 25.88
+      "cumulative_r": 25.54
     },
     {
       "trade": 158,
       "date": "2026-08-28",
       "symbol": "MES=F",
-      "cumulative_r": 25.88
+      "cumulative_r": 25.54
     },
     {
       "trade": 159,
       "date": "2026-08-28",
       "symbol": "MES=F",
-      "cumulative_r": 24.88
+      "cumulative_r": 24.54
     },
     {
       "trade": 160,
       "date": "2026-08-28",
       "symbol": "MES=F",
-      "cumulative_r": 23.88
+      "cumulative_r": 23.54
     },
     {
       "trade": 161,
       "date": "2026-09-08",
       "symbol": "MES=F",
-      "cumulative_r": 22.88
+      "cumulative_r": 22.54
     },
     {
       "trade": 162,
       "date": "2026-09-08",
       "symbol": "MES=F",
-      "cumulative_r": 22.88
+      "cumulative_r": 22.54
     },
     {
       "trade": 163,
       "date": "2026-09-08",
       "symbol": "MES=F",
-      "cumulative_r": 21.88
+      "cumulative_r": 21.54
     },
     {
       "trade": 164,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 25.88
+      "cumulative_r": 25.54
     },
     {
       "trade": 165,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 29.88
+      "cumulative_r": 29.54
     },
     {
       "trade": 166,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 28.88
+      "cumulative_r": 28.54
     },
     {
       "trade": 167,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 29.38
+      "cumulative_r": 29.04
     },
     {
       "trade": 168,
       "date": "2026-09-16",
       "symbol": "MES=F",
-      "cumulative_r": 28.38
+      "cumulative_r": 28.04
     },
     {
       "trade": 169,
       "date": "2026-09-16",
       "symbol": "MES=F",
-      "cumulative_r": 28.38
+      "cumulative_r": 28.04
     },
     {
       "trade": 170,
       "date": "2026-09-22",
       "symbol": "MES=F",
-      "cumulative_r": 28.57
+      "cumulative_r": 28.23
     },
     {
       "trade": 171,
       "date": "2026-09-22",
       "symbol": "MES=F",
-      "cumulative_r": 27.57
+      "cumulative_r": 27.23
     },
     {
       "trade": 172,
       "date": "2026-09-22",
       "symbol": "MES=F",
-      "cumulative_r": 26.57
+      "cumulative_r": 26.23
     },
     {
       "trade": 173,
       "date": "2026-09-25",
       "symbol": "MES=F",
-      "cumulative_r": 25.57
+      "cumulative_r": 25.23
     },
     {
       "trade": 174,
       "date": "2026-09-25",
       "symbol": "MES=F",
-      "cumulative_r": 24.57
+      "cumulative_r": 24.23
     },
     {
       "trade": 175,
       "date": "2026-09-25",
       "symbol": "MES=F",
-      "cumulative_r": 26.75
+      "cumulative_r": 26.41
     },
     {
       "trade": 176,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 27.7
+      "cumulative_r": 27.36
     },
     {
       "trade": 177,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 28.65
+      "cumulative_r": 28.31
     },
     {
       "trade": 178,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 29.09
+      "cumulative_r": 28.75
     },
     {
       "trade": 179,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 29.67
+      "cumulative_r": 29.33
     },
     {
       "trade": 180,
       "date": "2026-10-08",
       "symbol": "MES=F",
-      "cumulative_r": 29.67
+      "cumulative_r": 29.33
     },
     {
       "trade": 181,
       "date": "2026-10-08",
       "symbol": "MES=F",
-      "cumulative_r": 28.67
+      "cumulative_r": 28.33
     },
     {
       "trade": 182,
       "date": "2026-10-08",
       "symbol": "MES=F",
-      "cumulative_r": 27.67
+      "cumulative_r": 27.33
     },
     {
       "trade": 183,
       "date": "2026-10-09",
       "symbol": "MES=F",
-      "cumulative_r": 26.67
+      "cumulative_r": 26.33
     },
     {
       "trade": 184,
       "date": "2026-10-09",
       "symbol": "MES=F",
-      "cumulative_r": 25.67
+      "cumulative_r": 25.33
     },
     {
       "trade": 185,
       "date": "2026-10-09",
       "symbol": "MES=F",
-      "cumulative_r": 24.67
+      "cumulative_r": 24.33
     },
     {
       "trade": 186,
       "date": "2026-10-13",
       "symbol": "MES=F",
-      "cumulative_r": 24.67
+      "cumulative_r": 24.33
     },
     {
       "trade": 187,
       "date": "2026-10-13",
       "symbol": "MES=F",
-      "cumulative_r": 23.67
+      "cumulative_r": 23.33
     },
     {
       "trade": 188,
       "date": "2026-10-15",
       "symbol": "MES=F",
-      "cumulative_r": 25.98
+      "cumulative_r": 25.64
     },
     {
       "trade": 189,
       "date": "2026-10-15",
       "symbol": "MES=F",
-      "cumulative_r": 28.29
+      "cumulative_r": 27.95
     },
     {
       "trade": 190,
       "date": "2026-10-19",
       "symbol": "MES=F",
-      "cumulative_r": 28.29
+      "cumulative_r": 27.95
     },
     {
       "trade": 191,
       "date": "2026-10-19",
       "symbol": "MES=F",
-      "cumulative_r": 27.29
+      "cumulative_r": 26.95
     },
     {
       "trade": 192,
       "date": "2026-10-19",
       "symbol": "MES=F",
-      "cumulative_r": 27.29
+      "cumulative_r": 26.95
     },
     {
       "trade": 193,
       "date": "2026-10-20",
       "symbol": "MES=F",
-      "cumulative_r": 28.36
+      "cumulative_r": 28.02
     },
     {
       "trade": 194,
       "date": "2026-10-20",
       "symbol": "MES=F",
-      "cumulative_r": 29.43
+      "cumulative_r": 29.09
     },
     {
       "trade": 195,
       "date": "2026-10-20",
       "symbol": "MES=F",
-      "cumulative_r": 30.5
+      "cumulative_r": 30.16
     },
     {
       "trade": 196,
       "date": "2026-10-20",
       "symbol": "MES=F",
-      "cumulative_r": 32.02
+      "cumulative_r": 31.68
     },
     {
       "trade": 197,
       "date": "2026-10-20",
       "symbol": "MES=F",
-      "cumulative_r": 33.27
+      "cumulative_r": 32.93
     },
     {
       "trade": 198,
       "date": "2026-10-21",
       "symbol": "MES=F",
-      "cumulative_r": 32.27
+      "cumulative_r": 31.93
     },
     {
       "trade": 199,
       "date": "2026-10-21",
       "symbol": "MES=F",
-      "cumulative_r": 36.27
+      "cumulative_r": 35.93
     },
     {
       "trade": 200,
       "date": "2026-10-21",
       "symbol": "MES=F",
-      "cumulative_r": 36.27
+      "cumulative_r": 35.93
     }
   ],
   "recent_feed": [
@@ -1269,7 +1269,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 36.27,
+      "cumulative_r": 35.93,
       "bars": [
         {
           "time": 1792587600,
@@ -1791,7 +1791,277 @@
           "open": 7807.0,
           "high": 7808.5,
           "low": 7805.25,
-          "close": 7807.25
+          "close": 7806.5
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 7806.5,
+          "high": 7809.0,
+          "low": 7806.0,
+          "close": 7808.25
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 7808.25,
+          "high": 7808.5,
+          "low": 7804.75,
+          "close": 7805.5
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 7805.5,
+          "high": 7806.75,
+          "low": 7802.75,
+          "close": 7804.75
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 7804.5,
+          "high": 7806.5,
+          "low": 7804.0,
+          "close": 7806.25
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 7806.0,
+          "high": 7808.5,
+          "low": 7805.25,
+          "close": 7807.5
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 7807.75,
+          "high": 7811.75,
+          "low": 7807.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 7810.0,
+          "high": 7810.25,
+          "low": 7808.25,
+          "close": 7809.0
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 7809.0,
+          "high": 7811.5,
+          "low": 7808.5,
+          "close": 7809.75
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 7810.0,
+          "high": 7811.0,
+          "low": 7809.25,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 7810.25,
+          "high": 7811.0,
+          "low": 7808.0,
+          "close": 7809.75
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 7809.75,
+          "high": 7810.75,
+          "low": 7808.5,
+          "close": 7809.0
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 7809.0,
+          "high": 7809.75,
+          "low": 7798.5,
+          "close": 7798.5
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 7798.25,
+          "high": 7801.5,
+          "low": 7793.75,
+          "close": 7800.5
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 7800.25,
+          "high": 7801.25,
+          "low": 7785.5,
+          "close": 7787.75
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 7787.5,
+          "high": 7787.75,
+          "low": 7770.75,
+          "close": 7779.75
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 7779.75,
+          "high": 7785.5,
+          "low": 7775.0,
+          "close": 7779.5
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 7779.5,
+          "high": 7783.5,
+          "low": 7773.5,
+          "close": 7783.0
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 7782.25,
+          "high": 7790.25,
+          "low": 7782.25,
+          "close": 7789.0
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 7788.75,
+          "high": 7791.75,
+          "low": 7785.5,
+          "close": 7790.75
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 7790.75,
+          "high": 7800.0,
+          "low": 7790.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 7799.5,
+          "high": 7800.0,
+          "low": 7796.25,
+          "close": 7797.0
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 7797.25,
+          "high": 7799.0,
+          "low": 7795.25,
+          "close": 7796.5
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 7796.75,
+          "high": 7798.5,
+          "low": 7794.0,
+          "close": 7798.25
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 7798.25,
+          "high": 7803.5,
+          "low": 7797.5,
+          "close": 7803.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 7803.25,
+          "high": 7806.25,
+          "low": 7800.0,
+          "close": 7803.75
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 7803.75,
+          "high": 7804.75,
+          "low": 7798.25,
+          "close": 7799.0
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 7799.0,
+          "high": 7806.0,
+          "low": 7797.75,
+          "close": 7804.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 7804.5,
+          "high": 7805.5,
+          "low": 7798.0,
+          "close": 7805.0
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 7805.0,
+          "high": 7806.0,
+          "low": 7799.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 7799.25,
+          "high": 7803.25,
+          "low": 7798.5,
+          "close": 7801.75
         }
       ]
     },
@@ -1812,7 +2082,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 36.27,
+      "cumulative_r": 35.93,
       "bars": [
         {
           "time": 1792587600,
@@ -2334,7 +2604,277 @@
           "open": 7807.0,
           "high": 7808.5,
           "low": 7805.25,
-          "close": 7807.25
+          "close": 7806.5
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 7806.5,
+          "high": 7809.0,
+          "low": 7806.0,
+          "close": 7808.25
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 7808.25,
+          "high": 7808.5,
+          "low": 7804.75,
+          "close": 7805.5
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 7805.5,
+          "high": 7806.75,
+          "low": 7802.75,
+          "close": 7804.75
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 7804.5,
+          "high": 7806.5,
+          "low": 7804.0,
+          "close": 7806.25
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 7806.0,
+          "high": 7808.5,
+          "low": 7805.25,
+          "close": 7807.5
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 7807.75,
+          "high": 7811.75,
+          "low": 7807.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 7810.0,
+          "high": 7810.25,
+          "low": 7808.25,
+          "close": 7809.0
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 7809.0,
+          "high": 7811.5,
+          "low": 7808.5,
+          "close": 7809.75
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 7810.0,
+          "high": 7811.0,
+          "low": 7809.25,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 7810.25,
+          "high": 7811.0,
+          "low": 7808.0,
+          "close": 7809.75
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 7809.75,
+          "high": 7810.75,
+          "low": 7808.5,
+          "close": 7809.0
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 7809.0,
+          "high": 7809.75,
+          "low": 7798.5,
+          "close": 7798.5
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 7798.25,
+          "high": 7801.5,
+          "low": 7793.75,
+          "close": 7800.5
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 7800.25,
+          "high": 7801.25,
+          "low": 7785.5,
+          "close": 7787.75
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 7787.5,
+          "high": 7787.75,
+          "low": 7770.75,
+          "close": 7779.75
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 7779.75,
+          "high": 7785.5,
+          "low": 7775.0,
+          "close": 7779.5
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 7779.5,
+          "high": 7783.5,
+          "low": 7773.5,
+          "close": 7783.0
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 7782.25,
+          "high": 7790.25,
+          "low": 7782.25,
+          "close": 7789.0
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 7788.75,
+          "high": 7791.75,
+          "low": 7785.5,
+          "close": 7790.75
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 7790.75,
+          "high": 7800.0,
+          "low": 7790.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 7799.5,
+          "high": 7800.0,
+          "low": 7796.25,
+          "close": 7797.0
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 7797.25,
+          "high": 7799.0,
+          "low": 7795.25,
+          "close": 7796.5
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 7796.75,
+          "high": 7798.5,
+          "low": 7794.0,
+          "close": 7798.25
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 7798.25,
+          "high": 7803.5,
+          "low": 7797.5,
+          "close": 7803.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 7803.25,
+          "high": 7806.25,
+          "low": 7800.0,
+          "close": 7803.75
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 7803.75,
+          "high": 7804.75,
+          "low": 7798.25,
+          "close": 7799.0
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 7799.0,
+          "high": 7806.0,
+          "low": 7797.75,
+          "close": 7804.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 7804.5,
+          "high": 7805.5,
+          "low": 7798.0,
+          "close": 7805.0
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 7805.0,
+          "high": 7806.0,
+          "low": 7799.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 7799.25,
+          "high": 7803.25,
+          "low": 7798.5,
+          "close": 7801.75
         }
       ]
     },
@@ -2355,7 +2895,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 32.27,
+      "cumulative_r": 31.93,
       "bars": [
         {
           "time": 1792587600,
@@ -2877,7 +3417,277 @@
           "open": 7807.0,
           "high": 7808.5,
           "low": 7805.25,
-          "close": 7807.25
+          "close": 7806.5
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 7806.5,
+          "high": 7809.0,
+          "low": 7806.0,
+          "close": 7808.25
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 7808.25,
+          "high": 7808.5,
+          "low": 7804.75,
+          "close": 7805.5
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 7805.5,
+          "high": 7806.75,
+          "low": 7802.75,
+          "close": 7804.75
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 7804.5,
+          "high": 7806.5,
+          "low": 7804.0,
+          "close": 7806.25
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 7806.0,
+          "high": 7808.5,
+          "low": 7805.25,
+          "close": 7807.5
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 7807.75,
+          "high": 7811.75,
+          "low": 7807.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 7810.0,
+          "high": 7810.25,
+          "low": 7808.25,
+          "close": 7809.0
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 7809.0,
+          "high": 7811.5,
+          "low": 7808.5,
+          "close": 7809.75
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 7810.0,
+          "high": 7811.0,
+          "low": 7809.25,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 7810.25,
+          "high": 7811.0,
+          "low": 7808.0,
+          "close": 7809.75
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 7809.75,
+          "high": 7810.75,
+          "low": 7808.5,
+          "close": 7809.0
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 7809.0,
+          "high": 7809.75,
+          "low": 7798.5,
+          "close": 7798.5
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 7798.25,
+          "high": 7801.5,
+          "low": 7793.75,
+          "close": 7800.5
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 7800.25,
+          "high": 7801.25,
+          "low": 7785.5,
+          "close": 7787.75
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 7787.5,
+          "high": 7787.75,
+          "low": 7770.75,
+          "close": 7779.75
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 7779.75,
+          "high": 7785.5,
+          "low": 7775.0,
+          "close": 7779.5
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 7779.5,
+          "high": 7783.5,
+          "low": 7773.5,
+          "close": 7783.0
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 7782.25,
+          "high": 7790.25,
+          "low": 7782.25,
+          "close": 7789.0
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 7788.75,
+          "high": 7791.75,
+          "low": 7785.5,
+          "close": 7790.75
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 7790.75,
+          "high": 7800.0,
+          "low": 7790.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 7799.5,
+          "high": 7800.0,
+          "low": 7796.25,
+          "close": 7797.0
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 7797.25,
+          "high": 7799.0,
+          "low": 7795.25,
+          "close": 7796.5
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 7796.75,
+          "high": 7798.5,
+          "low": 7794.0,
+          "close": 7798.25
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 7798.25,
+          "high": 7803.5,
+          "low": 7797.5,
+          "close": 7803.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 7803.25,
+          "high": 7806.25,
+          "low": 7800.0,
+          "close": 7803.75
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 7803.75,
+          "high": 7804.75,
+          "low": 7798.25,
+          "close": 7799.0
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 7799.0,
+          "high": 7806.0,
+          "low": 7797.75,
+          "close": 7804.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 7804.5,
+          "high": 7805.5,
+          "low": 7798.0,
+          "close": 7805.0
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 7805.0,
+          "high": 7806.0,
+          "low": 7799.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 7799.25,
+          "high": 7803.25,
+          "low": 7798.5,
+          "close": 7801.75
         }
       ]
     },
@@ -2898,7 +3708,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 33.27,
+      "cumulative_r": 32.93,
       "bars": [
         {
           "time": 1792501200,
@@ -3711,7 +4521,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 32.02,
+      "cumulative_r": 31.68,
       "bars": [
         {
           "time": 1792501200,
@@ -4524,7 +5334,7 @@
       "reason": "Sweep HTF Swing Low + CISD",
       "trigger": "HTF Swing Low",
       "confirmation": "CISD",
-      "cumulative_r": 30.5,
+      "cumulative_r": 30.16,
       "bars": [
         {
           "time": 1792501200,
@@ -5337,7 +6147,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 29.43,
+      "cumulative_r": 29.09,
       "bars": [
         {
           "time": 1792501200,
@@ -6150,7 +6960,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 28.36,
+      "cumulative_r": 28.02,
       "bars": [
         {
           "time": 1792501200,
@@ -6963,7 +7773,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 27.29,
+      "cumulative_r": 26.95,
       "bars": [
         {
           "time": 1792414800,
@@ -7776,7 +8586,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 27.29,
+      "cumulative_r": 26.95,
       "bars": [
         {
           "time": 1792414800,
@@ -8589,7 +9399,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 28.29,
+      "cumulative_r": 27.95,
       "bars": [
         {
           "time": 1792414800,
@@ -9402,7 +10212,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 28.29,
+      "cumulative_r": 27.95,
       "bars": [
         {
           "time": 1792069200,
@@ -10215,7 +11025,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 25.98,
+      "cumulative_r": 25.64,
       "bars": [
         {
           "time": 1792069200,
@@ -11028,7 +11838,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 23.67,
+      "cumulative_r": 23.33,
       "bars": [
         {
           "time": 1791896400,
@@ -11841,7 +12651,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.67,
+      "cumulative_r": 24.33,
       "bars": [
         {
           "time": 1791896400,
@@ -49763,7 +50573,277 @@
           "open": 30065.5,
           "high": 30071.5,
           "low": 30053.75,
-          "close": 30061.25
+          "close": 30057.75
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 30057.75,
+          "high": 30071.75,
+          "low": 30057.5,
+          "close": 30062.0
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 30061.75,
+          "high": 30065.25,
+          "low": 30047.5,
+          "close": 30049.75
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 30049.5,
+          "high": 30057.75,
+          "low": 30040.75,
+          "close": 30053.0
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 30052.75,
+          "high": 30064.25,
+          "low": 30046.25,
+          "close": 30062.5
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 30062.25,
+          "high": 30066.0,
+          "low": 30054.5,
+          "close": 30060.5
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 30060.0,
+          "high": 30084.5,
+          "low": 30059.25,
+          "close": 30079.75
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 30080.0,
+          "high": 30082.25,
+          "low": 30072.75,
+          "close": 30073.75
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 30073.5,
+          "high": 30083.0,
+          "low": 30072.0,
+          "close": 30081.5
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 30082.25,
+          "high": 30088.75,
+          "low": 30073.25,
+          "close": 30077.75
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 30077.75,
+          "high": 30084.0,
+          "low": 30068.5,
+          "close": 30078.25
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 30080.0,
+          "high": 30082.0,
+          "low": 30065.5,
+          "close": 30068.75
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 30070.5,
+          "high": 30075.75,
+          "low": 30021.0,
+          "close": 30021.25
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 30020.0,
+          "high": 30033.5,
+          "low": 29990.75,
+          "close": 30032.75
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 30032.75,
+          "high": 30036.75,
+          "low": 29952.0,
+          "close": 29965.5
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 29965.75,
+          "high": 29966.75,
+          "low": 29885.75,
+          "close": 29929.5
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 29930.25,
+          "high": 29960.5,
+          "low": 29906.75,
+          "close": 29928.25
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 29928.5,
+          "high": 29952.75,
+          "low": 29899.25,
+          "close": 29949.25
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 29949.25,
+          "high": 29990.25,
+          "low": 29946.5,
+          "close": 29983.0
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 29981.25,
+          "high": 29992.0,
+          "low": 29962.0,
+          "close": 29989.0
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 29988.0,
+          "high": 30035.0,
+          "low": 29987.5,
+          "close": 30033.5
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 30033.5,
+          "high": 30038.75,
+          "low": 30015.5,
+          "close": 30025.0
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 30025.75,
+          "high": 30036.5,
+          "low": 30018.25,
+          "close": 30025.0
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 30025.0,
+          "high": 30028.0,
+          "low": 29999.0,
+          "close": 30022.25
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 30024.5,
+          "high": 30059.25,
+          "low": 30021.75,
+          "close": 30058.0
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 30058.0,
+          "high": 30058.25,
+          "low": 30022.0,
+          "close": 30034.0
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 30033.25,
+          "high": 30040.0,
+          "low": 29990.0,
+          "close": 29997.75
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 29998.0,
+          "high": 30056.5,
+          "low": 29992.0,
+          "close": 30047.75
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 30047.25,
+          "high": 30049.5,
+          "low": 29986.75,
+          "close": 30004.5
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 30000.5,
+          "high": 30007.75,
+          "low": 29962.75,
+          "close": 29963.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 29962.0,
+          "high": 29988.0,
+          "low": 29955.25,
+          "close": 29985.5
         }
       ]
     },
@@ -50306,7 +51386,277 @@
           "open": 30065.5,
           "high": 30071.5,
           "low": 30053.75,
-          "close": 30061.25
+          "close": 30057.75
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 30057.75,
+          "high": 30071.75,
+          "low": 30057.5,
+          "close": 30062.0
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 30061.75,
+          "high": 30065.25,
+          "low": 30047.5,
+          "close": 30049.75
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 30049.5,
+          "high": 30057.75,
+          "low": 30040.75,
+          "close": 30053.0
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 30052.75,
+          "high": 30064.25,
+          "low": 30046.25,
+          "close": 30062.5
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 30062.25,
+          "high": 30066.0,
+          "low": 30054.5,
+          "close": 30060.5
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 30060.0,
+          "high": 30084.5,
+          "low": 30059.25,
+          "close": 30079.75
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 30080.0,
+          "high": 30082.25,
+          "low": 30072.75,
+          "close": 30073.75
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 30073.5,
+          "high": 30083.0,
+          "low": 30072.0,
+          "close": 30081.5
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 30082.25,
+          "high": 30088.75,
+          "low": 30073.25,
+          "close": 30077.75
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 30077.75,
+          "high": 30084.0,
+          "low": 30068.5,
+          "close": 30078.25
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 30080.0,
+          "high": 30082.0,
+          "low": 30065.5,
+          "close": 30068.75
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 30070.5,
+          "high": 30075.75,
+          "low": 30021.0,
+          "close": 30021.25
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 30020.0,
+          "high": 30033.5,
+          "low": 29990.75,
+          "close": 30032.75
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 30032.75,
+          "high": 30036.75,
+          "low": 29952.0,
+          "close": 29965.5
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 29965.75,
+          "high": 29966.75,
+          "low": 29885.75,
+          "close": 29929.5
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 29930.25,
+          "high": 29960.5,
+          "low": 29906.75,
+          "close": 29928.25
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 29928.5,
+          "high": 29952.75,
+          "low": 29899.25,
+          "close": 29949.25
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 29949.25,
+          "high": 29990.25,
+          "low": 29946.5,
+          "close": 29983.0
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 29981.25,
+          "high": 29992.0,
+          "low": 29962.0,
+          "close": 29989.0
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 29988.0,
+          "high": 30035.0,
+          "low": 29987.5,
+          "close": 30033.5
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 30033.5,
+          "high": 30038.75,
+          "low": 30015.5,
+          "close": 30025.0
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 30025.75,
+          "high": 30036.5,
+          "low": 30018.25,
+          "close": 30025.0
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 30025.0,
+          "high": 30028.0,
+          "low": 29999.0,
+          "close": 30022.25
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 30024.5,
+          "high": 30059.25,
+          "low": 30021.75,
+          "close": 30058.0
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 30058.0,
+          "high": 30058.25,
+          "low": 30022.0,
+          "close": 30034.0
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 30033.25,
+          "high": 30040.0,
+          "low": 29990.0,
+          "close": 29997.75
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 29998.0,
+          "high": 30056.5,
+          "low": 29992.0,
+          "close": 30047.75
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 30047.25,
+          "high": 30049.5,
+          "low": 29986.75,
+          "close": 30004.5
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 30000.5,
+          "high": 30007.75,
+          "low": 29962.75,
+          "close": 29963.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 29962.0,
+          "high": 29988.0,
+          "low": 29955.25,
+          "close": 29985.5
         }
       ]
     },
@@ -50314,20 +51664,20 @@
       "id": 48,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:10 ET",
-      "exit_time": "2026-10-21 13:45 ET",
+      "exit_time": "2026-10-21 16:00 ET",
       "symbol": "NQ=F",
       "direction": "LONG",
       "entry": 29806.0,
-      "exit": 30061.25,
+      "exit": 30047.75,
       "sl": 29719.02,
       "tp": 30153.9,
       "risk_pts": 86.97,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 2.935,
+      "pnl_r": 2.78,
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 7.15,
+      "cumulative_r": 7.0,
       "bars": [
         {
           "time": 1792587600,
@@ -50849,7 +52199,277 @@
           "open": 30065.5,
           "high": 30071.5,
           "low": 30053.75,
-          "close": 30061.25
+          "close": 30057.75
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 30057.75,
+          "high": 30071.75,
+          "low": 30057.5,
+          "close": 30062.0
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 30061.75,
+          "high": 30065.25,
+          "low": 30047.5,
+          "close": 30049.75
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 30049.5,
+          "high": 30057.75,
+          "low": 30040.75,
+          "close": 30053.0
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 30052.75,
+          "high": 30064.25,
+          "low": 30046.25,
+          "close": 30062.5
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 30062.25,
+          "high": 30066.0,
+          "low": 30054.5,
+          "close": 30060.5
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 30060.0,
+          "high": 30084.5,
+          "low": 30059.25,
+          "close": 30079.75
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 30080.0,
+          "high": 30082.25,
+          "low": 30072.75,
+          "close": 30073.75
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 30073.5,
+          "high": 30083.0,
+          "low": 30072.0,
+          "close": 30081.5
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 30082.25,
+          "high": 30088.75,
+          "low": 30073.25,
+          "close": 30077.75
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 30077.75,
+          "high": 30084.0,
+          "low": 30068.5,
+          "close": 30078.25
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 30080.0,
+          "high": 30082.0,
+          "low": 30065.5,
+          "close": 30068.75
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 30070.5,
+          "high": 30075.75,
+          "low": 30021.0,
+          "close": 30021.25
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 30020.0,
+          "high": 30033.5,
+          "low": 29990.75,
+          "close": 30032.75
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 30032.75,
+          "high": 30036.75,
+          "low": 29952.0,
+          "close": 29965.5
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 29965.75,
+          "high": 29966.75,
+          "low": 29885.75,
+          "close": 29929.5
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 29930.25,
+          "high": 29960.5,
+          "low": 29906.75,
+          "close": 29928.25
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 29928.5,
+          "high": 29952.75,
+          "low": 29899.25,
+          "close": 29949.25
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 29949.25,
+          "high": 29990.25,
+          "low": 29946.5,
+          "close": 29983.0
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 29981.25,
+          "high": 29992.0,
+          "low": 29962.0,
+          "close": 29989.0
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 29988.0,
+          "high": 30035.0,
+          "low": 29987.5,
+          "close": 30033.5
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 30033.5,
+          "high": 30038.75,
+          "low": 30015.5,
+          "close": 30025.0
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 30025.75,
+          "high": 30036.5,
+          "low": 30018.25,
+          "close": 30025.0
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 30025.0,
+          "high": 30028.0,
+          "low": 29999.0,
+          "close": 30022.25
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 30024.5,
+          "high": 30059.25,
+          "low": 30021.75,
+          "close": 30058.0
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 30058.0,
+          "high": 30058.25,
+          "low": 30022.0,
+          "close": 30034.0
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 30033.25,
+          "high": 30040.0,
+          "low": 29990.0,
+          "close": 29997.75
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 29998.0,
+          "high": 30056.5,
+          "low": 29992.0,
+          "close": 30047.75
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 30047.25,
+          "high": 30049.5,
+          "low": 29986.75,
+          "close": 30004.5
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 30000.5,
+          "high": 30007.75,
+          "low": 29962.75,
+          "close": 29963.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 29962.0,
+          "high": 29988.0,
+          "low": 29955.25,
+          "close": 29985.5
         }
       ]
     },
@@ -50870,7 +52490,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 11.15,
+      "cumulative_r": 11.0,
       "bars": [
         {
           "time": 1787317200,
@@ -51683,7 +53303,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 11.15,
+      "cumulative_r": 11.0,
       "bars": [
         {
           "time": 1787317200,
@@ -52496,7 +54116,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 11.15,
+      "cumulative_r": 11.0,
       "bars": [
         {
           "time": 1787576400,
@@ -53309,7 +54929,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 10.15,
+      "cumulative_r": 10.0,
       "bars": [
         {
           "time": 1787662800,
@@ -54122,7 +55742,7 @@
       "reason": "4H FVG Tap (bullish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 9.15,
+      "cumulative_r": 9.0,
       "bars": [
         {
           "time": 1787662800,
@@ -54935,7 +56555,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 9.15,
+      "cumulative_r": 9.0,
       "bars": [
         {
           "time": 1787662800,
@@ -55748,7 +57368,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 8.15,
+      "cumulative_r": 8.0,
       "bars": [
         {
           "time": 1787749200,
@@ -56561,7 +58181,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 8.15,
+      "cumulative_r": 8.0,
       "bars": [
         {
           "time": 1787835600,
@@ -57374,7 +58994,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 8.84,
+      "cumulative_r": 8.69,
       "bars": [
         {
           "time": 1787835600,
@@ -58187,7 +59807,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 9.43,
+      "cumulative_r": 9.28,
       "bars": [
         {
           "time": 1787835600,
@@ -59000,7 +60620,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 9.43,
+      "cumulative_r": 9.28,
       "bars": [
         {
           "time": 1787922000,
@@ -59813,7 +61433,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 8.43,
+      "cumulative_r": 8.28,
       "bars": [
         {
           "time": 1787922000,
@@ -60626,7 +62246,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 8.43,
+      "cumulative_r": 8.28,
       "bars": [
         {
           "time": 1787922000,
@@ -61439,7 +63059,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 7.43,
+      "cumulative_r": 7.28,
       "bars": [
         {
           "time": 1788872400,
@@ -62252,7 +63872,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 7.43,
+      "cumulative_r": 7.28,
       "bars": [
         {
           "time": 1788872400,
@@ -63065,7 +64685,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 6.43,
+      "cumulative_r": 6.28,
       "bars": [
         {
           "time": 1788872400,
@@ -63878,7 +65498,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 5.43,
+      "cumulative_r": 5.28,
       "bars": [
         {
           "time": 1789390800,
@@ -64691,7 +66311,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 4.43,
+      "cumulative_r": 4.28,
       "bars": [
         {
           "time": 1789390800,
@@ -65504,7 +67124,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 4.43,
+      "cumulative_r": 4.28,
       "bars": [
         {
           "time": 1789390800,
@@ -66317,7 +67937,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 8.43,
+      "cumulative_r": 8.28,
       "bars": [
         {
           "time": 1789477200,
@@ -67130,7 +68750,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 12.43,
+      "cumulative_r": 12.28,
       "bars": [
         {
           "time": 1789477200,
@@ -67943,7 +69563,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 11.43,
+      "cumulative_r": 11.28,
       "bars": [
         {
           "time": 1789477200,
@@ -68756,7 +70376,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 10.43,
+      "cumulative_r": 10.28,
       "bars": [
         {
           "time": 1789563600,
@@ -69569,7 +71189,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 10.43,
+      "cumulative_r": 10.28,
       "bars": [
         {
           "time": 1789563600,
@@ -70382,7 +72002,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 9.43,
+      "cumulative_r": 9.28,
       "bars": [
         {
           "time": 1790341200,
@@ -71195,7 +72815,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 8.43,
+      "cumulative_r": 8.28,
       "bars": [
         {
           "time": 1790341200,
@@ -72008,7 +73628,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 10.69,
+      "cumulative_r": 10.54,
       "bars": [
         {
           "time": 1790341200,
@@ -72821,7 +74441,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 11.61,
+      "cumulative_r": 11.46,
       "bars": [
         {
           "time": 1790686800,
@@ -73634,7 +75254,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 12.53,
+      "cumulative_r": 12.38,
       "bars": [
         {
           "time": 1790686800,
@@ -74447,7 +76067,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 12.95,
+      "cumulative_r": 12.8,
       "bars": [
         {
           "time": 1790686800,
@@ -75260,7 +76880,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 13.51,
+      "cumulative_r": 13.36,
       "bars": [
         {
           "time": 1790686800,
@@ -76073,7 +77693,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 12.51,
+      "cumulative_r": 12.36,
       "bars": [
         {
           "time": 1791464400,
@@ -76886,7 +78506,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 11.51,
+      "cumulative_r": 11.36,
       "bars": [
         {
           "time": 1791464400,
@@ -77699,7 +79319,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 11.51,
+      "cumulative_r": 11.36,
       "bars": [
         {
           "time": 1791464400,
@@ -78512,7 +80132,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 10.51,
+      "cumulative_r": 10.36,
       "bars": [
         {
           "time": 1791550800,
@@ -79325,7 +80945,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 9.51,
+      "cumulative_r": 9.36,
       "bars": [
         {
           "time": 1791550800,
@@ -80138,7 +81758,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 8.51,
+      "cumulative_r": 8.36,
       "bars": [
         {
           "time": 1791550800,
@@ -80951,7 +82571,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 8.51,
+      "cumulative_r": 8.36,
       "bars": [
         {
           "time": 1791896400,
@@ -81764,7 +83384,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 8.51,
+      "cumulative_r": 8.36,
       "bars": [
         {
           "time": 1791896400,
@@ -82577,7 +84197,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 10.96,
+      "cumulative_r": 10.81,
       "bars": [
         {
           "time": 1792069200,
@@ -83390,7 +85010,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 9.96,
+      "cumulative_r": 9.81,
       "bars": [
         {
           "time": 1792414800,
@@ -84203,7 +85823,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 9.96,
+      "cumulative_r": 9.81,
       "bars": [
         {
           "time": 1792414800,
@@ -85016,7 +86636,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 11.03,
+      "cumulative_r": 10.88,
       "bars": [
         {
           "time": 1792501200,
@@ -85829,7 +87449,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 12.1,
+      "cumulative_r": 11.95,
       "bars": [
         {
           "time": 1792501200,
@@ -86642,7 +88262,7 @@
       "reason": "Sweep HTF Swing Low + CISD",
       "trigger": "HTF Swing Low",
       "confirmation": "CISD",
-      "cumulative_r": 13.17,
+      "cumulative_r": 13.02,
       "bars": [
         {
           "time": 1792501200,
@@ -87455,7 +89075,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 14.69,
+      "cumulative_r": 14.54,
       "bars": [
         {
           "time": 1792501200,
@@ -88268,7 +89888,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 15.92,
+      "cumulative_r": 15.77,
       "bars": [
         {
           "time": 1792501200,
@@ -89081,7 +90701,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 14.92,
+      "cumulative_r": 14.77,
       "bars": [
         {
           "time": 1792587600,
@@ -89603,7 +91223,277 @@
           "open": 7807.0,
           "high": 7808.5,
           "low": 7805.25,
-          "close": 7806.75
+          "close": 7806.5
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 7806.5,
+          "high": 7809.0,
+          "low": 7806.0,
+          "close": 7808.0
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 7808.0,
+          "high": 7808.5,
+          "low": 7804.75,
+          "close": 7805.25
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 7805.5,
+          "high": 7806.75,
+          "low": 7802.75,
+          "close": 7804.75
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 7805.0,
+          "high": 7806.5,
+          "low": 7804.25,
+          "close": 7806.25
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 7806.0,
+          "high": 7808.5,
+          "low": 7805.25,
+          "close": 7807.75
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 7807.5,
+          "high": 7812.25,
+          "low": 7807.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 7809.75,
+          "high": 7810.0,
+          "low": 7808.25,
+          "close": 7808.75
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 7809.0,
+          "high": 7811.0,
+          "low": 7808.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 7809.75,
+          "high": 7811.0,
+          "low": 7809.25,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 7810.25,
+          "high": 7811.0,
+          "low": 7808.0,
+          "close": 7809.75
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 7809.75,
+          "high": 7810.75,
+          "low": 7808.5,
+          "close": 7809.0
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 7808.75,
+          "high": 7809.75,
+          "low": 7798.5,
+          "close": 7798.5
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 7798.25,
+          "high": 7801.5,
+          "low": 7793.75,
+          "close": 7800.5
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 7800.25,
+          "high": 7801.5,
+          "low": 7785.75,
+          "close": 7787.5
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 7787.5,
+          "high": 7787.75,
+          "low": 7771.0,
+          "close": 7780.0
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 7780.25,
+          "high": 7785.5,
+          "low": 7775.0,
+          "close": 7779.25
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 7779.5,
+          "high": 7783.5,
+          "low": 7773.75,
+          "close": 7783.0
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 7782.75,
+          "high": 7790.25,
+          "low": 7782.25,
+          "close": 7788.75
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 7788.75,
+          "high": 7791.75,
+          "low": 7785.5,
+          "close": 7790.5
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 7790.75,
+          "high": 7800.0,
+          "low": 7790.25,
+          "close": 7799.75
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 7799.5,
+          "high": 7800.0,
+          "low": 7796.0,
+          "close": 7796.75
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 7797.0,
+          "high": 7799.0,
+          "low": 7795.0,
+          "close": 7796.5
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 7796.75,
+          "high": 7798.5,
+          "low": 7794.0,
+          "close": 7798.0
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 7798.0,
+          "high": 7803.5,
+          "low": 7797.5,
+          "close": 7803.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 7803.0,
+          "high": 7806.0,
+          "low": 7800.5,
+          "close": 7803.75
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 7803.5,
+          "high": 7804.75,
+          "low": 7798.0,
+          "close": 7799.0
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 7799.25,
+          "high": 7806.0,
+          "low": 7797.5,
+          "close": 7804.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 7804.5,
+          "high": 7805.5,
+          "low": 7798.25,
+          "close": 7805.25
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 7805.0,
+          "high": 7806.0,
+          "low": 7799.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 7799.5,
+          "high": 7803.25,
+          "low": 7798.5,
+          "close": 7801.75
         }
       ]
     },
@@ -89624,7 +91514,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 18.92,
+      "cumulative_r": 18.77,
       "bars": [
         {
           "time": 1792587600,
@@ -90146,7 +92036,277 @@
           "open": 7807.0,
           "high": 7808.5,
           "low": 7805.25,
-          "close": 7806.75
+          "close": 7806.5
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 7806.5,
+          "high": 7809.0,
+          "low": 7806.0,
+          "close": 7808.0
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 7808.0,
+          "high": 7808.5,
+          "low": 7804.75,
+          "close": 7805.25
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 7805.5,
+          "high": 7806.75,
+          "low": 7802.75,
+          "close": 7804.75
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 7805.0,
+          "high": 7806.5,
+          "low": 7804.25,
+          "close": 7806.25
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 7806.0,
+          "high": 7808.5,
+          "low": 7805.25,
+          "close": 7807.75
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 7807.5,
+          "high": 7812.25,
+          "low": 7807.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 7809.75,
+          "high": 7810.0,
+          "low": 7808.25,
+          "close": 7808.75
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 7809.0,
+          "high": 7811.0,
+          "low": 7808.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 7809.75,
+          "high": 7811.0,
+          "low": 7809.25,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 7810.25,
+          "high": 7811.0,
+          "low": 7808.0,
+          "close": 7809.75
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 7809.75,
+          "high": 7810.75,
+          "low": 7808.5,
+          "close": 7809.0
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 7808.75,
+          "high": 7809.75,
+          "low": 7798.5,
+          "close": 7798.5
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 7798.25,
+          "high": 7801.5,
+          "low": 7793.75,
+          "close": 7800.5
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 7800.25,
+          "high": 7801.5,
+          "low": 7785.75,
+          "close": 7787.5
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 7787.5,
+          "high": 7787.75,
+          "low": 7771.0,
+          "close": 7780.0
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 7780.25,
+          "high": 7785.5,
+          "low": 7775.0,
+          "close": 7779.25
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 7779.5,
+          "high": 7783.5,
+          "low": 7773.75,
+          "close": 7783.0
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 7782.75,
+          "high": 7790.25,
+          "low": 7782.25,
+          "close": 7788.75
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 7788.75,
+          "high": 7791.75,
+          "low": 7785.5,
+          "close": 7790.5
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 7790.75,
+          "high": 7800.0,
+          "low": 7790.25,
+          "close": 7799.75
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 7799.5,
+          "high": 7800.0,
+          "low": 7796.0,
+          "close": 7796.75
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 7797.0,
+          "high": 7799.0,
+          "low": 7795.0,
+          "close": 7796.5
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 7796.75,
+          "high": 7798.5,
+          "low": 7794.0,
+          "close": 7798.0
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 7798.0,
+          "high": 7803.5,
+          "low": 7797.5,
+          "close": 7803.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 7803.0,
+          "high": 7806.0,
+          "low": 7800.5,
+          "close": 7803.75
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 7803.5,
+          "high": 7804.75,
+          "low": 7798.0,
+          "close": 7799.0
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 7799.25,
+          "high": 7806.0,
+          "low": 7797.5,
+          "close": 7804.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 7804.5,
+          "high": 7805.5,
+          "low": 7798.25,
+          "close": 7805.25
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 7805.0,
+          "high": 7806.0,
+          "low": 7799.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 7799.5,
+          "high": 7803.25,
+          "low": 7798.5,
+          "close": 7801.75
         }
       ]
     },
@@ -90167,7 +92327,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 18.92,
+      "cumulative_r": 18.77,
       "bars": [
         {
           "time": 1792587600,
@@ -90689,7 +92849,277 @@
           "open": 7807.0,
           "high": 7808.5,
           "low": 7805.25,
-          "close": 7806.75
+          "close": 7806.5
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 7806.5,
+          "high": 7809.0,
+          "low": 7806.0,
+          "close": 7808.0
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 7808.0,
+          "high": 7808.5,
+          "low": 7804.75,
+          "close": 7805.25
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 7805.5,
+          "high": 7806.75,
+          "low": 7802.75,
+          "close": 7804.75
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 7805.0,
+          "high": 7806.5,
+          "low": 7804.25,
+          "close": 7806.25
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 7806.0,
+          "high": 7808.5,
+          "low": 7805.25,
+          "close": 7807.75
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 7807.5,
+          "high": 7812.25,
+          "low": 7807.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 7809.75,
+          "high": 7810.0,
+          "low": 7808.25,
+          "close": 7808.75
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 7809.0,
+          "high": 7811.0,
+          "low": 7808.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 7809.75,
+          "high": 7811.0,
+          "low": 7809.25,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 7810.25,
+          "high": 7811.0,
+          "low": 7808.0,
+          "close": 7809.75
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 7809.75,
+          "high": 7810.75,
+          "low": 7808.5,
+          "close": 7809.0
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 7808.75,
+          "high": 7809.75,
+          "low": 7798.5,
+          "close": 7798.5
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 7798.25,
+          "high": 7801.5,
+          "low": 7793.75,
+          "close": 7800.5
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 7800.25,
+          "high": 7801.5,
+          "low": 7785.75,
+          "close": 7787.5
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 7787.5,
+          "high": 7787.75,
+          "low": 7771.0,
+          "close": 7780.0
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 7780.25,
+          "high": 7785.5,
+          "low": 7775.0,
+          "close": 7779.25
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 7779.5,
+          "high": 7783.5,
+          "low": 7773.75,
+          "close": 7783.0
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 7782.75,
+          "high": 7790.25,
+          "low": 7782.25,
+          "close": 7788.75
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 7788.75,
+          "high": 7791.75,
+          "low": 7785.5,
+          "close": 7790.5
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 7790.75,
+          "high": 7800.0,
+          "low": 7790.25,
+          "close": 7799.75
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 7799.5,
+          "high": 7800.0,
+          "low": 7796.0,
+          "close": 7796.75
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 7797.0,
+          "high": 7799.0,
+          "low": 7795.0,
+          "close": 7796.5
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 7796.75,
+          "high": 7798.5,
+          "low": 7794.0,
+          "close": 7798.0
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 7798.0,
+          "high": 7803.5,
+          "low": 7797.5,
+          "close": 7803.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 7803.0,
+          "high": 7806.0,
+          "low": 7800.5,
+          "close": 7803.75
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 7803.5,
+          "high": 7804.75,
+          "low": 7798.0,
+          "close": 7799.0
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 7799.25,
+          "high": 7806.0,
+          "low": 7797.5,
+          "close": 7804.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 7804.5,
+          "high": 7805.5,
+          "low": 7798.25,
+          "close": 7805.25
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 7805.0,
+          "high": 7806.0,
+          "low": 7799.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 7799.5,
+          "high": 7803.25,
+          "low": 7798.5,
+          "close": 7801.75
         }
       ]
     },
@@ -90710,7 +93140,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 17.92,
+      "cumulative_r": 17.77,
       "bars": [
         {
           "time": 1786712400,
@@ -91523,7 +93953,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 16.92,
+      "cumulative_r": 16.77,
       "bars": [
         {
           "time": 1786712400,
@@ -92336,7 +94766,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 15.92,
+      "cumulative_r": 15.77,
       "bars": [
         {
           "time": 1786712400,
@@ -93149,7 +95579,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 16.59,
+      "cumulative_r": 16.44,
       "bars": [
         {
           "time": 1787662800,
@@ -93962,7 +96392,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 17.25,
+      "cumulative_r": 17.1,
       "bars": [
         {
           "time": 1787662800,
@@ -94775,7 +97205,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 19.47,
+      "cumulative_r": 19.32,
       "bars": [
         {
           "time": 1787749200,
@@ -95588,7 +98018,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 21.68,
+      "cumulative_r": 21.53,
       "bars": [
         {
           "time": 1787749200,
@@ -96401,7 +98831,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 21.68,
+      "cumulative_r": 21.53,
       "bars": [
         {
           "time": 1787749200,
@@ -97214,7 +99644,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 21.68,
+      "cumulative_r": 21.53,
       "bars": [
         {
           "time": 1787749200,
@@ -98027,7 +100457,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 23.62,
+      "cumulative_r": 23.47,
       "bars": [
         {
           "time": 1787835600,
@@ -98840,7 +101270,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 24.22,
+      "cumulative_r": 24.07,
       "bars": [
         {
           "time": 1787835600,
@@ -99653,7 +102083,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.58,
+      "cumulative_r": 25.43,
       "bars": [
         {
           "time": 1787835600,
@@ -100466,7 +102896,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 25.58,
+      "cumulative_r": 25.43,
       "bars": [
         {
           "time": 1787835600,
@@ -101279,7 +103709,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 24.58,
+      "cumulative_r": 24.43,
       "bars": [
         {
           "time": 1787922000,
@@ -102092,7 +104522,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.58,
+      "cumulative_r": 24.43,
       "bars": [
         {
           "time": 1787922000,
@@ -102905,7 +105335,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.58,
+      "cumulative_r": 24.43,
       "bars": [
         {
           "time": 1787922000,
@@ -103718,7 +106148,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 28.58,
+      "cumulative_r": 28.43,
       "bars": [
         {
           "time": 1788354000,
@@ -104531,7 +106961,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 28.58,
+      "cumulative_r": 28.43,
       "bars": [
         {
           "time": 1788354000,
@@ -105344,7 +107774,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 28.94,
+      "cumulative_r": 28.79,
       "bars": [
         {
           "time": 1788872400,
@@ -106157,7 +108587,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 28.87,
+      "cumulative_r": 28.72,
       "bars": [
         {
           "time": 1788872400,
@@ -106970,7 +109400,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 27.87,
+      "cumulative_r": 27.72,
       "bars": [
         {
           "time": 1789390800,
@@ -107783,7 +110213,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 26.87,
+      "cumulative_r": 26.72,
       "bars": [
         {
           "time": 1789390800,
@@ -108596,7 +111026,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.87,
+      "cumulative_r": 25.72,
       "bars": [
         {
           "time": 1789477200,
@@ -109409,7 +111839,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.87,
+      "cumulative_r": 25.72,
       "bars": [
         {
           "time": 1789477200,
@@ -110222,7 +112652,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 25.87,
+      "cumulative_r": 25.72,
       "bars": [
         {
           "time": 1789477200,
@@ -111035,7 +113465,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.87,
+      "cumulative_r": 25.72,
       "bars": [
         {
           "time": 1790254800,
@@ -111848,7 +114278,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.87,
+      "cumulative_r": 24.72,
       "bars": [
         {
           "time": 1790254800,
@@ -112661,7 +115091,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.87,
+      "cumulative_r": 24.72,
       "bars": [
         {
           "time": 1790341200,
@@ -113474,7 +115904,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.87,
+      "cumulative_r": 24.72,
       "bars": [
         {
           "time": 1790341200,
@@ -114287,7 +116717,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 24.87,
+      "cumulative_r": 24.72,
       "bars": [
         {
           "time": 1790600400,
@@ -115100,7 +117530,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.87,
+      "cumulative_r": 24.72,
       "bars": [
         {
           "time": 1790600400,
@@ -115913,7 +118343,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.87,
+      "cumulative_r": 24.72,
       "bars": [
         {
           "time": 1790600400,
@@ -116726,7 +119156,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 23.87,
+      "cumulative_r": 23.72,
       "bars": [
         {
           "time": 1791464400,
@@ -117539,7 +119969,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 22.87,
+      "cumulative_r": 22.72,
       "bars": [
         {
           "time": 1791464400,
@@ -118352,7 +120782,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 21.87,
+      "cumulative_r": 21.72,
       "bars": [
         {
           "time": 1791464400,
@@ -119165,7 +121595,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 22.04,
+      "cumulative_r": 21.89,
       "bars": [
         {
           "time": 1791896400,
@@ -119978,7 +122408,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 22.21,
+      "cumulative_r": 22.06,
       "bars": [
         {
           "time": 1791896400,
@@ -120791,7 +123221,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 22.21,
+      "cumulative_r": 22.06,
       "bars": [
         {
           "time": 1791896400,
@@ -121604,7 +124034,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 21.21,
+      "cumulative_r": 21.06,
       "bars": [
         {
           "time": 1792069200,
@@ -122417,7 +124847,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 20.21,
+      "cumulative_r": 20.06,
       "bars": [
         {
           "time": 1792069200,
@@ -123230,7 +125660,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 19.75,
+      "cumulative_r": 19.6,
       "bars": [
         {
           "time": 1792414800,
@@ -124043,7 +126473,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 20.11,
+      "cumulative_r": 19.96,
       "bars": [
         {
           "time": 1792501200,
@@ -124856,7 +127286,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 20.47,
+      "cumulative_r": 20.32,
       "bars": [
         {
           "time": 1792501200,
@@ -125669,7 +128099,7 @@
       "reason": "Sweep HTF Swing Low + CISD",
       "trigger": "HTF Swing Low",
       "confirmation": "CISD",
-      "cumulative_r": 20.83,
+      "cumulative_r": 20.68,
       "bars": [
         {
           "time": 1792501200,
@@ -126482,7 +128912,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 21.27,
+      "cumulative_r": 21.12,
       "bars": [
         {
           "time": 1792501200,
@@ -127295,7 +129725,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 21.27,
+      "cumulative_r": 21.12,
       "bars": [
         {
           "time": 1792587600,
@@ -127817,7 +130247,277 @@
           "open": 30065.5,
           "high": 30071.25,
           "low": 30053.75,
-          "close": 30063.75
+          "close": 30058.0
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 30058.5,
+          "high": 30071.75,
+          "low": 30057.5,
+          "close": 30062.0
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 30062.0,
+          "high": 30065.5,
+          "low": 30047.75,
+          "close": 30050.25
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 30050.0,
+          "high": 30058.5,
+          "low": 30040.5,
+          "close": 30053.25
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 30052.75,
+          "high": 30065.0,
+          "low": 30046.25,
+          "close": 30062.75
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 30062.25,
+          "high": 30066.5,
+          "low": 30054.25,
+          "close": 30060.0
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 30060.5,
+          "high": 30084.5,
+          "low": 30059.0,
+          "close": 30079.75
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 30080.0,
+          "high": 30082.25,
+          "low": 30072.75,
+          "close": 30073.0
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 30073.5,
+          "high": 30086.25,
+          "low": 30072.25,
+          "close": 30081.25
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 30081.25,
+          "high": 30088.5,
+          "low": 30073.25,
+          "close": 30077.75
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 30077.75,
+          "high": 30084.25,
+          "low": 30067.75,
+          "close": 30078.0
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 30078.25,
+          "high": 30082.5,
+          "low": 30063.75,
+          "close": 30070.25
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 30070.25,
+          "high": 30075.75,
+          "low": 30020.75,
+          "close": 30020.75
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 30020.0,
+          "high": 30033.75,
+          "low": 29990.5,
+          "close": 30032.25
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 30032.75,
+          "high": 30037.0,
+          "low": 29951.75,
+          "close": 29966.0
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 29965.5,
+          "high": 29967.25,
+          "low": 29885.75,
+          "close": 29929.25
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 29930.25,
+          "high": 29960.5,
+          "low": 29906.75,
+          "close": 29928.0
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 29928.0,
+          "high": 29952.25,
+          "low": 29898.75,
+          "close": 29949.25
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 29949.5,
+          "high": 29991.0,
+          "low": 29946.5,
+          "close": 29982.5
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 29982.25,
+          "high": 29992.25,
+          "low": 29961.75,
+          "close": 29988.75
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 29988.25,
+          "high": 30035.25,
+          "low": 29987.0,
+          "close": 30033.75
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 30032.5,
+          "high": 30039.25,
+          "low": 30015.25,
+          "close": 30024.75
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 30024.75,
+          "high": 30037.0,
+          "low": 30018.5,
+          "close": 30025.25
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 30025.5,
+          "high": 30028.0,
+          "low": 29998.5,
+          "close": 30022.75
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 30023.0,
+          "high": 30060.0,
+          "low": 30022.0,
+          "close": 30058.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 30058.25,
+          "high": 30058.5,
+          "low": 30021.75,
+          "close": 30034.25
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 30032.75,
+          "high": 30040.25,
+          "low": 29994.5,
+          "close": 29997.5
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 29998.25,
+          "high": 30057.0,
+          "low": 29983.75,
+          "close": 30047.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 30047.25,
+          "high": 30049.75,
+          "low": 29988.25,
+          "close": 30003.5
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 30001.0,
+          "high": 30008.25,
+          "low": 29962.75,
+          "close": 29964.0
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 29962.75,
+          "high": 29989.25,
+          "low": 29955.0,
+          "close": 29985.0
         }
       ]
     },
@@ -127838,7 +130538,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 21.27,
+      "cumulative_r": 21.12,
       "bars": [
         {
           "time": 1792587600,
@@ -128360,7 +131060,277 @@
           "open": 30065.5,
           "high": 30071.25,
           "low": 30053.75,
-          "close": 30063.75
+          "close": 30058.0
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 30058.5,
+          "high": 30071.75,
+          "low": 30057.5,
+          "close": 30062.0
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 30062.0,
+          "high": 30065.5,
+          "low": 30047.75,
+          "close": 30050.25
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 30050.0,
+          "high": 30058.5,
+          "low": 30040.5,
+          "close": 30053.25
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 30052.75,
+          "high": 30065.0,
+          "low": 30046.25,
+          "close": 30062.75
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 30062.25,
+          "high": 30066.5,
+          "low": 30054.25,
+          "close": 30060.0
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 30060.5,
+          "high": 30084.5,
+          "low": 30059.0,
+          "close": 30079.75
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 30080.0,
+          "high": 30082.25,
+          "low": 30072.75,
+          "close": 30073.0
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 30073.5,
+          "high": 30086.25,
+          "low": 30072.25,
+          "close": 30081.25
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 30081.25,
+          "high": 30088.5,
+          "low": 30073.25,
+          "close": 30077.75
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 30077.75,
+          "high": 30084.25,
+          "low": 30067.75,
+          "close": 30078.0
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 30078.25,
+          "high": 30082.5,
+          "low": 30063.75,
+          "close": 30070.25
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 30070.25,
+          "high": 30075.75,
+          "low": 30020.75,
+          "close": 30020.75
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 30020.0,
+          "high": 30033.75,
+          "low": 29990.5,
+          "close": 30032.25
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 30032.75,
+          "high": 30037.0,
+          "low": 29951.75,
+          "close": 29966.0
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 29965.5,
+          "high": 29967.25,
+          "low": 29885.75,
+          "close": 29929.25
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 29930.25,
+          "high": 29960.5,
+          "low": 29906.75,
+          "close": 29928.0
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 29928.0,
+          "high": 29952.25,
+          "low": 29898.75,
+          "close": 29949.25
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 29949.5,
+          "high": 29991.0,
+          "low": 29946.5,
+          "close": 29982.5
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 29982.25,
+          "high": 29992.25,
+          "low": 29961.75,
+          "close": 29988.75
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 29988.25,
+          "high": 30035.25,
+          "low": 29987.0,
+          "close": 30033.75
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 30032.5,
+          "high": 30039.25,
+          "low": 30015.25,
+          "close": 30024.75
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 30024.75,
+          "high": 30037.0,
+          "low": 30018.5,
+          "close": 30025.25
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 30025.5,
+          "high": 30028.0,
+          "low": 29998.5,
+          "close": 30022.75
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 30023.0,
+          "high": 30060.0,
+          "low": 30022.0,
+          "close": 30058.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 30058.25,
+          "high": 30058.5,
+          "low": 30021.75,
+          "close": 30034.25
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 30032.75,
+          "high": 30040.25,
+          "low": 29994.5,
+          "close": 29997.5
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 29998.25,
+          "high": 30057.0,
+          "low": 29983.75,
+          "close": 30047.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 30047.25,
+          "high": 30049.75,
+          "low": 29988.25,
+          "close": 30003.5
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 30001.0,
+          "high": 30008.25,
+          "low": 29962.75,
+          "close": 29964.0
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 29962.75,
+          "high": 29989.25,
+          "low": 29955.0,
+          "close": 29985.0
         }
       ]
     },
@@ -128368,20 +131338,20 @@
       "id": 146,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:10 ET",
-      "exit_time": "2026-10-21 13:45 ET",
+      "exit_time": "2026-10-21 16:00 ET",
       "symbol": "MNQ=F",
       "direction": "LONG",
       "entry": 29805.75,
-      "exit": 30063.75,
+      "exit": 30047.5,
       "sl": 29717.62,
       "tp": 30158.25,
       "risk_pts": 88.12,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 2.928,
+      "pnl_r": 2.743,
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.2,
+      "cumulative_r": 23.86,
       "bars": [
         {
           "time": 1792587600,
@@ -128903,7 +131873,277 @@
           "open": 30065.5,
           "high": 30071.25,
           "low": 30053.75,
-          "close": 30063.75
+          "close": 30058.0
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 30058.5,
+          "high": 30071.75,
+          "low": 30057.5,
+          "close": 30062.0
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 30062.0,
+          "high": 30065.5,
+          "low": 30047.75,
+          "close": 30050.25
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 30050.0,
+          "high": 30058.5,
+          "low": 30040.5,
+          "close": 30053.25
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 30052.75,
+          "high": 30065.0,
+          "low": 30046.25,
+          "close": 30062.75
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 30062.25,
+          "high": 30066.5,
+          "low": 30054.25,
+          "close": 30060.0
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 30060.5,
+          "high": 30084.5,
+          "low": 30059.0,
+          "close": 30079.75
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 30080.0,
+          "high": 30082.25,
+          "low": 30072.75,
+          "close": 30073.0
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 30073.5,
+          "high": 30086.25,
+          "low": 30072.25,
+          "close": 30081.25
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 30081.25,
+          "high": 30088.5,
+          "low": 30073.25,
+          "close": 30077.75
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 30077.75,
+          "high": 30084.25,
+          "low": 30067.75,
+          "close": 30078.0
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 30078.25,
+          "high": 30082.5,
+          "low": 30063.75,
+          "close": 30070.25
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 30070.25,
+          "high": 30075.75,
+          "low": 30020.75,
+          "close": 30020.75
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 30020.0,
+          "high": 30033.75,
+          "low": 29990.5,
+          "close": 30032.25
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 30032.75,
+          "high": 30037.0,
+          "low": 29951.75,
+          "close": 29966.0
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 29965.5,
+          "high": 29967.25,
+          "low": 29885.75,
+          "close": 29929.25
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 29930.25,
+          "high": 29960.5,
+          "low": 29906.75,
+          "close": 29928.0
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 29928.0,
+          "high": 29952.25,
+          "low": 29898.75,
+          "close": 29949.25
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 29949.5,
+          "high": 29991.0,
+          "low": 29946.5,
+          "close": 29982.5
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 29982.25,
+          "high": 29992.25,
+          "low": 29961.75,
+          "close": 29988.75
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 29988.25,
+          "high": 30035.25,
+          "low": 29987.0,
+          "close": 30033.75
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 30032.5,
+          "high": 30039.25,
+          "low": 30015.25,
+          "close": 30024.75
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 30024.75,
+          "high": 30037.0,
+          "low": 30018.5,
+          "close": 30025.25
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 30025.5,
+          "high": 30028.0,
+          "low": 29998.5,
+          "close": 30022.75
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 30023.0,
+          "high": 30060.0,
+          "low": 30022.0,
+          "close": 30058.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 30058.25,
+          "high": 30058.5,
+          "low": 30021.75,
+          "close": 30034.25
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 30032.75,
+          "high": 30040.25,
+          "low": 29994.5,
+          "close": 29997.5
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 29998.25,
+          "high": 30057.0,
+          "low": 29983.75,
+          "close": 30047.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 30047.25,
+          "high": 30049.75,
+          "low": 29988.25,
+          "close": 30003.5
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 30001.0,
+          "high": 30008.25,
+          "low": 29962.75,
+          "close": 29964.0
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 29962.75,
+          "high": 29989.25,
+          "low": 29955.0,
+          "close": 29985.0
         }
       ]
     },
@@ -128924,7 +132164,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 25.92,
+      "cumulative_r": 25.58,
       "bars": [
         {
           "time": 1786712400,
@@ -129737,7 +132977,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 27.64,
+      "cumulative_r": 27.3,
       "bars": [
         {
           "time": 1786712400,
@@ -130550,7 +133790,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 27.64,
+      "cumulative_r": 27.3,
       "bars": [
         {
           "time": 1787576400,
@@ -131354,7 +134594,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 26.64,
+      "cumulative_r": 26.3,
       "bars": [
         {
           "time": 1787662800,
@@ -132167,7 +135407,7 @@
       "reason": "4H FVG Tap (bullish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.64,
+      "cumulative_r": 25.3,
       "bars": [
         {
           "time": 1787662800,
@@ -132980,7 +136220,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.64,
+      "cumulative_r": 25.3,
       "bars": [
         {
           "time": 1787662800,
@@ -133793,7 +137033,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.64,
+      "cumulative_r": 24.3,
       "bars": [
         {
           "time": 1787749200,
@@ -134606,7 +137846,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.64,
+      "cumulative_r": 24.3,
       "bars": [
         {
           "time": 1787749200,
@@ -135419,7 +138659,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.64,
+      "cumulative_r": 24.3,
       "bars": [
         {
           "time": 1787835600,
@@ -136232,7 +139472,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 25.3,
+      "cumulative_r": 24.96,
       "bars": [
         {
           "time": 1787835600,
@@ -137045,7 +140285,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 25.88,
+      "cumulative_r": 25.54,
       "bars": [
         {
           "time": 1787835600,
@@ -137858,7 +141098,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.88,
+      "cumulative_r": 25.54,
       "bars": [
         {
           "time": 1787922000,
@@ -138671,7 +141911,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 24.88,
+      "cumulative_r": 24.54,
       "bars": [
         {
           "time": 1787922000,
@@ -139484,7 +142724,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 23.88,
+      "cumulative_r": 23.54,
       "bars": [
         {
           "time": 1787922000,
@@ -140297,7 +143537,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 22.88,
+      "cumulative_r": 22.54,
       "bars": [
         {
           "time": 1788872400,
@@ -141110,7 +144350,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 22.88,
+      "cumulative_r": 22.54,
       "bars": [
         {
           "time": 1788872400,
@@ -141923,7 +145163,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 21.88,
+      "cumulative_r": 21.54,
       "bars": [
         {
           "time": 1788872400,
@@ -142736,7 +145976,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 25.88,
+      "cumulative_r": 25.54,
       "bars": [
         {
           "time": 1789477200,
@@ -143549,7 +146789,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 29.88,
+      "cumulative_r": 29.54,
       "bars": [
         {
           "time": 1789477200,
@@ -144362,7 +147602,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 28.88,
+      "cumulative_r": 28.54,
       "bars": [
         {
           "time": 1789477200,
@@ -145175,7 +148415,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 29.38,
+      "cumulative_r": 29.04,
       "bars": [
         {
           "time": 1789477200,
@@ -145988,7 +149228,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 28.38,
+      "cumulative_r": 28.04,
       "bars": [
         {
           "time": 1789563600,
@@ -146801,7 +150041,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 28.38,
+      "cumulative_r": 28.04,
       "bars": [
         {
           "time": 1789563600,
@@ -147614,7 +150854,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 28.57,
+      "cumulative_r": 28.23,
       "bars": [
         {
           "time": 1790082000,
@@ -148427,7 +151667,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 27.57,
+      "cumulative_r": 27.23,
       "bars": [
         {
           "time": 1790082000,
@@ -149240,7 +152480,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 26.57,
+      "cumulative_r": 26.23,
       "bars": [
         {
           "time": 1790082000,
@@ -150053,7 +153293,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.57,
+      "cumulative_r": 25.23,
       "bars": [
         {
           "time": 1790341200,
@@ -150866,7 +154106,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.57,
+      "cumulative_r": 24.23,
       "bars": [
         {
           "time": 1790341200,
@@ -151679,7 +154919,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 26.75,
+      "cumulative_r": 26.41,
       "bars": [
         {
           "time": 1790341200,
@@ -152492,7 +155732,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 27.7,
+      "cumulative_r": 27.36,
       "bars": [
         {
           "time": 1790686800,
@@ -153305,7 +156545,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 28.65,
+      "cumulative_r": 28.31,
       "bars": [
         {
           "time": 1790686800,
@@ -154118,7 +157358,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 29.09,
+      "cumulative_r": 28.75,
       "bars": [
         {
           "time": 1790686800,
@@ -154931,7 +158171,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 29.67,
+      "cumulative_r": 29.33,
       "bars": [
         {
           "time": 1790686800,
@@ -155744,7 +158984,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 29.67,
+      "cumulative_r": 29.33,
       "bars": [
         {
           "time": 1791464400,
@@ -156557,7 +159797,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 28.67,
+      "cumulative_r": 28.33,
       "bars": [
         {
           "time": 1791464400,
@@ -157370,7 +160610,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 27.67,
+      "cumulative_r": 27.33,
       "bars": [
         {
           "time": 1791464400,
@@ -158183,7 +161423,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 26.67,
+      "cumulative_r": 26.33,
       "bars": [
         {
           "time": 1791550800,
@@ -158996,7 +162236,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 25.67,
+      "cumulative_r": 25.33,
       "bars": [
         {
           "time": 1791550800,
@@ -159809,7 +163049,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.67,
+      "cumulative_r": 24.33,
       "bars": [
         {
           "time": 1791550800,
@@ -160622,7 +163862,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.67,
+      "cumulative_r": 24.33,
       "bars": [
         {
           "time": 1791896400,
@@ -161435,7 +164675,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 23.67,
+      "cumulative_r": 23.33,
       "bars": [
         {
           "time": 1791896400,
@@ -162248,7 +165488,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 25.98,
+      "cumulative_r": 25.64,
       "bars": [
         {
           "time": 1792069200,
@@ -163061,7 +166301,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 28.29,
+      "cumulative_r": 27.95,
       "bars": [
         {
           "time": 1792069200,
@@ -163874,7 +167114,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 28.29,
+      "cumulative_r": 27.95,
       "bars": [
         {
           "time": 1792414800,
@@ -164687,7 +167927,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 27.29,
+      "cumulative_r": 26.95,
       "bars": [
         {
           "time": 1792414800,
@@ -165500,7 +168740,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 27.29,
+      "cumulative_r": 26.95,
       "bars": [
         {
           "time": 1792414800,
@@ -166313,7 +169553,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 28.36,
+      "cumulative_r": 28.02,
       "bars": [
         {
           "time": 1792501200,
@@ -167126,7 +170366,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 29.43,
+      "cumulative_r": 29.09,
       "bars": [
         {
           "time": 1792501200,
@@ -167939,7 +171179,7 @@
       "reason": "Sweep HTF Swing Low + CISD",
       "trigger": "HTF Swing Low",
       "confirmation": "CISD",
-      "cumulative_r": 30.5,
+      "cumulative_r": 30.16,
       "bars": [
         {
           "time": 1792501200,
@@ -168752,7 +171992,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 32.02,
+      "cumulative_r": 31.68,
       "bars": [
         {
           "time": 1792501200,
@@ -169565,7 +172805,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 33.27,
+      "cumulative_r": 32.93,
       "bars": [
         {
           "time": 1792501200,
@@ -170378,7 +173618,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 32.27,
+      "cumulative_r": 31.93,
       "bars": [
         {
           "time": 1792587600,
@@ -170900,7 +174140,277 @@
           "open": 7807.0,
           "high": 7808.5,
           "low": 7805.25,
-          "close": 7807.25
+          "close": 7806.5
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 7806.5,
+          "high": 7809.0,
+          "low": 7806.0,
+          "close": 7808.25
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 7808.25,
+          "high": 7808.5,
+          "low": 7804.75,
+          "close": 7805.5
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 7805.5,
+          "high": 7806.75,
+          "low": 7802.75,
+          "close": 7804.75
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 7804.5,
+          "high": 7806.5,
+          "low": 7804.0,
+          "close": 7806.25
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 7806.0,
+          "high": 7808.5,
+          "low": 7805.25,
+          "close": 7807.5
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 7807.75,
+          "high": 7811.75,
+          "low": 7807.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 7810.0,
+          "high": 7810.25,
+          "low": 7808.25,
+          "close": 7809.0
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 7809.0,
+          "high": 7811.5,
+          "low": 7808.5,
+          "close": 7809.75
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 7810.0,
+          "high": 7811.0,
+          "low": 7809.25,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 7810.25,
+          "high": 7811.0,
+          "low": 7808.0,
+          "close": 7809.75
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 7809.75,
+          "high": 7810.75,
+          "low": 7808.5,
+          "close": 7809.0
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 7809.0,
+          "high": 7809.75,
+          "low": 7798.5,
+          "close": 7798.5
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 7798.25,
+          "high": 7801.5,
+          "low": 7793.75,
+          "close": 7800.5
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 7800.25,
+          "high": 7801.25,
+          "low": 7785.5,
+          "close": 7787.75
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 7787.5,
+          "high": 7787.75,
+          "low": 7770.75,
+          "close": 7779.75
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 7779.75,
+          "high": 7785.5,
+          "low": 7775.0,
+          "close": 7779.5
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 7779.5,
+          "high": 7783.5,
+          "low": 7773.5,
+          "close": 7783.0
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 7782.25,
+          "high": 7790.25,
+          "low": 7782.25,
+          "close": 7789.0
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 7788.75,
+          "high": 7791.75,
+          "low": 7785.5,
+          "close": 7790.75
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 7790.75,
+          "high": 7800.0,
+          "low": 7790.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 7799.5,
+          "high": 7800.0,
+          "low": 7796.25,
+          "close": 7797.0
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 7797.25,
+          "high": 7799.0,
+          "low": 7795.25,
+          "close": 7796.5
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 7796.75,
+          "high": 7798.5,
+          "low": 7794.0,
+          "close": 7798.25
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 7798.25,
+          "high": 7803.5,
+          "low": 7797.5,
+          "close": 7803.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 7803.25,
+          "high": 7806.25,
+          "low": 7800.0,
+          "close": 7803.75
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 7803.75,
+          "high": 7804.75,
+          "low": 7798.25,
+          "close": 7799.0
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 7799.0,
+          "high": 7806.0,
+          "low": 7797.75,
+          "close": 7804.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 7804.5,
+          "high": 7805.5,
+          "low": 7798.0,
+          "close": 7805.0
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 7805.0,
+          "high": 7806.0,
+          "low": 7799.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 7799.25,
+          "high": 7803.25,
+          "low": 7798.5,
+          "close": 7801.75
         }
       ]
     },
@@ -170921,7 +174431,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 36.27,
+      "cumulative_r": 35.93,
       "bars": [
         {
           "time": 1792587600,
@@ -171443,7 +174953,277 @@
           "open": 7807.0,
           "high": 7808.5,
           "low": 7805.25,
-          "close": 7807.25
+          "close": 7806.5
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 7806.5,
+          "high": 7809.0,
+          "low": 7806.0,
+          "close": 7808.25
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 7808.25,
+          "high": 7808.5,
+          "low": 7804.75,
+          "close": 7805.5
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 7805.5,
+          "high": 7806.75,
+          "low": 7802.75,
+          "close": 7804.75
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 7804.5,
+          "high": 7806.5,
+          "low": 7804.0,
+          "close": 7806.25
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 7806.0,
+          "high": 7808.5,
+          "low": 7805.25,
+          "close": 7807.5
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 7807.75,
+          "high": 7811.75,
+          "low": 7807.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 7810.0,
+          "high": 7810.25,
+          "low": 7808.25,
+          "close": 7809.0
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 7809.0,
+          "high": 7811.5,
+          "low": 7808.5,
+          "close": 7809.75
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 7810.0,
+          "high": 7811.0,
+          "low": 7809.25,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 7810.25,
+          "high": 7811.0,
+          "low": 7808.0,
+          "close": 7809.75
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 7809.75,
+          "high": 7810.75,
+          "low": 7808.5,
+          "close": 7809.0
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 7809.0,
+          "high": 7809.75,
+          "low": 7798.5,
+          "close": 7798.5
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 7798.25,
+          "high": 7801.5,
+          "low": 7793.75,
+          "close": 7800.5
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 7800.25,
+          "high": 7801.25,
+          "low": 7785.5,
+          "close": 7787.75
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 7787.5,
+          "high": 7787.75,
+          "low": 7770.75,
+          "close": 7779.75
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 7779.75,
+          "high": 7785.5,
+          "low": 7775.0,
+          "close": 7779.5
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 7779.5,
+          "high": 7783.5,
+          "low": 7773.5,
+          "close": 7783.0
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 7782.25,
+          "high": 7790.25,
+          "low": 7782.25,
+          "close": 7789.0
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 7788.75,
+          "high": 7791.75,
+          "low": 7785.5,
+          "close": 7790.75
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 7790.75,
+          "high": 7800.0,
+          "low": 7790.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 7799.5,
+          "high": 7800.0,
+          "low": 7796.25,
+          "close": 7797.0
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 7797.25,
+          "high": 7799.0,
+          "low": 7795.25,
+          "close": 7796.5
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 7796.75,
+          "high": 7798.5,
+          "low": 7794.0,
+          "close": 7798.25
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 7798.25,
+          "high": 7803.5,
+          "low": 7797.5,
+          "close": 7803.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 7803.25,
+          "high": 7806.25,
+          "low": 7800.0,
+          "close": 7803.75
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 7803.75,
+          "high": 7804.75,
+          "low": 7798.25,
+          "close": 7799.0
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 7799.0,
+          "high": 7806.0,
+          "low": 7797.75,
+          "close": 7804.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 7804.5,
+          "high": 7805.5,
+          "low": 7798.0,
+          "close": 7805.0
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 7805.0,
+          "high": 7806.0,
+          "low": 7799.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 7799.25,
+          "high": 7803.25,
+          "low": 7798.5,
+          "close": 7801.75
         }
       ]
     },
@@ -171464,7 +175244,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 36.27,
+      "cumulative_r": 35.93,
       "bars": [
         {
           "time": 1792587600,
@@ -171986,7 +175766,277 @@
           "open": 7807.0,
           "high": 7808.5,
           "low": 7805.25,
-          "close": 7807.25
+          "close": 7806.5
+        },
+        {
+          "time": 1792605000,
+          "time_str": "13:50",
+          "full_time": "2026-10-21 13:50 ET",
+          "open": 7806.5,
+          "high": 7809.0,
+          "low": 7806.0,
+          "close": 7808.25
+        },
+        {
+          "time": 1792605300,
+          "time_str": "13:55",
+          "full_time": "2026-10-21 13:55 ET",
+          "open": 7808.25,
+          "high": 7808.5,
+          "low": 7804.75,
+          "close": 7805.5
+        },
+        {
+          "time": 1792605600,
+          "time_str": "14:00",
+          "full_time": "2026-10-21 14:00 ET",
+          "open": 7805.5,
+          "high": 7806.75,
+          "low": 7802.75,
+          "close": 7804.75
+        },
+        {
+          "time": 1792605900,
+          "time_str": "14:05",
+          "full_time": "2026-10-21 14:05 ET",
+          "open": 7804.5,
+          "high": 7806.5,
+          "low": 7804.0,
+          "close": 7806.25
+        },
+        {
+          "time": 1792606200,
+          "time_str": "14:10",
+          "full_time": "2026-10-21 14:10 ET",
+          "open": 7806.0,
+          "high": 7808.5,
+          "low": 7805.25,
+          "close": 7807.5
+        },
+        {
+          "time": 1792606500,
+          "time_str": "14:15",
+          "full_time": "2026-10-21 14:15 ET",
+          "open": 7807.75,
+          "high": 7811.75,
+          "low": 7807.5,
+          "close": 7810.0
+        },
+        {
+          "time": 1792606800,
+          "time_str": "14:20",
+          "full_time": "2026-10-21 14:20 ET",
+          "open": 7810.0,
+          "high": 7810.25,
+          "low": 7808.25,
+          "close": 7809.0
+        },
+        {
+          "time": 1792607100,
+          "time_str": "14:25",
+          "full_time": "2026-10-21 14:25 ET",
+          "open": 7809.0,
+          "high": 7811.5,
+          "low": 7808.5,
+          "close": 7809.75
+        },
+        {
+          "time": 1792607400,
+          "time_str": "14:30",
+          "full_time": "2026-10-21 14:30 ET",
+          "open": 7810.0,
+          "high": 7811.0,
+          "low": 7809.25,
+          "close": 7810.0
+        },
+        {
+          "time": 1792607700,
+          "time_str": "14:35",
+          "full_time": "2026-10-21 14:35 ET",
+          "open": 7810.25,
+          "high": 7811.0,
+          "low": 7808.0,
+          "close": 7809.75
+        },
+        {
+          "time": 1792608000,
+          "time_str": "14:40",
+          "full_time": "2026-10-21 14:40 ET",
+          "open": 7809.75,
+          "high": 7810.75,
+          "low": 7808.5,
+          "close": 7809.0
+        },
+        {
+          "time": 1792608300,
+          "time_str": "14:45",
+          "full_time": "2026-10-21 14:45 ET",
+          "open": 7809.0,
+          "high": 7809.75,
+          "low": 7798.5,
+          "close": 7798.5
+        },
+        {
+          "time": 1792608600,
+          "time_str": "14:50",
+          "full_time": "2026-10-21 14:50 ET",
+          "open": 7798.25,
+          "high": 7801.5,
+          "low": 7793.75,
+          "close": 7800.5
+        },
+        {
+          "time": 1792608900,
+          "time_str": "14:55",
+          "full_time": "2026-10-21 14:55 ET",
+          "open": 7800.25,
+          "high": 7801.25,
+          "low": 7785.5,
+          "close": 7787.75
+        },
+        {
+          "time": 1792609200,
+          "time_str": "15:00",
+          "full_time": "2026-10-21 15:00 ET",
+          "open": 7787.5,
+          "high": 7787.75,
+          "low": 7770.75,
+          "close": 7779.75
+        },
+        {
+          "time": 1792609500,
+          "time_str": "15:05",
+          "full_time": "2026-10-21 15:05 ET",
+          "open": 7779.75,
+          "high": 7785.5,
+          "low": 7775.0,
+          "close": 7779.5
+        },
+        {
+          "time": 1792609800,
+          "time_str": "15:10",
+          "full_time": "2026-10-21 15:10 ET",
+          "open": 7779.5,
+          "high": 7783.5,
+          "low": 7773.5,
+          "close": 7783.0
+        },
+        {
+          "time": 1792610100,
+          "time_str": "15:15",
+          "full_time": "2026-10-21 15:15 ET",
+          "open": 7782.25,
+          "high": 7790.25,
+          "low": 7782.25,
+          "close": 7789.0
+        },
+        {
+          "time": 1792610400,
+          "time_str": "15:20",
+          "full_time": "2026-10-21 15:20 ET",
+          "open": 7788.75,
+          "high": 7791.75,
+          "low": 7785.5,
+          "close": 7790.75
+        },
+        {
+          "time": 1792610700,
+          "time_str": "15:25",
+          "full_time": "2026-10-21 15:25 ET",
+          "open": 7790.75,
+          "high": 7800.0,
+          "low": 7790.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792611000,
+          "time_str": "15:30",
+          "full_time": "2026-10-21 15:30 ET",
+          "open": 7799.5,
+          "high": 7800.0,
+          "low": 7796.25,
+          "close": 7797.0
+        },
+        {
+          "time": 1792611300,
+          "time_str": "15:35",
+          "full_time": "2026-10-21 15:35 ET",
+          "open": 7797.25,
+          "high": 7799.0,
+          "low": 7795.25,
+          "close": 7796.5
+        },
+        {
+          "time": 1792611600,
+          "time_str": "15:40",
+          "full_time": "2026-10-21 15:40 ET",
+          "open": 7796.75,
+          "high": 7798.5,
+          "low": 7794.0,
+          "close": 7798.25
+        },
+        {
+          "time": 1792611900,
+          "time_str": "15:45",
+          "full_time": "2026-10-21 15:45 ET",
+          "open": 7798.25,
+          "high": 7803.5,
+          "low": 7797.5,
+          "close": 7803.25
+        },
+        {
+          "time": 1792612200,
+          "time_str": "15:50",
+          "full_time": "2026-10-21 15:50 ET",
+          "open": 7803.25,
+          "high": 7806.25,
+          "low": 7800.0,
+          "close": 7803.75
+        },
+        {
+          "time": 1792612500,
+          "time_str": "15:55",
+          "full_time": "2026-10-21 15:55 ET",
+          "open": 7803.75,
+          "high": 7804.75,
+          "low": 7798.25,
+          "close": 7799.0
+        },
+        {
+          "time": 1792612800,
+          "time_str": "16:00",
+          "full_time": "2026-10-21 16:00 ET",
+          "open": 7799.0,
+          "high": 7806.0,
+          "low": 7797.75,
+          "close": 7804.5
+        },
+        {
+          "time": 1792613100,
+          "time_str": "16:05",
+          "full_time": "2026-10-21 16:05 ET",
+          "open": 7804.5,
+          "high": 7805.5,
+          "low": 7798.0,
+          "close": 7805.0
+        },
+        {
+          "time": 1792613400,
+          "time_str": "16:10",
+          "full_time": "2026-10-21 16:10 ET",
+          "open": 7805.0,
+          "high": 7806.0,
+          "low": 7799.5,
+          "close": 7799.5
+        },
+        {
+          "time": 1792613700,
+          "time_str": "16:15",
+          "full_time": "2026-10-21 16:15 ET",
+          "open": 7799.25,
+          "high": 7803.25,
+          "low": 7798.5,
+          "close": 7801.75
         }
       ]
     }

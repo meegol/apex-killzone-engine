@@ -1,7 +1,7 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-10-21T17:58:29Z",
+  "generated_at": "2026-10-21T23:53:29Z",
   "total_trades": 200,
   "instruments": [
     "ES=F",
@@ -4577,9 +4577,9 @@
       "entry_price": 29805.75,
       "stop_price": 29717.62,
       "target_price": 30158.25,
-      "exit_price": 30063.75,
+      "exit_price": 30047.5,
       "risk_pts": 88.12,
-      "realized_r": 2.928,
+      "realized_r": 2.743,
       "result": "eod_close",
       "setup": "1H FVG",
       "trigger": "1H FVG",
@@ -4589,7 +4589,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-10-21 10:10 ET",
-      "exit_time": "2026-10-21 13:45 ET"
+      "exit_time": "2026-10-21 16:00 ET"
     },
     {
       "id": "trade-NQF-0200",
@@ -4600,9 +4600,9 @@
       "entry_price": 29806.0,
       "stop_price": 29719.02,
       "target_price": 30153.9,
-      "exit_price": 30061.25,
+      "exit_price": 30047.75,
       "risk_pts": 86.97,
-      "realized_r": 2.935,
+      "realized_r": 2.78,
       "result": "eod_close",
       "setup": "1H FVG",
       "trigger": "1H FVG",
@@ -4612,7 +4612,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-10-21 10:10 ET",
-      "exit_time": "2026-10-21 13:45 ET"
+      "exit_time": "2026-10-21 16:00 ET"
     }
   ]
 }
