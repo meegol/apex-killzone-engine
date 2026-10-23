@@ -1,7 +1,7 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-10-23T17:49:59Z",
+  "generated_at": "2026-10-23T23:44:56Z",
   "total_trades": 215,
   "instruments": [
     "ES=F",
@@ -4876,10 +4876,10 @@
       "entry_price": 29131.0,
       "stop_price": 29010.28,
       "target_price": 29613.9,
-      "exit_price": 29167.0,
+      "exit_price": 29131.0,
       "risk_pts": 120.72,
-      "realized_r": 0.298,
-      "result": "eod_close",
+      "realized_r": 0.0,
+      "result": "breakeven",
       "setup": "London Low",
       "trigger": "London Low",
       "confirmation": "CISD",
@@ -4888,7 +4888,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-10-23 09:45 ET",
-      "exit_time": "2026-10-23 13:35 ET"
+      "exit_time": "2026-10-23 15:25 ET"
     },
     {
       "id": "trade-MNQF-0213",
