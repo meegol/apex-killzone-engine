@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-11-02 21:45:07 ET",
+  "last_updated": "2026-11-03 15:01:50 ET",
   "status": "ACTIVE",
   "execution_frequency": "Daily post-market (5:00 PM ET)",
   "target_rr": "1:4",
   "metrics": {
-    "total_trades": 226,
-    "win_rate": 34.1,
+    "total_trades": 224,
+    "win_rate": 34.4,
     "total_r": 43.66,
     "profit_factor": 1.59,
     "winning_trades": 77,
-    "losing_trades": 149
+    "losing_trades": 147
   },
   "symbol_summaries": {
     "NQ=F": {
@@ -23,12 +23,12 @@
     },
     "ES=F": {
       "symbol": "ES=F",
-      "trades": 56,
-      "win_rate": 7.1,
+      "trades": 55,
+      "win_rate": 7.3,
       "total_r": 10.95,
       "profit_factor": 1.51,
-      "max_drawdown": 6.72,
-      "expectancy": 0.196
+      "max_drawdown": 5.72,
+      "expectancy": 0.199
     },
     "MNQ=F": {
       "symbol": "MNQ=F",
@@ -41,12 +41,12 @@
     },
     "MES=F": {
       "symbol": "MES=F",
-      "trades": 60,
-      "win_rate": 6.7,
+      "trades": 59,
+      "win_rate": 6.8,
       "total_r": 11.0,
       "profit_factor": 1.47,
       "max_drawdown": 6.21,
-      "expectancy": 0.183
+      "expectancy": 0.186
     }
   },
   "equity_curve": [
@@ -382,15 +382,15 @@
     },
     {
       "trade": 56,
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "symbol": "ES=F",
-      "cumulative_r": 11.81
+      "cumulative_r": 10.81
     },
     {
       "trade": 57,
       "date": "2026-08-25",
       "symbol": "ES=F",
-      "cumulative_r": 10.81
+      "cumulative_r": 9.81
     },
     {
       "trade": 58,
@@ -400,13 +400,13 @@
     },
     {
       "trade": 59,
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "symbol": "ES=F",
-      "cumulative_r": 9.81
+      "cumulative_r": 8.81
     },
     {
       "trade": 60,
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "symbol": "ES=F",
       "cumulative_r": 8.81
     },
@@ -414,17 +414,17 @@
       "trade": 61,
       "date": "2026-08-27",
       "symbol": "ES=F",
-      "cumulative_r": 8.81
+      "cumulative_r": 9.5
     },
     {
       "trade": 62,
       "date": "2026-08-27",
       "symbol": "ES=F",
-      "cumulative_r": 9.5
+      "cumulative_r": 10.09
     },
     {
       "trade": 63,
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "symbol": "ES=F",
       "cumulative_r": 10.09
     },
@@ -432,7 +432,7 @@
       "trade": 64,
       "date": "2026-08-28",
       "symbol": "ES=F",
-      "cumulative_r": 10.09
+      "cumulative_r": 9.09
     },
     {
       "trade": 65,
@@ -442,9 +442,9 @@
     },
     {
       "trade": 66,
-      "date": "2026-08-28",
+      "date": "2026-09-08",
       "symbol": "ES=F",
-      "cumulative_r": 9.09
+      "cumulative_r": 8.09
     },
     {
       "trade": 67,
@@ -456,19 +456,19 @@
       "trade": 68,
       "date": "2026-09-08",
       "symbol": "ES=F",
-      "cumulative_r": 8.09
+      "cumulative_r": 7.09
     },
     {
       "trade": 69,
-      "date": "2026-09-08",
+      "date": "2026-09-14",
       "symbol": "ES=F",
-      "cumulative_r": 7.09
+      "cumulative_r": 6.09
     },
     {
       "trade": 70,
       "date": "2026-09-14",
       "symbol": "ES=F",
-      "cumulative_r": 6.09
+      "cumulative_r": 5.09
     },
     {
       "trade": 71,
@@ -478,27 +478,27 @@
     },
     {
       "trade": 72,
-      "date": "2026-09-14",
-      "symbol": "ES=F",
-      "cumulative_r": 5.09
-    },
-    {
-      "trade": 73,
       "date": "2026-09-15",
       "symbol": "ES=F",
       "cumulative_r": 9.09
     },
     {
-      "trade": 74,
+      "trade": 73,
       "date": "2026-09-15",
       "symbol": "ES=F",
       "cumulative_r": 13.09
     },
     {
-      "trade": 75,
+      "trade": 74,
       "date": "2026-09-15",
       "symbol": "ES=F",
       "cumulative_r": 12.09
+    },
+    {
+      "trade": 75,
+      "date": "2026-09-16",
+      "symbol": "ES=F",
+      "cumulative_r": 11.09
     },
     {
       "trade": 76,
@@ -508,57 +508,57 @@
     },
     {
       "trade": 77,
-      "date": "2026-09-16",
-      "symbol": "ES=F",
-      "cumulative_r": 11.09
-    },
-    {
-      "trade": 78,
       "date": "2026-09-25",
       "symbol": "ES=F",
       "cumulative_r": 10.09
     },
     {
-      "trade": 79,
+      "trade": 78,
       "date": "2026-09-25",
       "symbol": "ES=F",
       "cumulative_r": 9.09
     },
     {
-      "trade": 80,
+      "trade": 79,
       "date": "2026-09-25",
       "symbol": "ES=F",
       "cumulative_r": 11.35
     },
     {
-      "trade": 81,
+      "trade": 80,
       "date": "2026-09-29",
       "symbol": "ES=F",
       "cumulative_r": 12.27
     },
     {
-      "trade": 82,
+      "trade": 81,
       "date": "2026-09-29",
       "symbol": "ES=F",
       "cumulative_r": 13.19
     },
     {
-      "trade": 83,
+      "trade": 82,
       "date": "2026-09-29",
       "symbol": "ES=F",
       "cumulative_r": 13.61
     },
     {
-      "trade": 84,
+      "trade": 83,
       "date": "2026-09-29",
       "symbol": "ES=F",
       "cumulative_r": 14.17
     },
     {
-      "trade": 85,
+      "trade": 84,
       "date": "2026-10-08",
       "symbol": "ES=F",
       "cumulative_r": 13.17
+    },
+    {
+      "trade": 85,
+      "date": "2026-10-08",
+      "symbol": "ES=F",
+      "cumulative_r": 12.17
     },
     {
       "trade": 86,
@@ -568,25 +568,25 @@
     },
     {
       "trade": 87,
-      "date": "2026-10-08",
-      "symbol": "ES=F",
-      "cumulative_r": 12.17
-    },
-    {
-      "trade": 88,
       "date": "2026-10-09",
       "symbol": "ES=F",
       "cumulative_r": 11.17
     },
     {
-      "trade": 89,
+      "trade": 88,
       "date": "2026-10-09",
       "symbol": "ES=F",
       "cumulative_r": 10.17
     },
     {
-      "trade": 90,
+      "trade": 89,
       "date": "2026-10-09",
+      "symbol": "ES=F",
+      "cumulative_r": 9.17
+    },
+    {
+      "trade": 90,
+      "date": "2026-10-13",
       "symbol": "ES=F",
       "cumulative_r": 9.17
     },
@@ -598,15 +598,15 @@
     },
     {
       "trade": 92,
-      "date": "2026-10-13",
-      "symbol": "ES=F",
-      "cumulative_r": 9.17
-    },
-    {
-      "trade": 93,
       "date": "2026-10-15",
       "symbol": "ES=F",
       "cumulative_r": 11.62
+    },
+    {
+      "trade": 93,
+      "date": "2026-10-19",
+      "symbol": "ES=F",
+      "cumulative_r": 10.62
     },
     {
       "trade": 94,
@@ -616,45 +616,45 @@
     },
     {
       "trade": 95,
-      "date": "2026-10-19",
-      "symbol": "ES=F",
-      "cumulative_r": 10.62
-    },
-    {
-      "trade": 96,
       "date": "2026-10-20",
       "symbol": "ES=F",
       "cumulative_r": 11.69
     },
     {
-      "trade": 97,
+      "trade": 96,
       "date": "2026-10-20",
       "symbol": "ES=F",
       "cumulative_r": 12.76
     },
     {
-      "trade": 98,
+      "trade": 97,
       "date": "2026-10-20",
       "symbol": "ES=F",
       "cumulative_r": 13.83
     },
     {
-      "trade": 99,
+      "trade": 98,
       "date": "2026-10-20",
       "symbol": "ES=F",
       "cumulative_r": 15.35
     },
     {
-      "trade": 100,
+      "trade": 99,
       "date": "2026-10-20",
       "symbol": "ES=F",
       "cumulative_r": 16.58
     },
     {
-      "trade": 101,
+      "trade": 100,
       "date": "2026-10-21",
       "symbol": "ES=F",
       "cumulative_r": 15.58
+    },
+    {
+      "trade": 101,
+      "date": "2026-10-21",
+      "symbol": "ES=F",
+      "cumulative_r": 19.58
     },
     {
       "trade": 102,
@@ -664,7 +664,7 @@
     },
     {
       "trade": 103,
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "symbol": "ES=F",
       "cumulative_r": 19.58
     },
@@ -672,17 +672,17 @@
       "trade": 104,
       "date": "2026-10-22",
       "symbol": "ES=F",
-      "cumulative_r": 19.58
+      "cumulative_r": 20.33
     },
     {
       "trade": 105,
       "date": "2026-10-22",
       "symbol": "ES=F",
-      "cumulative_r": 20.33
+      "cumulative_r": 21.24
     },
     {
       "trade": 106,
-      "date": "2026-10-22",
+      "date": "2026-10-28",
       "symbol": "ES=F",
       "cumulative_r": 21.24
     },
@@ -690,49 +690,49 @@
       "trade": 107,
       "date": "2026-10-28",
       "symbol": "ES=F",
-      "cumulative_r": 21.24
-    },
-    {
-      "trade": 108,
-      "date": "2026-10-28",
-      "symbol": "ES=F",
       "cumulative_r": 25.24
     },
     {
-      "trade": 109,
+      "trade": 108,
       "date": "2026-10-29",
       "symbol": "ES=F",
       "cumulative_r": 24.76
     },
     {
-      "trade": 110,
+      "trade": 109,
       "date": "2026-10-29",
       "symbol": "ES=F",
       "cumulative_r": 23.76
     },
     {
-      "trade": 111,
+      "trade": 110,
       "date": "2026-10-29",
       "symbol": "ES=F",
       "cumulative_r": 22.76
     },
     {
-      "trade": 112,
+      "trade": 111,
       "date": "2026-08-25",
       "symbol": "MNQ=F",
       "cumulative_r": 23.43
     },
     {
-      "trade": 113,
+      "trade": 112,
       "date": "2026-08-25",
       "symbol": "MNQ=F",
       "cumulative_r": 24.09
     },
     {
-      "trade": 114,
+      "trade": 113,
       "date": "2026-08-26",
       "symbol": "MNQ=F",
       "cumulative_r": 26.31
+    },
+    {
+      "trade": 114,
+      "date": "2026-08-26",
+      "symbol": "MNQ=F",
+      "cumulative_r": 28.52
     },
     {
       "trade": 115,
@@ -748,21 +748,21 @@
     },
     {
       "trade": 117,
-      "date": "2026-08-26",
-      "symbol": "MNQ=F",
-      "cumulative_r": 28.52
-    },
-    {
-      "trade": 118,
       "date": "2026-08-27",
       "symbol": "MNQ=F",
       "cumulative_r": 30.46
     },
     {
-      "trade": 119,
+      "trade": 118,
       "date": "2026-08-27",
       "symbol": "MNQ=F",
       "cumulative_r": 31.06
+    },
+    {
+      "trade": 119,
+      "date": "2026-08-27",
+      "symbol": "MNQ=F",
+      "cumulative_r": 32.42
     },
     {
       "trade": 120,
@@ -772,9 +772,9 @@
     },
     {
       "trade": 121,
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 32.42
+      "cumulative_r": 31.42
     },
     {
       "trade": 122,
@@ -790,9 +790,9 @@
     },
     {
       "trade": 124,
-      "date": "2026-08-28",
+      "date": "2026-09-02",
       "symbol": "MNQ=F",
-      "cumulative_r": 31.42
+      "cumulative_r": 35.42
     },
     {
       "trade": 125,
@@ -802,33 +802,33 @@
     },
     {
       "trade": 126,
-      "date": "2026-09-02",
-      "symbol": "MNQ=F",
-      "cumulative_r": 35.42
-    },
-    {
-      "trade": 127,
       "date": "2026-09-08",
       "symbol": "MNQ=F",
       "cumulative_r": 35.78
     },
     {
-      "trade": 128,
+      "trade": 127,
       "date": "2026-09-08",
       "symbol": "MNQ=F",
       "cumulative_r": 35.71
     },
     {
-      "trade": 129,
+      "trade": 128,
       "date": "2026-09-14",
       "symbol": "MNQ=F",
       "cumulative_r": 34.71
     },
     {
-      "trade": 130,
+      "trade": 129,
       "date": "2026-09-14",
       "symbol": "MNQ=F",
       "cumulative_r": 33.71
+    },
+    {
+      "trade": 130,
+      "date": "2026-09-15",
+      "symbol": "MNQ=F",
+      "cumulative_r": 32.71
     },
     {
       "trade": 131,
@@ -844,7 +844,7 @@
     },
     {
       "trade": 133,
-      "date": "2026-09-15",
+      "date": "2026-09-24",
       "symbol": "MNQ=F",
       "cumulative_r": 32.71
     },
@@ -852,11 +852,11 @@
       "trade": 134,
       "date": "2026-09-24",
       "symbol": "MNQ=F",
-      "cumulative_r": 32.71
+      "cumulative_r": 31.71
     },
     {
       "trade": 135,
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "symbol": "MNQ=F",
       "cumulative_r": 31.71
     },
@@ -868,7 +868,7 @@
     },
     {
       "trade": 137,
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "symbol": "MNQ=F",
       "cumulative_r": 31.71
     },
@@ -886,33 +886,33 @@
     },
     {
       "trade": 140,
-      "date": "2026-09-28",
-      "symbol": "MNQ=F",
-      "cumulative_r": 31.71
-    },
-    {
-      "trade": 141,
       "date": "2026-10-08",
       "symbol": "MNQ=F",
       "cumulative_r": 30.71
     },
     {
-      "trade": 142,
+      "trade": 141,
       "date": "2026-10-08",
       "symbol": "MNQ=F",
       "cumulative_r": 29.71
     },
     {
-      "trade": 143,
+      "trade": 142,
       "date": "2026-10-08",
       "symbol": "MNQ=F",
       "cumulative_r": 28.71
     },
     {
-      "trade": 144,
+      "trade": 143,
       "date": "2026-10-13",
       "symbol": "MNQ=F",
       "cumulative_r": 28.88
+    },
+    {
+      "trade": 144,
+      "date": "2026-10-13",
+      "symbol": "MNQ=F",
+      "cumulative_r": 29.05
     },
     {
       "trade": 145,
@@ -922,49 +922,49 @@
     },
     {
       "trade": 146,
-      "date": "2026-10-13",
-      "symbol": "MNQ=F",
-      "cumulative_r": 29.05
-    },
-    {
-      "trade": 147,
       "date": "2026-10-15",
       "symbol": "MNQ=F",
       "cumulative_r": 28.05
     },
     {
-      "trade": 148,
+      "trade": 147,
       "date": "2026-10-15",
       "symbol": "MNQ=F",
       "cumulative_r": 27.05
     },
     {
-      "trade": 149,
+      "trade": 148,
       "date": "2026-10-19",
       "symbol": "MNQ=F",
       "cumulative_r": 26.59
     },
     {
-      "trade": 150,
+      "trade": 149,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
       "cumulative_r": 26.95
     },
     {
-      "trade": 151,
+      "trade": 150,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
       "cumulative_r": 27.31
     },
     {
-      "trade": 152,
+      "trade": 151,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
       "cumulative_r": 27.67
     },
     {
-      "trade": 153,
+      "trade": 152,
       "date": "2026-10-20",
+      "symbol": "MNQ=F",
+      "cumulative_r": 28.11
+    },
+    {
+      "trade": 153,
+      "date": "2026-10-21",
       "symbol": "MNQ=F",
       "cumulative_r": 28.11
     },
@@ -978,29 +978,29 @@
       "trade": 155,
       "date": "2026-10-21",
       "symbol": "MNQ=F",
-      "cumulative_r": 28.11
-    },
-    {
-      "trade": 156,
-      "date": "2026-10-21",
-      "symbol": "MNQ=F",
       "cumulative_r": 30.85
     },
     {
-      "trade": 157,
+      "trade": 156,
       "date": "2026-10-22",
       "symbol": "MNQ=F",
       "cumulative_r": 33.5
     },
     {
-      "trade": 158,
+      "trade": 157,
       "date": "2026-10-22",
       "symbol": "MNQ=F",
       "cumulative_r": 35.64
     },
     {
-      "trade": 159,
+      "trade": 158,
       "date": "2026-10-22",
+      "symbol": "MNQ=F",
+      "cumulative_r": 34.64
+    },
+    {
+      "trade": 159,
+      "date": "2026-10-23",
       "symbol": "MNQ=F",
       "cumulative_r": 34.64
     },
@@ -1012,7 +1012,7 @@
     },
     {
       "trade": 161,
-      "date": "2026-10-23",
+      "date": "2026-10-29",
       "symbol": "MNQ=F",
       "cumulative_r": 34.64
     },
@@ -1020,17 +1020,17 @@
       "trade": 162,
       "date": "2026-10-29",
       "symbol": "MNQ=F",
-      "cumulative_r": 34.64
+      "cumulative_r": 33.64
     },
     {
       "trade": 163,
       "date": "2026-10-29",
       "symbol": "MNQ=F",
-      "cumulative_r": 33.64
+      "cumulative_r": 32.64
     },
     {
       "trade": 164,
-      "date": "2026-10-29",
+      "date": "2026-11-02",
       "symbol": "MNQ=F",
       "cumulative_r": 32.64
     },
@@ -1042,366 +1042,354 @@
     },
     {
       "trade": 166,
-      "date": "2026-11-02",
-      "symbol": "MNQ=F",
-      "cumulative_r": 32.64
-    },
-    {
-      "trade": 167,
-      "date": "2026-08-24",
-      "symbol": "MES=F",
-      "cumulative_r": 32.64
-    },
-    {
-      "trade": 168,
       "date": "2026-08-25",
       "symbol": "MES=F",
       "cumulative_r": 31.64
     },
     {
-      "trade": 169,
+      "trade": 167,
       "date": "2026-08-25",
       "symbol": "MES=F",
       "cumulative_r": 30.64
+    },
+    {
+      "trade": 168,
+      "date": "2026-08-25",
+      "symbol": "MES=F",
+      "cumulative_r": 30.64
+    },
+    {
+      "trade": 169,
+      "date": "2026-08-26",
+      "symbol": "MES=F",
+      "cumulative_r": 29.64
     },
     {
       "trade": 170,
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "symbol": "MES=F",
-      "cumulative_r": 30.64
+      "cumulative_r": 29.64
     },
     {
       "trade": 171,
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "symbol": "MES=F",
       "cumulative_r": 29.64
     },
     {
       "trade": 172,
-      "date": "2026-08-26",
-      "symbol": "MES=F",
-      "cumulative_r": 29.64
-    },
-    {
-      "trade": 173,
-      "date": "2026-08-27",
-      "symbol": "MES=F",
-      "cumulative_r": 29.64
-    },
-    {
-      "trade": 174,
       "date": "2026-08-27",
       "symbol": "MES=F",
       "cumulative_r": 30.3
     },
     {
-      "trade": 175,
+      "trade": 173,
       "date": "2026-08-27",
       "symbol": "MES=F",
       "cumulative_r": 30.88
     },
     {
-      "trade": 176,
+      "trade": 174,
       "date": "2026-08-28",
       "symbol": "MES=F",
       "cumulative_r": 30.88
     },
     {
-      "trade": 177,
+      "trade": 175,
       "date": "2026-08-28",
       "symbol": "MES=F",
       "cumulative_r": 29.88
     },
     {
-      "trade": 178,
+      "trade": 176,
       "date": "2026-08-28",
       "symbol": "MES=F",
       "cumulative_r": 28.88
     },
     {
+      "trade": 177,
+      "date": "2026-09-08",
+      "symbol": "MES=F",
+      "cumulative_r": 27.88
+    },
+    {
+      "trade": 178,
+      "date": "2026-09-08",
+      "symbol": "MES=F",
+      "cumulative_r": 27.88
+    },
+    {
       "trade": 179,
-      "date": "2026-09-08",
-      "symbol": "MES=F",
-      "cumulative_r": 27.88
-    },
-    {
-      "trade": 180,
-      "date": "2026-09-08",
-      "symbol": "MES=F",
-      "cumulative_r": 27.88
-    },
-    {
-      "trade": 181,
       "date": "2026-09-08",
       "symbol": "MES=F",
       "cumulative_r": 26.88
     },
     {
-      "trade": 182,
+      "trade": 180,
       "date": "2026-09-15",
       "symbol": "MES=F",
       "cumulative_r": 30.88
     },
     {
-      "trade": 183,
+      "trade": 181,
       "date": "2026-09-15",
       "symbol": "MES=F",
       "cumulative_r": 34.88
     },
     {
-      "trade": 184,
+      "trade": 182,
       "date": "2026-09-15",
       "symbol": "MES=F",
       "cumulative_r": 33.88
     },
     {
-      "trade": 185,
+      "trade": 183,
       "date": "2026-09-15",
       "symbol": "MES=F",
       "cumulative_r": 34.38
     },
     {
+      "trade": 184,
+      "date": "2026-09-16",
+      "symbol": "MES=F",
+      "cumulative_r": 33.38
+    },
+    {
+      "trade": 185,
+      "date": "2026-09-16",
+      "symbol": "MES=F",
+      "cumulative_r": 33.38
+    },
+    {
       "trade": 186,
-      "date": "2026-09-16",
-      "symbol": "MES=F",
-      "cumulative_r": 33.38
-    },
-    {
-      "trade": 187,
-      "date": "2026-09-16",
-      "symbol": "MES=F",
-      "cumulative_r": 33.38
-    },
-    {
-      "trade": 188,
       "date": "2026-09-22",
       "symbol": "MES=F",
       "cumulative_r": 33.57
     },
     {
-      "trade": 189,
+      "trade": 187,
       "date": "2026-09-22",
       "symbol": "MES=F",
       "cumulative_r": 32.57
     },
     {
-      "trade": 190,
+      "trade": 188,
       "date": "2026-09-22",
       "symbol": "MES=F",
       "cumulative_r": 31.57
     },
     {
-      "trade": 191,
+      "trade": 189,
       "date": "2026-09-25",
       "symbol": "MES=F",
       "cumulative_r": 30.57
     },
     {
-      "trade": 192,
+      "trade": 190,
       "date": "2026-09-25",
       "symbol": "MES=F",
       "cumulative_r": 29.57
     },
     {
-      "trade": 193,
+      "trade": 191,
       "date": "2026-09-25",
       "symbol": "MES=F",
       "cumulative_r": 31.75
     },
     {
-      "trade": 194,
+      "trade": 192,
       "date": "2026-09-29",
       "symbol": "MES=F",
       "cumulative_r": 32.7
     },
     {
-      "trade": 195,
+      "trade": 193,
       "date": "2026-09-29",
       "symbol": "MES=F",
       "cumulative_r": 33.65
     },
     {
-      "trade": 196,
+      "trade": 194,
       "date": "2026-09-29",
       "symbol": "MES=F",
       "cumulative_r": 34.09
     },
     {
-      "trade": 197,
+      "trade": 195,
       "date": "2026-09-29",
       "symbol": "MES=F",
       "cumulative_r": 34.67
     },
     {
-      "trade": 198,
+      "trade": 196,
       "date": "2026-10-08",
       "symbol": "MES=F",
       "cumulative_r": 34.67
     },
     {
-      "trade": 199,
+      "trade": 197,
       "date": "2026-10-08",
       "symbol": "MES=F",
       "cumulative_r": 33.67
     },
     {
-      "trade": 200,
+      "trade": 198,
       "date": "2026-10-08",
       "symbol": "MES=F",
       "cumulative_r": 32.67
     },
     {
-      "trade": 201,
+      "trade": 199,
       "date": "2026-10-09",
       "symbol": "MES=F",
       "cumulative_r": 31.67
     },
     {
-      "trade": 202,
+      "trade": 200,
       "date": "2026-10-09",
       "symbol": "MES=F",
       "cumulative_r": 30.67
     },
     {
-      "trade": 203,
+      "trade": 201,
       "date": "2026-10-09",
       "symbol": "MES=F",
       "cumulative_r": 29.67
     },
     {
-      "trade": 204,
+      "trade": 202,
       "date": "2026-10-13",
       "symbol": "MES=F",
       "cumulative_r": 29.67
     },
     {
-      "trade": 205,
+      "trade": 203,
       "date": "2026-10-13",
       "symbol": "MES=F",
       "cumulative_r": 28.67
     },
     {
-      "trade": 206,
+      "trade": 204,
       "date": "2026-10-15",
       "symbol": "MES=F",
       "cumulative_r": 30.98
     },
     {
-      "trade": 207,
+      "trade": 205,
       "date": "2026-10-15",
       "symbol": "MES=F",
       "cumulative_r": 33.29
     },
     {
-      "trade": 208,
+      "trade": 206,
       "date": "2026-10-19",
       "symbol": "MES=F",
       "cumulative_r": 33.29
     },
     {
+      "trade": 207,
+      "date": "2026-10-19",
+      "symbol": "MES=F",
+      "cumulative_r": 32.29
+    },
+    {
+      "trade": 208,
+      "date": "2026-10-19",
+      "symbol": "MES=F",
+      "cumulative_r": 32.29
+    },
+    {
       "trade": 209,
-      "date": "2026-10-19",
-      "symbol": "MES=F",
-      "cumulative_r": 32.29
-    },
-    {
-      "trade": 210,
-      "date": "2026-10-19",
-      "symbol": "MES=F",
-      "cumulative_r": 32.29
-    },
-    {
-      "trade": 211,
       "date": "2026-10-20",
       "symbol": "MES=F",
       "cumulative_r": 33.36
     },
     {
-      "trade": 212,
+      "trade": 210,
       "date": "2026-10-20",
       "symbol": "MES=F",
       "cumulative_r": 34.43
     },
     {
-      "trade": 213,
+      "trade": 211,
       "date": "2026-10-20",
       "symbol": "MES=F",
       "cumulative_r": 35.5
     },
     {
-      "trade": 214,
+      "trade": 212,
       "date": "2026-10-20",
       "symbol": "MES=F",
       "cumulative_r": 37.02
     },
     {
-      "trade": 215,
+      "trade": 213,
       "date": "2026-10-20",
       "symbol": "MES=F",
       "cumulative_r": 38.27
     },
     {
-      "trade": 216,
+      "trade": 214,
       "date": "2026-10-21",
       "symbol": "MES=F",
       "cumulative_r": 37.27
     },
     {
-      "trade": 217,
+      "trade": 215,
       "date": "2026-10-21",
+      "symbol": "MES=F",
+      "cumulative_r": 41.27
+    },
+    {
+      "trade": 216,
+      "date": "2026-10-21",
+      "symbol": "MES=F",
+      "cumulative_r": 41.27
+    },
+    {
+      "trade": 217,
+      "date": "2026-10-22",
       "symbol": "MES=F",
       "cumulative_r": 41.27
     },
     {
       "trade": 218,
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "symbol": "MES=F",
-      "cumulative_r": 41.27
+      "cumulative_r": 42.1
     },
     {
       "trade": 219,
       "date": "2026-10-22",
       "symbol": "MES=F",
-      "cumulative_r": 41.27
+      "cumulative_r": 42.1
     },
     {
       "trade": 220,
-      "date": "2026-10-22",
+      "date": "2026-10-28",
       "symbol": "MES=F",
       "cumulative_r": 42.1
     },
     {
       "trade": 221,
-      "date": "2026-10-22",
-      "symbol": "MES=F",
-      "cumulative_r": 42.1
-    },
-    {
-      "trade": 222,
-      "date": "2026-10-28",
-      "symbol": "MES=F",
-      "cumulative_r": 42.1
-    },
-    {
-      "trade": 223,
       "date": "2026-10-28",
       "symbol": "MES=F",
       "cumulative_r": 46.1
     },
     {
-      "trade": 224,
+      "trade": 222,
       "date": "2026-10-29",
       "symbol": "MES=F",
       "cumulative_r": 45.62
     },
     {
-      "trade": 225,
+      "trade": 223,
       "date": "2026-10-29",
       "symbol": "MES=F",
       "cumulative_r": 44.62
     },
     {
-      "trade": 226,
+      "trade": 224,
       "date": "2026-10-29",
       "symbol": "MES=F",
       "cumulative_r": 43.62
@@ -1409,7 +1397,7 @@
   ],
   "recent_feed": [
     {
-      "id": 226,
+      "id": 224,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 10:00 ET",
       "exit_time": "2026-10-29 13:45 ET",
@@ -2222,7 +2210,7 @@
       ]
     },
     {
-      "id": 225,
+      "id": 223,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 10:00 ET",
       "exit_time": "2026-10-29 13:45 ET",
@@ -3035,7 +3023,7 @@
       ]
     },
     {
-      "id": 224,
+      "id": 222,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 09:40 ET",
       "exit_time": "2026-10-29 16:00 ET",
@@ -3848,7 +3836,7 @@
       ]
     },
     {
-      "id": 223,
+      "id": 221,
       "date": "2026-10-28",
       "entry_time": "2026-10-28 09:45 ET",
       "exit_time": "2026-10-28 12:50 ET",
@@ -4661,7 +4649,7 @@
       ]
     },
     {
-      "id": 222,
+      "id": 220,
       "date": "2026-10-28",
       "entry_time": "2026-10-28 09:45 ET",
       "exit_time": "2026-10-28 09:50 ET",
@@ -5474,7 +5462,7 @@
       ]
     },
     {
-      "id": 221,
+      "id": 219,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 10:00 ET",
       "exit_time": "2026-10-22 10:05 ET",
@@ -6287,7 +6275,7 @@
       ]
     },
     {
-      "id": 220,
+      "id": 218,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 10:05 ET",
       "exit_time": "2026-10-22 16:00 ET",
@@ -7100,7 +7088,7 @@
       ]
     },
     {
-      "id": 219,
+      "id": 217,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 09:30 ET",
       "exit_time": "2026-10-22 09:40 ET",
@@ -7913,7 +7901,7 @@
       ]
     },
     {
-      "id": 218,
+      "id": 216,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:10 ET",
       "exit_time": "2026-10-21 10:20 ET",
@@ -8726,7 +8714,7 @@
       ]
     },
     {
-      "id": 217,
+      "id": 215,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:05 ET",
       "exit_time": "2026-10-21 11:10 ET",
@@ -9539,7 +9527,7 @@
       ]
     },
     {
-      "id": 216,
+      "id": 214,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:00 ET",
       "exit_time": "2026-10-21 10:05 ET",
@@ -10352,7 +10340,7 @@
       ]
     },
     {
-      "id": 215,
+      "id": 213,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:45 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -11165,7 +11153,7 @@
       ]
     },
     {
-      "id": 214,
+      "id": 212,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:45 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -11978,7 +11966,7 @@
       ]
     },
     {
-      "id": 213,
+      "id": 211,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:50 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -12791,7 +12779,7 @@
       ]
     },
     {
-      "id": 212,
+      "id": 210,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:50 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -58322,819 +58310,6 @@
     },
     {
       "id": 56,
-      "date": "2026-08-24",
-      "entry_time": "2026-08-24 10:30 ET",
-      "exit_time": "2026-08-24 10:40 ET",
-      "symbol": "ES=F",
-      "direction": "LONG",
-      "entry": 7670.5,
-      "exit": 7670.5,
-      "sl": 7668.42,
-      "tp": 7678.8,
-      "risk_pts": 2.07,
-      "outcome": "BE",
-      "pnl_r": 0.0,
-      "reason": "1H IFVG Tap (bearish)",
-      "trigger": "1H IFVG",
-      "confirmation": "IFVG",
-      "cumulative_r": 11.81,
-      "bars": [
-        {
-          "time": 1787576400,
-          "time_str": "09:00",
-          "full_time": "2026-08-24 09:00 ET",
-          "open": 7678.0,
-          "high": 7679.75,
-          "low": 7677.75,
-          "close": 7679.25
-        },
-        {
-          "time": 1787576700,
-          "time_str": "09:05",
-          "full_time": "2026-08-24 09:05 ET",
-          "open": 7679.25,
-          "high": 7679.75,
-          "low": 7676.75,
-          "close": 7678.25
-        },
-        {
-          "time": 1787577000,
-          "time_str": "09:10",
-          "full_time": "2026-08-24 09:10 ET",
-          "open": 7678.25,
-          "high": 7679.5,
-          "low": 7676.75,
-          "close": 7677.25
-        },
-        {
-          "time": 1787577300,
-          "time_str": "09:15",
-          "full_time": "2026-08-24 09:15 ET",
-          "open": 7677.25,
-          "high": 7679.75,
-          "low": 7676.0,
-          "close": 7676.5
-        },
-        {
-          "time": 1787577600,
-          "time_str": "09:20",
-          "full_time": "2026-08-24 09:20 ET",
-          "open": 7676.5,
-          "high": 7679.25,
-          "low": 7676.25,
-          "close": 7677.0
-        },
-        {
-          "time": 1787577900,
-          "time_str": "09:25",
-          "full_time": "2026-08-24 09:25 ET",
-          "open": 7677.0,
-          "high": 7681.75,
-          "low": 7676.0,
-          "close": 7681.75
-        },
-        {
-          "time": 1787578200,
-          "time_str": "09:30",
-          "full_time": "2026-08-24 09:30 ET",
-          "open": 7681.75,
-          "high": 7682.75,
-          "low": 7666.25,
-          "close": 7669.0
-        },
-        {
-          "time": 1787578500,
-          "time_str": "09:35",
-          "full_time": "2026-08-24 09:35 ET",
-          "open": 7668.75,
-          "high": 7672.75,
-          "low": 7664.75,
-          "close": 7668.0
-        },
-        {
-          "time": 1787578800,
-          "time_str": "09:40",
-          "full_time": "2026-08-24 09:40 ET",
-          "open": 7668.0,
-          "high": 7672.0,
-          "low": 7656.0,
-          "close": 7656.0
-        },
-        {
-          "time": 1787579100,
-          "time_str": "09:45",
-          "full_time": "2026-08-24 09:45 ET",
-          "open": 7656.0,
-          "high": 7670.25,
-          "low": 7655.0,
-          "close": 7665.75
-        },
-        {
-          "time": 1787579400,
-          "time_str": "09:50",
-          "full_time": "2026-08-24 09:50 ET",
-          "open": 7665.75,
-          "high": 7670.0,
-          "low": 7662.0,
-          "close": 7669.25
-        },
-        {
-          "time": 1787579700,
-          "time_str": "09:55",
-          "full_time": "2026-08-24 09:55 ET",
-          "open": 7669.0,
-          "high": 7671.0,
-          "low": 7666.75,
-          "close": 7668.5
-        },
-        {
-          "time": 1787580000,
-          "time_str": "10:00",
-          "full_time": "2026-08-24 10:00 ET",
-          "open": 7668.75,
-          "high": 7674.0,
-          "low": 7662.25,
-          "close": 7664.25
-        },
-        {
-          "time": 1787580300,
-          "time_str": "10:05",
-          "full_time": "2026-08-24 10:05 ET",
-          "open": 7664.25,
-          "high": 7666.5,
-          "low": 7660.25,
-          "close": 7663.25
-        },
-        {
-          "time": 1787580600,
-          "time_str": "10:10",
-          "full_time": "2026-08-24 10:10 ET",
-          "open": 7663.5,
-          "high": 7664.5,
-          "low": 7659.5,
-          "close": 7664.25
-        },
-        {
-          "time": 1787580900,
-          "time_str": "10:15",
-          "full_time": "2026-08-24 10:15 ET",
-          "open": 7664.25,
-          "high": 7665.0,
-          "low": 7660.5,
-          "close": 7663.0
-        },
-        {
-          "time": 1787581200,
-          "time_str": "10:20",
-          "full_time": "2026-08-24 10:20 ET",
-          "open": 7662.75,
-          "high": 7669.25,
-          "low": 7662.0,
-          "close": 7662.75
-        },
-        {
-          "time": 1787581500,
-          "time_str": "10:25",
-          "full_time": "2026-08-24 10:25 ET",
-          "open": 7662.75,
-          "high": 7665.5,
-          "low": 7660.5,
-          "close": 7663.25
-        },
-        {
-          "time": 1787581800,
-          "time_str": "10:30",
-          "full_time": "2026-08-24 10:30 ET",
-          "open": 7663.25,
-          "high": 7671.75,
-          "low": 7661.75,
-          "close": 7670.5
-        },
-        {
-          "time": 1787582100,
-          "time_str": "10:35",
-          "full_time": "2026-08-24 10:35 ET",
-          "open": 7670.5,
-          "high": 7673.0,
-          "low": 7669.5,
-          "close": 7671.0
-        },
-        {
-          "time": 1787582400,
-          "time_str": "10:40",
-          "full_time": "2026-08-24 10:40 ET",
-          "open": 7671.0,
-          "high": 7675.5,
-          "low": 7669.25,
-          "close": 7671.25
-        },
-        {
-          "time": 1787582700,
-          "time_str": "10:45",
-          "full_time": "2026-08-24 10:45 ET",
-          "open": 7671.25,
-          "high": 7673.0,
-          "low": 7668.75,
-          "close": 7673.0
-        },
-        {
-          "time": 1787583000,
-          "time_str": "10:50",
-          "full_time": "2026-08-24 10:50 ET",
-          "open": 7673.0,
-          "high": 7673.5,
-          "low": 7668.25,
-          "close": 7670.5
-        },
-        {
-          "time": 1787583300,
-          "time_str": "10:55",
-          "full_time": "2026-08-24 10:55 ET",
-          "open": 7670.5,
-          "high": 7674.0,
-          "low": 7669.25,
-          "close": 7670.75
-        },
-        {
-          "time": 1787583600,
-          "time_str": "11:00",
-          "full_time": "2026-08-24 11:00 ET",
-          "open": 7671.0,
-          "high": 7672.5,
-          "low": 7664.25,
-          "close": 7664.75
-        },
-        {
-          "time": 1787583900,
-          "time_str": "11:05",
-          "full_time": "2026-08-24 11:05 ET",
-          "open": 7664.5,
-          "high": 7665.0,
-          "low": 7661.75,
-          "close": 7663.75
-        },
-        {
-          "time": 1787584200,
-          "time_str": "11:10",
-          "full_time": "2026-08-24 11:10 ET",
-          "open": 7663.75,
-          "high": 7666.0,
-          "low": 7660.75,
-          "close": 7661.5
-        },
-        {
-          "time": 1787584500,
-          "time_str": "11:15",
-          "full_time": "2026-08-24 11:15 ET",
-          "open": 7661.25,
-          "high": 7662.5,
-          "low": 7660.25,
-          "close": 7660.75
-        },
-        {
-          "time": 1787584800,
-          "time_str": "11:20",
-          "full_time": "2026-08-24 11:20 ET",
-          "open": 7660.75,
-          "high": 7666.0,
-          "low": 7657.75,
-          "close": 7665.5
-        },
-        {
-          "time": 1787585100,
-          "time_str": "11:25",
-          "full_time": "2026-08-24 11:25 ET",
-          "open": 7665.5,
-          "high": 7674.25,
-          "low": 7664.5,
-          "close": 7671.5
-        },
-        {
-          "time": 1787585400,
-          "time_str": "11:30",
-          "full_time": "2026-08-24 11:30 ET",
-          "open": 7671.25,
-          "high": 7674.75,
-          "low": 7668.0,
-          "close": 7672.75
-        },
-        {
-          "time": 1787585700,
-          "time_str": "11:35",
-          "full_time": "2026-08-24 11:35 ET",
-          "open": 7672.5,
-          "high": 7675.75,
-          "low": 7671.0,
-          "close": 7674.25
-        },
-        {
-          "time": 1787586000,
-          "time_str": "11:40",
-          "full_time": "2026-08-24 11:40 ET",
-          "open": 7674.75,
-          "high": 7678.75,
-          "low": 7674.25,
-          "close": 7676.75
-        },
-        {
-          "time": 1787586300,
-          "time_str": "11:45",
-          "full_time": "2026-08-24 11:45 ET",
-          "open": 7676.75,
-          "high": 7681.5,
-          "low": 7676.75,
-          "close": 7677.0
-        },
-        {
-          "time": 1787586600,
-          "time_str": "11:50",
-          "full_time": "2026-08-24 11:50 ET",
-          "open": 7676.75,
-          "high": 7680.25,
-          "low": 7676.75,
-          "close": 7677.25
-        },
-        {
-          "time": 1787586900,
-          "time_str": "11:55",
-          "full_time": "2026-08-24 11:55 ET",
-          "open": 7677.0,
-          "high": 7679.5,
-          "low": 7675.5,
-          "close": 7679.5
-        },
-        {
-          "time": 1787587200,
-          "time_str": "12:00",
-          "full_time": "2026-08-24 12:00 ET",
-          "open": 7679.5,
-          "high": 7686.0,
-          "low": 7678.25,
-          "close": 7683.75
-        },
-        {
-          "time": 1787587500,
-          "time_str": "12:05",
-          "full_time": "2026-08-24 12:05 ET",
-          "open": 7683.75,
-          "high": 7684.0,
-          "low": 7678.5,
-          "close": 7678.75
-        },
-        {
-          "time": 1787587800,
-          "time_str": "12:10",
-          "full_time": "2026-08-24 12:10 ET",
-          "open": 7679.0,
-          "high": 7680.75,
-          "low": 7678.25,
-          "close": 7680.75
-        },
-        {
-          "time": 1787588100,
-          "time_str": "12:15",
-          "full_time": "2026-08-24 12:15 ET",
-          "open": 7680.5,
-          "high": 7685.75,
-          "low": 7680.25,
-          "close": 7684.5
-        },
-        {
-          "time": 1787588400,
-          "time_str": "12:20",
-          "full_time": "2026-08-24 12:20 ET",
-          "open": 7684.5,
-          "high": 7686.5,
-          "low": 7682.25,
-          "close": 7682.75
-        },
-        {
-          "time": 1787588700,
-          "time_str": "12:25",
-          "full_time": "2026-08-24 12:25 ET",
-          "open": 7683.0,
-          "high": 7684.25,
-          "low": 7682.0,
-          "close": 7683.0
-        },
-        {
-          "time": 1787589000,
-          "time_str": "12:30",
-          "full_time": "2026-08-24 12:30 ET",
-          "open": 7683.25,
-          "high": 7684.0,
-          "low": 7679.0,
-          "close": 7680.0
-        },
-        {
-          "time": 1787589300,
-          "time_str": "12:35",
-          "full_time": "2026-08-24 12:35 ET",
-          "open": 7680.0,
-          "high": 7681.25,
-          "low": 7677.25,
-          "close": 7677.75
-        },
-        {
-          "time": 1787589600,
-          "time_str": "12:40",
-          "full_time": "2026-08-24 12:40 ET",
-          "open": 7677.5,
-          "high": 7678.25,
-          "low": 7675.75,
-          "close": 7677.0
-        },
-        {
-          "time": 1787589900,
-          "time_str": "12:45",
-          "full_time": "2026-08-24 12:45 ET",
-          "open": 7677.25,
-          "high": 7678.0,
-          "low": 7675.75,
-          "close": 7677.75
-        },
-        {
-          "time": 1787590200,
-          "time_str": "12:50",
-          "full_time": "2026-08-24 12:50 ET",
-          "open": 7676.25,
-          "high": 7676.25,
-          "low": 7676.25,
-          "close": 7676.25
-        },
-        {
-          "time": 1787590500,
-          "time_str": "12:55",
-          "full_time": "2026-08-24 12:55 ET",
-          "open": 7676.25,
-          "high": 7677.5,
-          "low": 7675.5,
-          "close": 7676.0
-        },
-        {
-          "time": 1787590800,
-          "time_str": "13:00",
-          "full_time": "2026-08-24 13:00 ET",
-          "open": 7676.0,
-          "high": 7676.25,
-          "low": 7672.75,
-          "close": 7674.25
-        },
-        {
-          "time": 1787591100,
-          "time_str": "13:05",
-          "full_time": "2026-08-24 13:05 ET",
-          "open": 7674.0,
-          "high": 7680.75,
-          "low": 7673.5,
-          "close": 7678.5
-        },
-        {
-          "time": 1787591400,
-          "time_str": "13:10",
-          "full_time": "2026-08-24 13:10 ET",
-          "open": 7678.75,
-          "high": 7682.0,
-          "low": 7677.25,
-          "close": 7679.25
-        },
-        {
-          "time": 1787591700,
-          "time_str": "13:15",
-          "full_time": "2026-08-24 13:15 ET",
-          "open": 7679.25,
-          "high": 7679.75,
-          "low": 7674.25,
-          "close": 7675.5
-        },
-        {
-          "time": 1787592000,
-          "time_str": "13:20",
-          "full_time": "2026-08-24 13:20 ET",
-          "open": 7675.25,
-          "high": 7675.75,
-          "low": 7669.0,
-          "close": 7669.75
-        },
-        {
-          "time": 1787592300,
-          "time_str": "13:25",
-          "full_time": "2026-08-24 13:25 ET",
-          "open": 7669.75,
-          "high": 7671.5,
-          "low": 7667.25,
-          "close": 7668.25
-        },
-        {
-          "time": 1787592600,
-          "time_str": "13:30",
-          "full_time": "2026-08-24 13:30 ET",
-          "open": 7668.0,
-          "high": 7670.0,
-          "low": 7667.0,
-          "close": 7667.25
-        },
-        {
-          "time": 1787592900,
-          "time_str": "13:35",
-          "full_time": "2026-08-24 13:35 ET",
-          "open": 7666.5,
-          "high": 7668.25,
-          "low": 7665.25,
-          "close": 7668.0
-        },
-        {
-          "time": 1787593200,
-          "time_str": "13:40",
-          "full_time": "2026-08-24 13:40 ET",
-          "open": 7668.0,
-          "high": 7668.75,
-          "low": 7665.0,
-          "close": 7665.0
-        },
-        {
-          "time": 1787593500,
-          "time_str": "13:45",
-          "full_time": "2026-08-24 13:45 ET",
-          "open": 7665.0,
-          "high": 7667.0,
-          "low": 7664.5,
-          "close": 7666.5
-        },
-        {
-          "time": 1787593800,
-          "time_str": "13:50",
-          "full_time": "2026-08-24 13:50 ET",
-          "open": 7666.25,
-          "high": 7669.0,
-          "low": 7665.25,
-          "close": 7666.0
-        },
-        {
-          "time": 1787594100,
-          "time_str": "13:55",
-          "full_time": "2026-08-24 13:55 ET",
-          "open": 7666.25,
-          "high": 7668.0,
-          "low": 7665.25,
-          "close": 7667.0
-        },
-        {
-          "time": 1787594400,
-          "time_str": "14:00",
-          "full_time": "2026-08-24 14:00 ET",
-          "open": 7667.0,
-          "high": 7670.75,
-          "low": 7666.75,
-          "close": 7669.5
-        },
-        {
-          "time": 1787594700,
-          "time_str": "14:05",
-          "full_time": "2026-08-24 14:05 ET",
-          "open": 7669.5,
-          "high": 7674.25,
-          "low": 7669.0,
-          "close": 7673.0
-        },
-        {
-          "time": 1787595000,
-          "time_str": "14:10",
-          "full_time": "2026-08-24 14:10 ET",
-          "open": 7673.0,
-          "high": 7677.0,
-          "low": 7672.25,
-          "close": 7676.75
-        },
-        {
-          "time": 1787595300,
-          "time_str": "14:15",
-          "full_time": "2026-08-24 14:15 ET",
-          "open": 7676.5,
-          "high": 7679.25,
-          "low": 7675.25,
-          "close": 7676.25
-        },
-        {
-          "time": 1787595600,
-          "time_str": "14:20",
-          "full_time": "2026-08-24 14:20 ET",
-          "open": 7676.5,
-          "high": 7681.0,
-          "low": 7676.0,
-          "close": 7680.25
-        },
-        {
-          "time": 1787595900,
-          "time_str": "14:25",
-          "full_time": "2026-08-24 14:25 ET",
-          "open": 7680.0,
-          "high": 7682.75,
-          "low": 7679.5,
-          "close": 7682.25
-        },
-        {
-          "time": 1787596200,
-          "time_str": "14:30",
-          "full_time": "2026-08-24 14:30 ET",
-          "open": 7682.25,
-          "high": 7685.25,
-          "low": 7680.75,
-          "close": 7681.0
-        },
-        {
-          "time": 1787596500,
-          "time_str": "14:35",
-          "full_time": "2026-08-24 14:35 ET",
-          "open": 7681.25,
-          "high": 7681.75,
-          "low": 7675.25,
-          "close": 7676.25
-        },
-        {
-          "time": 1787596800,
-          "time_str": "14:40",
-          "full_time": "2026-08-24 14:40 ET",
-          "open": 7676.5,
-          "high": 7678.25,
-          "low": 7675.75,
-          "close": 7677.5
-        },
-        {
-          "time": 1787597100,
-          "time_str": "14:45",
-          "full_time": "2026-08-24 14:45 ET",
-          "open": 7677.5,
-          "high": 7678.5,
-          "low": 7675.25,
-          "close": 7677.5
-        },
-        {
-          "time": 1787597400,
-          "time_str": "14:50",
-          "full_time": "2026-08-24 14:50 ET",
-          "open": 7677.5,
-          "high": 7678.75,
-          "low": 7675.0,
-          "close": 7675.75
-        },
-        {
-          "time": 1787597700,
-          "time_str": "14:55",
-          "full_time": "2026-08-24 14:55 ET",
-          "open": 7675.75,
-          "high": 7677.0,
-          "low": 7674.0,
-          "close": 7674.25
-        },
-        {
-          "time": 1787598000,
-          "time_str": "15:00",
-          "full_time": "2026-08-24 15:00 ET",
-          "open": 7673.75,
-          "high": 7675.0,
-          "low": 7672.5,
-          "close": 7673.5
-        },
-        {
-          "time": 1787598300,
-          "time_str": "15:05",
-          "full_time": "2026-08-24 15:05 ET",
-          "open": 7673.75,
-          "high": 7675.25,
-          "low": 7672.5,
-          "close": 7673.25
-        },
-        {
-          "time": 1787598600,
-          "time_str": "15:10",
-          "full_time": "2026-08-24 15:10 ET",
-          "open": 7673.0,
-          "high": 7676.5,
-          "low": 7672.75,
-          "close": 7675.5
-        },
-        {
-          "time": 1787598900,
-          "time_str": "15:15",
-          "full_time": "2026-08-24 15:15 ET",
-          "open": 7675.25,
-          "high": 7676.75,
-          "low": 7673.5,
-          "close": 7675.5
-        },
-        {
-          "time": 1787599200,
-          "time_str": "15:20",
-          "full_time": "2026-08-24 15:20 ET",
-          "open": 7675.25,
-          "high": 7676.25,
-          "low": 7673.75,
-          "close": 7674.75
-        },
-        {
-          "time": 1787599500,
-          "time_str": "15:25",
-          "full_time": "2026-08-24 15:25 ET",
-          "open": 7674.5,
-          "high": 7676.0,
-          "low": 7673.5,
-          "close": 7674.25
-        },
-        {
-          "time": 1787599800,
-          "time_str": "15:30",
-          "full_time": "2026-08-24 15:30 ET",
-          "open": 7674.0,
-          "high": 7677.0,
-          "low": 7671.75,
-          "close": 7672.0
-        },
-        {
-          "time": 1787600100,
-          "time_str": "15:35",
-          "full_time": "2026-08-24 15:35 ET",
-          "open": 7672.0,
-          "high": 7673.0,
-          "low": 7670.75,
-          "close": 7671.0
-        },
-        {
-          "time": 1787600400,
-          "time_str": "15:40",
-          "full_time": "2026-08-24 15:40 ET",
-          "open": 7671.0,
-          "high": 7672.25,
-          "low": 7670.0,
-          "close": 7671.25
-        },
-        {
-          "time": 1787600700,
-          "time_str": "15:45",
-          "full_time": "2026-08-24 15:45 ET",
-          "open": 7671.25,
-          "high": 7672.5,
-          "low": 7669.25,
-          "close": 7672.25
-        },
-        {
-          "time": 1787601000,
-          "time_str": "15:50",
-          "full_time": "2026-08-24 15:50 ET",
-          "open": 7673.0,
-          "high": 7674.25,
-          "low": 7668.0,
-          "close": 7672.25
-        },
-        {
-          "time": 1787601300,
-          "time_str": "15:55",
-          "full_time": "2026-08-24 15:55 ET",
-          "open": 7672.25,
-          "high": 7674.25,
-          "low": 7668.25,
-          "close": 7669.75
-        },
-        {
-          "time": 1787601600,
-          "time_str": "16:00",
-          "full_time": "2026-08-24 16:00 ET",
-          "open": 7669.5,
-          "high": 7672.25,
-          "low": 7668.0,
-          "close": 7671.0
-        },
-        {
-          "time": 1787601900,
-          "time_str": "16:05",
-          "full_time": "2026-08-24 16:05 ET",
-          "open": 7671.25,
-          "high": 7673.5,
-          "low": 7670.25,
-          "close": 7671.0
-        },
-        {
-          "time": 1787602200,
-          "time_str": "16:10",
-          "full_time": "2026-08-24 16:10 ET",
-          "open": 7671.25,
-          "high": 7671.75,
-          "low": 7670.0,
-          "close": 7671.0
-        },
-        {
-          "time": 1787602500,
-          "time_str": "16:15",
-          "full_time": "2026-08-24 16:15 ET",
-          "open": 7671.0,
-          "high": 7671.25,
-          "low": 7669.25,
-          "close": 7670.0
-        }
-      ]
-    },
-    {
-      "id": 57,
       "date": "2026-08-25",
       "entry_time": "2026-08-25 10:20 ET",
       "exit_time": "2026-08-25 10:25 ET",
@@ -59947,7 +59122,7 @@
       ]
     },
     {
-      "id": 58,
+      "id": 57,
       "date": "2026-08-25",
       "entry_time": "2026-08-25 10:25 ET",
       "exit_time": "2026-08-25 10:30 ET",
@@ -60760,7 +59935,7 @@
       ]
     },
     {
-      "id": 59,
+      "id": 58,
       "date": "2026-08-25",
       "entry_time": "2026-08-25 10:30 ET",
       "exit_time": "2026-08-25 10:35 ET",
@@ -61573,7 +60748,7 @@
       ]
     },
     {
-      "id": 60,
+      "id": 59,
       "date": "2026-08-26",
       "entry_time": "2026-08-26 09:45 ET",
       "exit_time": "2026-08-26 09:50 ET",
@@ -62386,7 +61561,7 @@
       ]
     },
     {
-      "id": 61,
+      "id": 60,
       "date": "2026-08-27",
       "entry_time": "2026-08-27 09:30 ET",
       "exit_time": "2026-08-27 09:35 ET",
@@ -63199,7 +62374,7 @@
       ]
     },
     {
-      "id": 62,
+      "id": 61,
       "date": "2026-08-27",
       "entry_time": "2026-08-27 09:40 ET",
       "exit_time": "2026-08-27 16:00 ET",
@@ -64012,7 +63187,7 @@
       ]
     },
     {
-      "id": 63,
+      "id": 62,
       "date": "2026-08-27",
       "entry_time": "2026-08-27 10:20 ET",
       "exit_time": "2026-08-27 16:00 ET",
@@ -64825,7 +64000,7 @@
       ]
     },
     {
-      "id": 64,
+      "id": 63,
       "date": "2026-08-28",
       "entry_time": "2026-08-28 09:30 ET",
       "exit_time": "2026-08-28 10:20 ET",
@@ -65638,7 +64813,7 @@
       ]
     },
     {
-      "id": 65,
+      "id": 64,
       "date": "2026-08-28",
       "entry_time": "2026-08-28 09:50 ET",
       "exit_time": "2026-08-28 10:00 ET",
@@ -66451,7 +65626,7 @@
       ]
     },
     {
-      "id": 66,
+      "id": 65,
       "date": "2026-08-28",
       "entry_time": "2026-08-28 10:00 ET",
       "exit_time": "2026-08-28 10:15 ET",
@@ -67264,7 +66439,7 @@
       ]
     },
     {
-      "id": 67,
+      "id": 66,
       "date": "2026-09-08",
       "entry_time": "2026-09-08 09:40 ET",
       "exit_time": "2026-09-08 10:05 ET",
@@ -68077,7 +67252,7 @@
       ]
     },
     {
-      "id": 68,
+      "id": 67,
       "date": "2026-09-08",
       "entry_time": "2026-09-08 09:40 ET",
       "exit_time": "2026-09-08 09:45 ET",
@@ -68890,7 +68065,7 @@
       ]
     },
     {
-      "id": 69,
+      "id": 68,
       "date": "2026-09-08",
       "entry_time": "2026-09-08 10:00 ET",
       "exit_time": "2026-09-08 15:55 ET",
@@ -69703,7 +68878,7 @@
       ]
     },
     {
-      "id": 70,
+      "id": 69,
       "date": "2026-09-14",
       "entry_time": "2026-09-14 09:30 ET",
       "exit_time": "2026-09-14 09:35 ET",
@@ -70516,7 +69691,7 @@
       ]
     },
     {
-      "id": 71,
+      "id": 70,
       "date": "2026-09-14",
       "entry_time": "2026-09-14 09:45 ET",
       "exit_time": "2026-09-14 10:25 ET",
@@ -71329,7 +70504,7 @@
       ]
     },
     {
-      "id": 72,
+      "id": 71,
       "date": "2026-09-14",
       "entry_time": "2026-09-14 09:40 ET",
       "exit_time": "2026-09-14 09:45 ET",
@@ -72142,7 +71317,7 @@
       ]
     },
     {
-      "id": 73,
+      "id": 72,
       "date": "2026-09-15",
       "entry_time": "2026-09-15 09:35 ET",
       "exit_time": "2026-09-15 10:50 ET",
@@ -72955,7 +72130,7 @@
       ]
     },
     {
-      "id": 74,
+      "id": 73,
       "date": "2026-09-15",
       "entry_time": "2026-09-15 09:35 ET",
       "exit_time": "2026-09-15 10:50 ET",
@@ -73768,7 +72943,7 @@
       ]
     },
     {
-      "id": 75,
+      "id": 74,
       "date": "2026-09-15",
       "entry_time": "2026-09-15 09:30 ET",
       "exit_time": "2026-09-15 09:35 ET",
@@ -74581,7 +73756,7 @@
       ]
     },
     {
-      "id": 76,
+      "id": 75,
       "date": "2026-09-16",
       "entry_time": "2026-09-16 09:35 ET",
       "exit_time": "2026-09-16 14:55 ET",
@@ -75394,7 +74569,7 @@
       ]
     },
     {
-      "id": 77,
+      "id": 76,
       "date": "2026-09-16",
       "entry_time": "2026-09-16 09:35 ET",
       "exit_time": "2026-09-16 10:25 ET",
@@ -76207,7 +75382,7 @@
       ]
     },
     {
-      "id": 78,
+      "id": 77,
       "date": "2026-09-25",
       "entry_time": "2026-09-25 10:00 ET",
       "exit_time": "2026-09-25 10:05 ET",
@@ -77020,7 +76195,7 @@
       ]
     },
     {
-      "id": 79,
+      "id": 78,
       "date": "2026-09-25",
       "entry_time": "2026-09-25 10:05 ET",
       "exit_time": "2026-09-25 10:15 ET",
@@ -77833,7 +77008,7 @@
       ]
     },
     {
-      "id": 80,
+      "id": 79,
       "date": "2026-09-25",
       "entry_time": "2026-09-25 10:15 ET",
       "exit_time": "2026-09-25 16:00 ET",
@@ -78646,7 +77821,7 @@
       ]
     },
     {
-      "id": 81,
+      "id": 80,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:35 ET",
       "exit_time": "2026-09-29 16:00 ET",
@@ -79459,7 +78634,7 @@
       ]
     },
     {
-      "id": 82,
+      "id": 81,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:35 ET",
       "exit_time": "2026-09-29 16:00 ET",
@@ -80272,7 +79447,7 @@
       ]
     },
     {
-      "id": 83,
+      "id": 82,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:30 ET",
       "exit_time": "2026-09-29 16:00 ET",
@@ -81085,7 +80260,7 @@
       ]
     },
     {
-      "id": 84,
+      "id": 83,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:30 ET",
       "exit_time": "2026-09-29 16:00 ET",
@@ -81898,7 +81073,7 @@
       ]
     },
     {
-      "id": 85,
+      "id": 84,
       "date": "2026-10-08",
       "entry_time": "2026-10-08 10:00 ET",
       "exit_time": "2026-10-08 10:20 ET",
@@ -82711,7 +81886,7 @@
       ]
     },
     {
-      "id": 86,
+      "id": 85,
       "date": "2026-10-08",
       "entry_time": "2026-10-08 10:05 ET",
       "exit_time": "2026-10-08 10:10 ET",
@@ -83524,7 +82699,7 @@
       ]
     },
     {
-      "id": 87,
+      "id": 86,
       "date": "2026-10-08",
       "entry_time": "2026-10-08 10:20 ET",
       "exit_time": "2026-10-08 12:15 ET",
@@ -84337,7 +83512,7 @@
       ]
     },
     {
-      "id": 88,
+      "id": 87,
       "date": "2026-10-09",
       "entry_time": "2026-10-09 09:30 ET",
       "exit_time": "2026-10-09 09:40 ET",
@@ -85150,7 +84325,7 @@
       ]
     },
     {
-      "id": 89,
+      "id": 88,
       "date": "2026-10-09",
       "entry_time": "2026-10-09 09:30 ET",
       "exit_time": "2026-10-09 09:40 ET",
@@ -85963,7 +85138,7 @@
       ]
     },
     {
-      "id": 90,
+      "id": 89,
       "date": "2026-10-09",
       "entry_time": "2026-10-09 09:40 ET",
       "exit_time": "2026-10-09 09:45 ET",
@@ -86776,7 +85951,7 @@
       ]
     },
     {
-      "id": 91,
+      "id": 90,
       "date": "2026-10-13",
       "entry_time": "2026-10-13 09:40 ET",
       "exit_time": "2026-10-13 15:10 ET",
@@ -87589,7 +86764,7 @@
       ]
     },
     {
-      "id": 92,
+      "id": 91,
       "date": "2026-10-13",
       "entry_time": "2026-10-13 09:40 ET",
       "exit_time": "2026-10-13 09:45 ET",
@@ -88402,7 +87577,7 @@
       ]
     },
     {
-      "id": 93,
+      "id": 92,
       "date": "2026-10-15",
       "entry_time": "2026-10-15 10:05 ET",
       "exit_time": "2026-10-15 16:00 ET",
@@ -89215,7 +88390,7 @@
       ]
     },
     {
-      "id": 94,
+      "id": 93,
       "date": "2026-10-19",
       "entry_time": "2026-10-19 10:15 ET",
       "exit_time": "2026-10-19 15:55 ET",
@@ -90028,7 +89203,7 @@
       ]
     },
     {
-      "id": 95,
+      "id": 94,
       "date": "2026-10-19",
       "entry_time": "2026-10-19 10:35 ET",
       "exit_time": "2026-10-19 12:55 ET",
@@ -90841,7 +90016,7 @@
       ]
     },
     {
-      "id": 96,
+      "id": 95,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:50 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -91654,7 +90829,7 @@
       ]
     },
     {
-      "id": 97,
+      "id": 96,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:50 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -92467,7 +91642,7 @@
       ]
     },
     {
-      "id": 98,
+      "id": 97,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:50 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -93280,7 +92455,7 @@
       ]
     },
     {
-      "id": 99,
+      "id": 98,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:45 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -94093,7 +93268,7 @@
       ]
     },
     {
-      "id": 100,
+      "id": 99,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:45 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -94906,7 +94081,7 @@
       ]
     },
     {
-      "id": 101,
+      "id": 100,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:00 ET",
       "exit_time": "2026-10-21 10:05 ET",
@@ -95719,7 +94894,7 @@
       ]
     },
     {
-      "id": 102,
+      "id": 101,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:05 ET",
       "exit_time": "2026-10-21 11:10 ET",
@@ -96532,7 +95707,7 @@
       ]
     },
     {
-      "id": 103,
+      "id": 102,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:10 ET",
       "exit_time": "2026-10-21 10:20 ET",
@@ -97345,7 +96520,7 @@
       ]
     },
     {
-      "id": 104,
+      "id": 103,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 09:30 ET",
       "exit_time": "2026-10-22 09:55 ET",
@@ -98158,7 +97333,7 @@
       ]
     },
     {
-      "id": 105,
+      "id": 104,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 09:50 ET",
       "exit_time": "2026-10-22 16:00 ET",
@@ -98971,7 +98146,7 @@
       ]
     },
     {
-      "id": 106,
+      "id": 105,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 09:50 ET",
       "exit_time": "2026-10-22 16:00 ET",
@@ -99784,7 +98959,7 @@
       ]
     },
     {
-      "id": 107,
+      "id": 106,
       "date": "2026-10-28",
       "entry_time": "2026-10-28 09:45 ET",
       "exit_time": "2026-10-28 09:50 ET",
@@ -100597,7 +99772,7 @@
       ]
     },
     {
-      "id": 108,
+      "id": 107,
       "date": "2026-10-28",
       "entry_time": "2026-10-28 09:45 ET",
       "exit_time": "2026-10-28 12:50 ET",
@@ -101410,7 +100585,7 @@
       ]
     },
     {
-      "id": 109,
+      "id": 108,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 09:40 ET",
       "exit_time": "2026-10-29 16:00 ET",
@@ -102223,7 +101398,7 @@
       ]
     },
     {
-      "id": 110,
+      "id": 109,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 10:00 ET",
       "exit_time": "2026-10-29 13:45 ET",
@@ -103036,7 +102211,7 @@
       ]
     },
     {
-      "id": 111,
+      "id": 110,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 10:00 ET",
       "exit_time": "2026-10-29 13:45 ET",
@@ -103849,7 +103024,7 @@
       ]
     },
     {
-      "id": 112,
+      "id": 111,
       "date": "2026-08-25",
       "entry_time": "2026-08-25 10:30 ET",
       "exit_time": "2026-08-25 16:00 ET",
@@ -104662,7 +103837,7 @@
       ]
     },
     {
-      "id": 113,
+      "id": 112,
       "date": "2026-08-25",
       "entry_time": "2026-08-25 10:30 ET",
       "exit_time": "2026-08-25 16:00 ET",
@@ -105475,7 +104650,7 @@
       ]
     },
     {
-      "id": 114,
+      "id": 113,
       "date": "2026-08-26",
       "entry_time": "2026-08-26 10:20 ET",
       "exit_time": "2026-08-26 16:00 ET",
@@ -106288,7 +105463,7 @@
       ]
     },
     {
-      "id": 115,
+      "id": 114,
       "date": "2026-08-26",
       "entry_time": "2026-08-26 10:20 ET",
       "exit_time": "2026-08-26 16:00 ET",
@@ -107101,7 +106276,7 @@
       ]
     },
     {
-      "id": 116,
+      "id": 115,
       "date": "2026-08-26",
       "entry_time": "2026-08-26 10:25 ET",
       "exit_time": "2026-08-26 12:40 ET",
@@ -107914,7 +107089,7 @@
       ]
     },
     {
-      "id": 117,
+      "id": 116,
       "date": "2026-08-26",
       "entry_time": "2026-08-26 10:25 ET",
       "exit_time": "2026-08-26 12:40 ET",
@@ -108727,7 +107902,7 @@
       ]
     },
     {
-      "id": 118,
+      "id": 117,
       "date": "2026-08-27",
       "entry_time": "2026-08-27 09:30 ET",
       "exit_time": "2026-08-27 16:00 ET",
@@ -109540,7 +108715,7 @@
       ]
     },
     {
-      "id": 119,
+      "id": 118,
       "date": "2026-08-27",
       "entry_time": "2026-08-27 10:15 ET",
       "exit_time": "2026-08-27 16:00 ET",
@@ -110353,7 +109528,7 @@
       ]
     },
     {
-      "id": 120,
+      "id": 119,
       "date": "2026-08-27",
       "entry_time": "2026-08-27 10:05 ET",
       "exit_time": "2026-08-27 16:00 ET",
@@ -111166,7 +110341,7 @@
       ]
     },
     {
-      "id": 121,
+      "id": 120,
       "date": "2026-08-27",
       "entry_time": "2026-08-27 10:05 ET",
       "exit_time": "2026-08-27 10:10 ET",
@@ -111979,7 +111154,7 @@
       ]
     },
     {
-      "id": 122,
+      "id": 121,
       "date": "2026-08-28",
       "entry_time": "2026-08-28 10:05 ET",
       "exit_time": "2026-08-28 10:20 ET",
@@ -112792,7 +111967,7 @@
       ]
     },
     {
-      "id": 123,
+      "id": 122,
       "date": "2026-08-28",
       "entry_time": "2026-08-28 09:40 ET",
       "exit_time": "2026-08-28 09:45 ET",
@@ -113605,7 +112780,7 @@
       ]
     },
     {
-      "id": 124,
+      "id": 123,
       "date": "2026-08-28",
       "entry_time": "2026-08-28 09:50 ET",
       "exit_time": "2026-08-28 09:55 ET",
@@ -114418,7 +113593,7 @@
       ]
     },
     {
-      "id": 125,
+      "id": 124,
       "date": "2026-09-02",
       "entry_time": "2026-09-02 09:50 ET",
       "exit_time": "2026-09-02 10:20 ET",
@@ -115231,7 +114406,7 @@
       ]
     },
     {
-      "id": 126,
+      "id": 125,
       "date": "2026-09-02",
       "entry_time": "2026-09-02 09:50 ET",
       "exit_time": "2026-09-02 09:55 ET",
@@ -116044,7 +115219,7 @@
       ]
     },
     {
-      "id": 127,
+      "id": 126,
       "date": "2026-09-08",
       "entry_time": "2026-09-08 09:40 ET",
       "exit_time": "2026-09-08 16:00 ET",
@@ -116857,7 +116032,7 @@
       ]
     },
     {
-      "id": 128,
+      "id": 127,
       "date": "2026-09-08",
       "entry_time": "2026-09-08 09:45 ET",
       "exit_time": "2026-09-08 16:00 ET",
@@ -117670,7 +116845,7 @@
       ]
     },
     {
-      "id": 129,
+      "id": 128,
       "date": "2026-09-14",
       "entry_time": "2026-09-14 09:30 ET",
       "exit_time": "2026-09-14 09:35 ET",
@@ -118483,7 +117658,7 @@
       ]
     },
     {
-      "id": 130,
+      "id": 129,
       "date": "2026-09-14",
       "entry_time": "2026-09-14 09:30 ET",
       "exit_time": "2026-09-14 09:35 ET",
@@ -119296,7 +118471,7 @@
       ]
     },
     {
-      "id": 131,
+      "id": 130,
       "date": "2026-09-15",
       "entry_time": "2026-09-15 09:30 ET",
       "exit_time": "2026-09-15 09:35 ET",
@@ -120109,7 +119284,7 @@
       ]
     },
     {
-      "id": 132,
+      "id": 131,
       "date": "2026-09-15",
       "entry_time": "2026-09-15 09:35 ET",
       "exit_time": "2026-09-15 09:40 ET",
@@ -120922,7 +120097,7 @@
       ]
     },
     {
-      "id": 133,
+      "id": 132,
       "date": "2026-09-15",
       "entry_time": "2026-09-15 10:00 ET",
       "exit_time": "2026-09-15 10:05 ET",
@@ -121735,7 +120910,7 @@
       ]
     },
     {
-      "id": 134,
+      "id": 133,
       "date": "2026-09-24",
       "entry_time": "2026-09-24 10:25 ET",
       "exit_time": "2026-09-24 10:35 ET",
@@ -122548,7 +121723,7 @@
       ]
     },
     {
-      "id": 135,
+      "id": 134,
       "date": "2026-09-24",
       "entry_time": "2026-09-24 10:35 ET",
       "exit_time": "2026-09-24 12:40 ET",
@@ -123361,7 +122536,7 @@
       ]
     },
     {
-      "id": 136,
+      "id": 135,
       "date": "2026-09-25",
       "entry_time": "2026-09-25 09:50 ET",
       "exit_time": "2026-09-25 09:55 ET",
@@ -124174,7 +123349,7 @@
       ]
     },
     {
-      "id": 137,
+      "id": 136,
       "date": "2026-09-25",
       "entry_time": "2026-09-25 09:50 ET",
       "exit_time": "2026-09-25 09:55 ET",
@@ -124987,7 +124162,7 @@
       ]
     },
     {
-      "id": 138,
+      "id": 137,
       "date": "2026-09-28",
       "entry_time": "2026-09-28 09:35 ET",
       "exit_time": "2026-09-28 12:25 ET",
@@ -125800,7 +124975,7 @@
       ]
     },
     {
-      "id": 139,
+      "id": 138,
       "date": "2026-09-28",
       "entry_time": "2026-09-28 09:30 ET",
       "exit_time": "2026-09-28 09:35 ET",
@@ -126613,7 +125788,7 @@
       ]
     },
     {
-      "id": 140,
+      "id": 139,
       "date": "2026-09-28",
       "entry_time": "2026-09-28 09:30 ET",
       "exit_time": "2026-09-28 12:25 ET",
@@ -127426,7 +126601,7 @@
       ]
     },
     {
-      "id": 141,
+      "id": 140,
       "date": "2026-10-08",
       "entry_time": "2026-10-08 10:15 ET",
       "exit_time": "2026-10-08 10:25 ET",
@@ -128239,7 +127414,7 @@
       ]
     },
     {
-      "id": 142,
+      "id": 141,
       "date": "2026-10-08",
       "entry_time": "2026-10-08 10:15 ET",
       "exit_time": "2026-10-08 10:25 ET",
@@ -129052,7 +128227,7 @@
       ]
     },
     {
-      "id": 143,
+      "id": 142,
       "date": "2026-10-08",
       "entry_time": "2026-10-08 10:20 ET",
       "exit_time": "2026-10-08 10:25 ET",
@@ -129865,7 +129040,7 @@
       ]
     },
     {
-      "id": 144,
+      "id": 143,
       "date": "2026-10-13",
       "entry_time": "2026-10-13 09:35 ET",
       "exit_time": "2026-10-13 16:00 ET",
@@ -130678,7 +129853,7 @@
       ]
     },
     {
-      "id": 145,
+      "id": 144,
       "date": "2026-10-13",
       "entry_time": "2026-10-13 09:35 ET",
       "exit_time": "2026-10-13 16:00 ET",
@@ -131491,7 +130666,7 @@
       ]
     },
     {
-      "id": 146,
+      "id": 145,
       "date": "2026-10-13",
       "entry_time": "2026-10-13 10:50 ET",
       "exit_time": "2026-10-13 11:10 ET",
@@ -132304,7 +131479,7 @@
       ]
     },
     {
-      "id": 147,
+      "id": 146,
       "date": "2026-10-15",
       "entry_time": "2026-10-15 09:40 ET",
       "exit_time": "2026-10-15 09:50 ET",
@@ -133117,7 +132292,7 @@
       ]
     },
     {
-      "id": 148,
+      "id": 147,
       "date": "2026-10-15",
       "entry_time": "2026-10-15 09:40 ET",
       "exit_time": "2026-10-15 09:50 ET",
@@ -133930,7 +133105,7 @@
       ]
     },
     {
-      "id": 149,
+      "id": 148,
       "date": "2026-10-19",
       "entry_time": "2026-10-19 10:10 ET",
       "exit_time": "2026-10-19 16:00 ET",
@@ -134743,7 +133918,7 @@
       ]
     },
     {
-      "id": 150,
+      "id": 149,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 10:00 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -135556,7 +134731,7 @@
       ]
     },
     {
-      "id": 151,
+      "id": 150,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 10:00 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -136369,7 +135544,7 @@
       ]
     },
     {
-      "id": 152,
+      "id": 151,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 10:00 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -137182,7 +136357,7 @@
       ]
     },
     {
-      "id": 153,
+      "id": 152,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:55 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -137995,7 +137170,7 @@
       ]
     },
     {
-      "id": 154,
+      "id": 153,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 09:40 ET",
       "exit_time": "2026-10-21 09:45 ET",
@@ -138808,7 +137983,7 @@
       ]
     },
     {
-      "id": 155,
+      "id": 154,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 09:40 ET",
       "exit_time": "2026-10-21 09:45 ET",
@@ -139621,7 +138796,7 @@
       ]
     },
     {
-      "id": 156,
+      "id": 155,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:10 ET",
       "exit_time": "2026-10-21 16:00 ET",
@@ -140434,7 +139609,7 @@
       ]
     },
     {
-      "id": 157,
+      "id": 156,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 09:30 ET",
       "exit_time": "2026-10-22 16:00 ET",
@@ -141247,7 +140422,7 @@
       ]
     },
     {
-      "id": 158,
+      "id": 157,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 10:10 ET",
       "exit_time": "2026-10-22 16:00 ET",
@@ -142060,7 +141235,7 @@
       ]
     },
     {
-      "id": 159,
+      "id": 158,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 09:55 ET",
       "exit_time": "2026-10-22 10:00 ET",
@@ -142873,7 +142048,7 @@
       ]
     },
     {
-      "id": 160,
+      "id": 159,
       "date": "2026-10-23",
       "entry_time": "2026-10-23 09:45 ET",
       "exit_time": "2026-10-23 15:25 ET",
@@ -143686,7 +142861,7 @@
       ]
     },
     {
-      "id": 161,
+      "id": 160,
       "date": "2026-10-23",
       "entry_time": "2026-10-23 09:55 ET",
       "exit_time": "2026-10-23 10:00 ET",
@@ -144499,7 +143674,7 @@
       ]
     },
     {
-      "id": 162,
+      "id": 161,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 09:35 ET",
       "exit_time": "2026-10-29 13:50 ET",
@@ -145312,7 +144487,7 @@
       ]
     },
     {
-      "id": 163,
+      "id": 162,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 09:40 ET",
       "exit_time": "2026-10-29 09:45 ET",
@@ -146125,7 +145300,7 @@
       ]
     },
     {
-      "id": 164,
+      "id": 163,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 10:00 ET",
       "exit_time": "2026-10-29 14:30 ET",
@@ -146938,7 +146113,7 @@
       ]
     },
     {
-      "id": 165,
+      "id": 164,
       "date": "2026-11-02",
       "entry_time": "2026-11-02 10:20 ET",
       "exit_time": "2026-11-02 10:25 ET",
@@ -147751,7 +146926,7 @@
       ]
     },
     {
-      "id": 166,
+      "id": 165,
       "date": "2026-11-02",
       "entry_time": "2026-11-02 10:25 ET",
       "exit_time": "2026-11-02 10:30 ET",
@@ -148564,811 +147739,7 @@
       ]
     },
     {
-      "id": 167,
-      "date": "2026-08-24",
-      "entry_time": "2026-08-24 10:30 ET",
-      "exit_time": "2026-08-24 10:35 ET",
-      "symbol": "MES=F",
-      "direction": "LONG",
-      "entry": 7670.25,
-      "exit": 7670.25,
-      "sl": 7668.42,
-      "tp": 7677.55,
-      "risk_pts": 1.82,
-      "outcome": "BE",
-      "pnl_r": 0.0,
-      "reason": "1H IFVG Tap (bearish)",
-      "trigger": "1H IFVG",
-      "confirmation": "IFVG",
-      "cumulative_r": 32.64,
-      "bars": [
-        {
-          "time": 1787576400,
-          "time_str": "09:00",
-          "full_time": "2026-08-24 09:00 ET",
-          "open": 7677.75,
-          "high": 7680.0,
-          "low": 7677.75,
-          "close": 7679.5
-        },
-        {
-          "time": 1787576700,
-          "time_str": "09:05",
-          "full_time": "2026-08-24 09:05 ET",
-          "open": 7679.25,
-          "high": 7679.75,
-          "low": 7676.75,
-          "close": 7678.25
-        },
-        {
-          "time": 1787577000,
-          "time_str": "09:10",
-          "full_time": "2026-08-24 09:10 ET",
-          "open": 7678.0,
-          "high": 7679.75,
-          "low": 7676.75,
-          "close": 7677.0
-        },
-        {
-          "time": 1787577300,
-          "time_str": "09:15",
-          "full_time": "2026-08-24 09:15 ET",
-          "open": 7677.25,
-          "high": 7680.0,
-          "low": 7676.25,
-          "close": 7676.75
-        },
-        {
-          "time": 1787577600,
-          "time_str": "09:20",
-          "full_time": "2026-08-24 09:20 ET",
-          "open": 7676.75,
-          "high": 7679.0,
-          "low": 7676.25,
-          "close": 7677.0
-        },
-        {
-          "time": 1787577900,
-          "time_str": "09:25",
-          "full_time": "2026-08-24 09:25 ET",
-          "open": 7676.5,
-          "high": 7682.0,
-          "low": 7676.0,
-          "close": 7681.5
-        },
-        {
-          "time": 1787578200,
-          "time_str": "09:30",
-          "full_time": "2026-08-24 09:30 ET",
-          "open": 7681.75,
-          "high": 7682.75,
-          "low": 7666.0,
-          "close": 7669.0
-        },
-        {
-          "time": 1787578500,
-          "time_str": "09:35",
-          "full_time": "2026-08-24 09:35 ET",
-          "open": 7669.0,
-          "high": 7672.75,
-          "low": 7664.5,
-          "close": 7668.25
-        },
-        {
-          "time": 1787578800,
-          "time_str": "09:40",
-          "full_time": "2026-08-24 09:40 ET",
-          "open": 7668.0,
-          "high": 7671.75,
-          "low": 7655.75,
-          "close": 7656.0
-        },
-        {
-          "time": 1787579100,
-          "time_str": "09:45",
-          "full_time": "2026-08-24 09:45 ET",
-          "open": 7656.25,
-          "high": 7670.25,
-          "low": 7655.0,
-          "close": 7665.75
-        },
-        {
-          "time": 1787579400,
-          "time_str": "09:50",
-          "full_time": "2026-08-24 09:50 ET",
-          "open": 7665.5,
-          "high": 7670.0,
-          "low": 7662.0,
-          "close": 7669.0
-        },
-        {
-          "time": 1787579700,
-          "time_str": "09:55",
-          "full_time": "2026-08-24 09:55 ET",
-          "open": 7669.0,
-          "high": 7671.25,
-          "low": 7666.75,
-          "close": 7668.5
-        },
-        {
-          "time": 1787580000,
-          "time_str": "10:00",
-          "full_time": "2026-08-24 10:00 ET",
-          "open": 7668.75,
-          "high": 7674.0,
-          "low": 7662.25,
-          "close": 7664.25
-        },
-        {
-          "time": 1787580300,
-          "time_str": "10:05",
-          "full_time": "2026-08-24 10:05 ET",
-          "open": 7664.25,
-          "high": 7666.5,
-          "low": 7660.5,
-          "close": 7663.5
-        },
-        {
-          "time": 1787580600,
-          "time_str": "10:10",
-          "full_time": "2026-08-24 10:10 ET",
-          "open": 7663.5,
-          "high": 7664.75,
-          "low": 7659.5,
-          "close": 7664.0
-        },
-        {
-          "time": 1787580900,
-          "time_str": "10:15",
-          "full_time": "2026-08-24 10:15 ET",
-          "open": 7664.25,
-          "high": 7665.0,
-          "low": 7660.5,
-          "close": 7662.75
-        },
-        {
-          "time": 1787581200,
-          "time_str": "10:20",
-          "full_time": "2026-08-24 10:20 ET",
-          "open": 7662.75,
-          "high": 7669.25,
-          "low": 7662.0,
-          "close": 7662.5
-        },
-        {
-          "time": 1787581500,
-          "time_str": "10:25",
-          "full_time": "2026-08-24 10:25 ET",
-          "open": 7663.0,
-          "high": 7665.75,
-          "low": 7660.75,
-          "close": 7663.25
-        },
-        {
-          "time": 1787581800,
-          "time_str": "10:30",
-          "full_time": "2026-08-24 10:30 ET",
-          "open": 7663.25,
-          "high": 7671.75,
-          "low": 7661.75,
-          "close": 7670.25
-        },
-        {
-          "time": 1787582100,
-          "time_str": "10:35",
-          "full_time": "2026-08-24 10:35 ET",
-          "open": 7670.5,
-          "high": 7673.25,
-          "low": 7669.5,
-          "close": 7671.0
-        },
-        {
-          "time": 1787582400,
-          "time_str": "10:40",
-          "full_time": "2026-08-24 10:40 ET",
-          "open": 7671.0,
-          "high": 7675.5,
-          "low": 7669.25,
-          "close": 7671.25
-        },
-        {
-          "time": 1787582700,
-          "time_str": "10:45",
-          "full_time": "2026-08-24 10:45 ET",
-          "open": 7671.25,
-          "high": 7673.25,
-          "low": 7669.0,
-          "close": 7673.0
-        },
-        {
-          "time": 1787583000,
-          "time_str": "10:50",
-          "full_time": "2026-08-24 10:50 ET",
-          "open": 7673.25,
-          "high": 7673.5,
-          "low": 7668.0,
-          "close": 7670.5
-        },
-        {
-          "time": 1787583300,
-          "time_str": "10:55",
-          "full_time": "2026-08-24 10:55 ET",
-          "open": 7670.5,
-          "high": 7673.75,
-          "low": 7669.5,
-          "close": 7670.75
-        },
-        {
-          "time": 1787583600,
-          "time_str": "11:00",
-          "full_time": "2026-08-24 11:00 ET",
-          "open": 7671.0,
-          "high": 7672.75,
-          "low": 7664.25,
-          "close": 7664.5
-        },
-        {
-          "time": 1787583900,
-          "time_str": "11:05",
-          "full_time": "2026-08-24 11:05 ET",
-          "open": 7664.5,
-          "high": 7665.0,
-          "low": 7661.75,
-          "close": 7664.0
-        },
-        {
-          "time": 1787584200,
-          "time_str": "11:10",
-          "full_time": "2026-08-24 11:10 ET",
-          "open": 7664.0,
-          "high": 7666.0,
-          "low": 7660.75,
-          "close": 7661.5
-        },
-        {
-          "time": 1787584500,
-          "time_str": "11:15",
-          "full_time": "2026-08-24 11:15 ET",
-          "open": 7661.0,
-          "high": 7662.5,
-          "low": 7660.25,
-          "close": 7660.75
-        },
-        {
-          "time": 1787584800,
-          "time_str": "11:20",
-          "full_time": "2026-08-24 11:20 ET",
-          "open": 7660.75,
-          "high": 7666.0,
-          "low": 7657.5,
-          "close": 7665.5
-        },
-        {
-          "time": 1787585100,
-          "time_str": "11:25",
-          "full_time": "2026-08-24 11:25 ET",
-          "open": 7665.5,
-          "high": 7674.25,
-          "low": 7664.5,
-          "close": 7671.5
-        },
-        {
-          "time": 1787585400,
-          "time_str": "11:30",
-          "full_time": "2026-08-24 11:30 ET",
-          "open": 7671.5,
-          "high": 7674.5,
-          "low": 7668.0,
-          "close": 7672.75
-        },
-        {
-          "time": 1787585700,
-          "time_str": "11:35",
-          "full_time": "2026-08-24 11:35 ET",
-          "open": 7672.5,
-          "high": 7675.75,
-          "low": 7671.0,
-          "close": 7674.25
-        },
-        {
-          "time": 1787586000,
-          "time_str": "11:40",
-          "full_time": "2026-08-24 11:40 ET",
-          "open": 7674.5,
-          "high": 7678.75,
-          "low": 7674.25,
-          "close": 7676.5
-        },
-        {
-          "time": 1787586300,
-          "time_str": "11:45",
-          "full_time": "2026-08-24 11:45 ET",
-          "open": 7676.75,
-          "high": 7681.5,
-          "low": 7676.5,
-          "close": 7677.0
-        },
-        {
-          "time": 1787586600,
-          "time_str": "11:50",
-          "full_time": "2026-08-24 11:50 ET",
-          "open": 7677.25,
-          "high": 7680.25,
-          "low": 7676.75,
-          "close": 7677.5
-        },
-        {
-          "time": 1787586900,
-          "time_str": "11:55",
-          "full_time": "2026-08-24 11:55 ET",
-          "open": 7677.25,
-          "high": 7679.5,
-          "low": 7675.75,
-          "close": 7679.5
-        },
-        {
-          "time": 1787587200,
-          "time_str": "12:00",
-          "full_time": "2026-08-24 12:00 ET",
-          "open": 7679.25,
-          "high": 7685.5,
-          "low": 7678.25,
-          "close": 7683.5
-        },
-        {
-          "time": 1787587500,
-          "time_str": "12:05",
-          "full_time": "2026-08-24 12:05 ET",
-          "open": 7683.5,
-          "high": 7684.0,
-          "low": 7678.75,
-          "close": 7679.0
-        },
-        {
-          "time": 1787587800,
-          "time_str": "12:10",
-          "full_time": "2026-08-24 12:10 ET",
-          "open": 7679.0,
-          "high": 7680.75,
-          "low": 7678.25,
-          "close": 7680.75
-        },
-        {
-          "time": 1787588100,
-          "time_str": "12:15",
-          "full_time": "2026-08-24 12:15 ET",
-          "open": 7680.5,
-          "high": 7685.75,
-          "low": 7680.25,
-          "close": 7684.75
-        },
-        {
-          "time": 1787588400,
-          "time_str": "12:20",
-          "full_time": "2026-08-24 12:20 ET",
-          "open": 7684.5,
-          "high": 7686.5,
-          "low": 7682.0,
-          "close": 7682.5
-        },
-        {
-          "time": 1787588700,
-          "time_str": "12:25",
-          "full_time": "2026-08-24 12:25 ET",
-          "open": 7682.75,
-          "high": 7684.25,
-          "low": 7682.0,
-          "close": 7683.25
-        },
-        {
-          "time": 1787589000,
-          "time_str": "12:30",
-          "full_time": "2026-08-24 12:30 ET",
-          "open": 7683.0,
-          "high": 7684.25,
-          "low": 7679.0,
-          "close": 7679.75
-        },
-        {
-          "time": 1787589300,
-          "time_str": "12:35",
-          "full_time": "2026-08-24 12:35 ET",
-          "open": 7680.0,
-          "high": 7681.25,
-          "low": 7677.25,
-          "close": 7677.5
-        },
-        {
-          "time": 1787589600,
-          "time_str": "12:40",
-          "full_time": "2026-08-24 12:40 ET",
-          "open": 7677.5,
-          "high": 7678.25,
-          "low": 7676.0,
-          "close": 7677.25
-        },
-        {
-          "time": 1787589900,
-          "time_str": "12:45",
-          "full_time": "2026-08-24 12:45 ET",
-          "open": 7677.25,
-          "high": 7678.25,
-          "low": 7675.5,
-          "close": 7677.5
-        },
-        {
-          "time": 1787590500,
-          "time_str": "12:55",
-          "full_time": "2026-08-24 12:55 ET",
-          "open": 7676.25,
-          "high": 7677.5,
-          "low": 7675.25,
-          "close": 7676.0
-        },
-        {
-          "time": 1787590800,
-          "time_str": "13:00",
-          "full_time": "2026-08-24 13:00 ET",
-          "open": 7676.25,
-          "high": 7676.25,
-          "low": 7672.75,
-          "close": 7674.0
-        },
-        {
-          "time": 1787591100,
-          "time_str": "13:05",
-          "full_time": "2026-08-24 13:05 ET",
-          "open": 7674.25,
-          "high": 7681.0,
-          "low": 7673.5,
-          "close": 7678.5
-        },
-        {
-          "time": 1787591400,
-          "time_str": "13:10",
-          "full_time": "2026-08-24 13:10 ET",
-          "open": 7678.75,
-          "high": 7682.0,
-          "low": 7677.25,
-          "close": 7679.25
-        },
-        {
-          "time": 1787591700,
-          "time_str": "13:15",
-          "full_time": "2026-08-24 13:15 ET",
-          "open": 7679.0,
-          "high": 7679.75,
-          "low": 7674.25,
-          "close": 7675.25
-        },
-        {
-          "time": 1787592000,
-          "time_str": "13:20",
-          "full_time": "2026-08-24 13:20 ET",
-          "open": 7675.5,
-          "high": 7676.0,
-          "low": 7669.0,
-          "close": 7669.75
-        },
-        {
-          "time": 1787592300,
-          "time_str": "13:25",
-          "full_time": "2026-08-24 13:25 ET",
-          "open": 7669.75,
-          "high": 7671.5,
-          "low": 7667.25,
-          "close": 7667.75
-        },
-        {
-          "time": 1787592600,
-          "time_str": "13:30",
-          "full_time": "2026-08-24 13:30 ET",
-          "open": 7668.0,
-          "high": 7669.75,
-          "low": 7666.75,
-          "close": 7667.0
-        },
-        {
-          "time": 1787592900,
-          "time_str": "13:35",
-          "full_time": "2026-08-24 13:35 ET",
-          "open": 7667.0,
-          "high": 7668.25,
-          "low": 7665.5,
-          "close": 7668.0
-        },
-        {
-          "time": 1787593200,
-          "time_str": "13:40",
-          "full_time": "2026-08-24 13:40 ET",
-          "open": 7668.0,
-          "high": 7668.75,
-          "low": 7664.75,
-          "close": 7665.25
-        },
-        {
-          "time": 1787593500,
-          "time_str": "13:45",
-          "full_time": "2026-08-24 13:45 ET",
-          "open": 7665.0,
-          "high": 7667.0,
-          "low": 7664.25,
-          "close": 7666.5
-        },
-        {
-          "time": 1787593800,
-          "time_str": "13:50",
-          "full_time": "2026-08-24 13:50 ET",
-          "open": 7666.25,
-          "high": 7669.0,
-          "low": 7665.25,
-          "close": 7666.0
-        },
-        {
-          "time": 1787594100,
-          "time_str": "13:55",
-          "full_time": "2026-08-24 13:55 ET",
-          "open": 7666.25,
-          "high": 7668.0,
-          "low": 7665.25,
-          "close": 7667.0
-        },
-        {
-          "time": 1787594400,
-          "time_str": "14:00",
-          "full_time": "2026-08-24 14:00 ET",
-          "open": 7667.0,
-          "high": 7670.75,
-          "low": 7666.75,
-          "close": 7669.5
-        },
-        {
-          "time": 1787594700,
-          "time_str": "14:05",
-          "full_time": "2026-08-24 14:05 ET",
-          "open": 7669.5,
-          "high": 7674.25,
-          "low": 7669.0,
-          "close": 7673.0
-        },
-        {
-          "time": 1787595000,
-          "time_str": "14:10",
-          "full_time": "2026-08-24 14:10 ET",
-          "open": 7673.25,
-          "high": 7677.0,
-          "low": 7672.25,
-          "close": 7676.5
-        },
-        {
-          "time": 1787595300,
-          "time_str": "14:15",
-          "full_time": "2026-08-24 14:15 ET",
-          "open": 7676.75,
-          "high": 7679.0,
-          "low": 7675.25,
-          "close": 7676.25
-        },
-        {
-          "time": 1787595600,
-          "time_str": "14:20",
-          "full_time": "2026-08-24 14:20 ET",
-          "open": 7676.25,
-          "high": 7681.25,
-          "low": 7676.0,
-          "close": 7680.25
-        },
-        {
-          "time": 1787595900,
-          "time_str": "14:25",
-          "full_time": "2026-08-24 14:25 ET",
-          "open": 7680.0,
-          "high": 7682.75,
-          "low": 7679.5,
-          "close": 7682.0
-        },
-        {
-          "time": 1787596200,
-          "time_str": "14:30",
-          "full_time": "2026-08-24 14:30 ET",
-          "open": 7682.25,
-          "high": 7685.25,
-          "low": 7680.75,
-          "close": 7680.75
-        },
-        {
-          "time": 1787596500,
-          "time_str": "14:35",
-          "full_time": "2026-08-24 14:35 ET",
-          "open": 7681.25,
-          "high": 7681.75,
-          "low": 7675.25,
-          "close": 7676.5
-        },
-        {
-          "time": 1787596800,
-          "time_str": "14:40",
-          "full_time": "2026-08-24 14:40 ET",
-          "open": 7676.5,
-          "high": 7678.5,
-          "low": 7675.75,
-          "close": 7677.5
-        },
-        {
-          "time": 1787597100,
-          "time_str": "14:45",
-          "full_time": "2026-08-24 14:45 ET",
-          "open": 7677.5,
-          "high": 7678.5,
-          "low": 7675.25,
-          "close": 7677.5
-        },
-        {
-          "time": 1787597400,
-          "time_str": "14:50",
-          "full_time": "2026-08-24 14:50 ET",
-          "open": 7677.5,
-          "high": 7678.5,
-          "low": 7675.0,
-          "close": 7675.5
-        },
-        {
-          "time": 1787597700,
-          "time_str": "14:55",
-          "full_time": "2026-08-24 14:55 ET",
-          "open": 7675.75,
-          "high": 7677.0,
-          "low": 7674.0,
-          "close": 7674.25
-        },
-        {
-          "time": 1787598000,
-          "time_str": "15:00",
-          "full_time": "2026-08-24 15:00 ET",
-          "open": 7674.25,
-          "high": 7675.0,
-          "low": 7672.5,
-          "close": 7673.75
-        },
-        {
-          "time": 1787598300,
-          "time_str": "15:05",
-          "full_time": "2026-08-24 15:05 ET",
-          "open": 7673.75,
-          "high": 7675.25,
-          "low": 7672.5,
-          "close": 7673.0
-        },
-        {
-          "time": 1787598600,
-          "time_str": "15:10",
-          "full_time": "2026-08-24 15:10 ET",
-          "open": 7673.0,
-          "high": 7676.5,
-          "low": 7672.75,
-          "close": 7675.25
-        },
-        {
-          "time": 1787598900,
-          "time_str": "15:15",
-          "full_time": "2026-08-24 15:15 ET",
-          "open": 7675.5,
-          "high": 7676.75,
-          "low": 7673.25,
-          "close": 7675.25
-        },
-        {
-          "time": 1787599200,
-          "time_str": "15:20",
-          "full_time": "2026-08-24 15:20 ET",
-          "open": 7675.25,
-          "high": 7676.5,
-          "low": 7673.75,
-          "close": 7674.75
-        },
-        {
-          "time": 1787599500,
-          "time_str": "15:25",
-          "full_time": "2026-08-24 15:25 ET",
-          "open": 7674.5,
-          "high": 7676.0,
-          "low": 7673.5,
-          "close": 7674.25
-        },
-        {
-          "time": 1787599800,
-          "time_str": "15:30",
-          "full_time": "2026-08-24 15:30 ET",
-          "open": 7674.25,
-          "high": 7677.0,
-          "low": 7672.0,
-          "close": 7672.25
-        },
-        {
-          "time": 1787600100,
-          "time_str": "15:35",
-          "full_time": "2026-08-24 15:35 ET",
-          "open": 7672.0,
-          "high": 7673.0,
-          "low": 7670.75,
-          "close": 7671.0
-        },
-        {
-          "time": 1787600400,
-          "time_str": "15:40",
-          "full_time": "2026-08-24 15:40 ET",
-          "open": 7671.25,
-          "high": 7672.25,
-          "low": 7670.0,
-          "close": 7671.0
-        },
-        {
-          "time": 1787600700,
-          "time_str": "15:45",
-          "full_time": "2026-08-24 15:45 ET",
-          "open": 7671.25,
-          "high": 7672.5,
-          "low": 7669.25,
-          "close": 7672.0
-        },
-        {
-          "time": 1787601000,
-          "time_str": "15:50",
-          "full_time": "2026-08-24 15:50 ET",
-          "open": 7673.75,
-          "high": 7674.25,
-          "low": 7668.0,
-          "close": 7672.25
-        },
-        {
-          "time": 1787601300,
-          "time_str": "15:55",
-          "full_time": "2026-08-24 15:55 ET",
-          "open": 7671.5,
-          "high": 7674.0,
-          "low": 7668.25,
-          "close": 7669.5
-        },
-        {
-          "time": 1787601600,
-          "time_str": "16:00",
-          "full_time": "2026-08-24 16:00 ET",
-          "open": 7669.25,
-          "high": 7672.5,
-          "low": 7668.0,
-          "close": 7671.25
-        },
-        {
-          "time": 1787601900,
-          "time_str": "16:05",
-          "full_time": "2026-08-24 16:05 ET",
-          "open": 7671.0,
-          "high": 7673.25,
-          "low": 7670.25,
-          "close": 7671.0
-        },
-        {
-          "time": 1787602200,
-          "time_str": "16:10",
-          "full_time": "2026-08-24 16:10 ET",
-          "open": 7671.25,
-          "high": 7671.75,
-          "low": 7670.0,
-          "close": 7670.75
-        },
-        {
-          "time": 1787602500,
-          "time_str": "16:15",
-          "full_time": "2026-08-24 16:15 ET",
-          "open": 7671.0,
-          "high": 7671.25,
-          "low": 7669.25,
-          "close": 7670.0
-        }
-      ]
-    },
-    {
-      "id": 168,
+      "id": 166,
       "date": "2026-08-25",
       "entry_time": "2026-08-25 10:20 ET",
       "exit_time": "2026-08-25 10:25 ET",
@@ -150181,7 +148552,7 @@
       ]
     },
     {
-      "id": 169,
+      "id": 167,
       "date": "2026-08-25",
       "entry_time": "2026-08-25 10:25 ET",
       "exit_time": "2026-08-25 10:30 ET",
@@ -150994,7 +149365,7 @@
       ]
     },
     {
-      "id": 170,
+      "id": 168,
       "date": "2026-08-25",
       "entry_time": "2026-08-25 10:30 ET",
       "exit_time": "2026-08-25 10:35 ET",
@@ -151807,7 +150178,7 @@
       ]
     },
     {
-      "id": 171,
+      "id": 169,
       "date": "2026-08-26",
       "entry_time": "2026-08-26 09:45 ET",
       "exit_time": "2026-08-26 09:50 ET",
@@ -152620,7 +150991,7 @@
       ]
     },
     {
-      "id": 172,
+      "id": 170,
       "date": "2026-08-26",
       "entry_time": "2026-08-26 10:05 ET",
       "exit_time": "2026-08-26 10:10 ET",
@@ -153433,7 +151804,7 @@
       ]
     },
     {
-      "id": 173,
+      "id": 171,
       "date": "2026-08-27",
       "entry_time": "2026-08-27 09:30 ET",
       "exit_time": "2026-08-27 09:35 ET",
@@ -154246,7 +152617,7 @@
       ]
     },
     {
-      "id": 174,
+      "id": 172,
       "date": "2026-08-27",
       "entry_time": "2026-08-27 09:40 ET",
       "exit_time": "2026-08-27 16:00 ET",
@@ -155059,7 +153430,7 @@
       ]
     },
     {
-      "id": 175,
+      "id": 173,
       "date": "2026-08-27",
       "entry_time": "2026-08-27 10:20 ET",
       "exit_time": "2026-08-27 16:00 ET",
@@ -155872,7 +154243,7 @@
       ]
     },
     {
-      "id": 176,
+      "id": 174,
       "date": "2026-08-28",
       "entry_time": "2026-08-28 09:30 ET",
       "exit_time": "2026-08-28 10:20 ET",
@@ -156685,7 +155056,7 @@
       ]
     },
     {
-      "id": 177,
+      "id": 175,
       "date": "2026-08-28",
       "entry_time": "2026-08-28 09:55 ET",
       "exit_time": "2026-08-28 10:00 ET",
@@ -157498,7 +155869,7 @@
       ]
     },
     {
-      "id": 178,
+      "id": 176,
       "date": "2026-08-28",
       "entry_time": "2026-08-28 09:55 ET",
       "exit_time": "2026-08-28 10:00 ET",
@@ -158311,7 +156682,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 177,
       "date": "2026-09-08",
       "entry_time": "2026-09-08 09:40 ET",
       "exit_time": "2026-09-08 10:05 ET",
@@ -159124,7 +157495,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 178,
       "date": "2026-09-08",
       "entry_time": "2026-09-08 09:40 ET",
       "exit_time": "2026-09-08 09:45 ET",
@@ -159937,7 +158308,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 179,
       "date": "2026-09-08",
       "entry_time": "2026-09-08 10:00 ET",
       "exit_time": "2026-09-08 15:55 ET",
@@ -160750,7 +159121,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 180,
       "date": "2026-09-15",
       "entry_time": "2026-09-15 09:35 ET",
       "exit_time": "2026-09-15 10:50 ET",
@@ -161563,7 +159934,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 181,
       "date": "2026-09-15",
       "entry_time": "2026-09-15 09:35 ET",
       "exit_time": "2026-09-15 10:50 ET",
@@ -162376,7 +160747,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 182,
       "date": "2026-09-15",
       "entry_time": "2026-09-15 09:30 ET",
       "exit_time": "2026-09-15 09:35 ET",
@@ -163189,7 +161560,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 183,
       "date": "2026-09-15",
       "entry_time": "2026-09-15 09:30 ET",
       "exit_time": "2026-09-15 16:00 ET",
@@ -164002,7 +162373,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 184,
       "date": "2026-09-16",
       "entry_time": "2026-09-16 09:35 ET",
       "exit_time": "2026-09-16 14:55 ET",
@@ -164815,7 +163186,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 185,
       "date": "2026-09-16",
       "entry_time": "2026-09-16 09:35 ET",
       "exit_time": "2026-09-16 10:25 ET",
@@ -165628,7 +163999,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 186,
       "date": "2026-09-22",
       "entry_time": "2026-09-22 09:55 ET",
       "exit_time": "2026-09-22 16:00 ET",
@@ -166441,7 +164812,7 @@
       ]
     },
     {
-      "id": 189,
+      "id": 187,
       "date": "2026-09-22",
       "entry_time": "2026-09-22 09:55 ET",
       "exit_time": "2026-09-22 10:10 ET",
@@ -167254,7 +165625,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 188,
       "date": "2026-09-22",
       "entry_time": "2026-09-22 09:55 ET",
       "exit_time": "2026-09-22 10:10 ET",
@@ -168067,7 +166438,7 @@
       ]
     },
     {
-      "id": 191,
+      "id": 189,
       "date": "2026-09-25",
       "entry_time": "2026-09-25 10:00 ET",
       "exit_time": "2026-09-25 10:05 ET",
@@ -168880,7 +167251,7 @@
       ]
     },
     {
-      "id": 192,
+      "id": 190,
       "date": "2026-09-25",
       "entry_time": "2026-09-25 10:05 ET",
       "exit_time": "2026-09-25 10:15 ET",
@@ -169693,7 +168064,7 @@
       ]
     },
     {
-      "id": 193,
+      "id": 191,
       "date": "2026-09-25",
       "entry_time": "2026-09-25 10:15 ET",
       "exit_time": "2026-09-25 16:00 ET",
@@ -170506,7 +168877,7 @@
       ]
     },
     {
-      "id": 194,
+      "id": 192,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:35 ET",
       "exit_time": "2026-09-29 16:00 ET",
@@ -171319,7 +169690,7 @@
       ]
     },
     {
-      "id": 195,
+      "id": 193,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:35 ET",
       "exit_time": "2026-09-29 16:00 ET",
@@ -172132,7 +170503,7 @@
       ]
     },
     {
-      "id": 196,
+      "id": 194,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:30 ET",
       "exit_time": "2026-09-29 16:00 ET",
@@ -172945,7 +171316,7 @@
       ]
     },
     {
-      "id": 197,
+      "id": 195,
       "date": "2026-09-29",
       "entry_time": "2026-09-29 09:30 ET",
       "exit_time": "2026-09-29 16:00 ET",
@@ -173758,7 +172129,7 @@
       ]
     },
     {
-      "id": 198,
+      "id": 196,
       "date": "2026-10-08",
       "entry_time": "2026-10-08 09:45 ET",
       "exit_time": "2026-10-08 09:50 ET",
@@ -174571,7 +172942,7 @@
       ]
     },
     {
-      "id": 199,
+      "id": 197,
       "date": "2026-10-08",
       "entry_time": "2026-10-08 09:45 ET",
       "exit_time": "2026-10-08 10:10 ET",
@@ -175384,7 +173755,7 @@
       ]
     },
     {
-      "id": 200,
+      "id": 198,
       "date": "2026-10-08",
       "entry_time": "2026-10-08 10:00 ET",
       "exit_time": "2026-10-08 10:20 ET",
@@ -176197,7 +174568,7 @@
       ]
     },
     {
-      "id": 201,
+      "id": 199,
       "date": "2026-10-09",
       "entry_time": "2026-10-09 09:30 ET",
       "exit_time": "2026-10-09 09:40 ET",
@@ -177010,7 +175381,7 @@
       ]
     },
     {
-      "id": 202,
+      "id": 200,
       "date": "2026-10-09",
       "entry_time": "2026-10-09 09:30 ET",
       "exit_time": "2026-10-09 09:40 ET",
@@ -177823,7 +176194,7 @@
       ]
     },
     {
-      "id": 203,
+      "id": 201,
       "date": "2026-10-09",
       "entry_time": "2026-10-09 09:40 ET",
       "exit_time": "2026-10-09 09:45 ET",
@@ -178636,7 +177007,7 @@
       ]
     },
     {
-      "id": 204,
+      "id": 202,
       "date": "2026-10-13",
       "entry_time": "2026-10-13 09:40 ET",
       "exit_time": "2026-10-13 15:10 ET",
@@ -179449,7 +177820,7 @@
       ]
     },
     {
-      "id": 205,
+      "id": 203,
       "date": "2026-10-13",
       "entry_time": "2026-10-13 09:40 ET",
       "exit_time": "2026-10-13 09:45 ET",
@@ -180262,7 +178633,7 @@
       ]
     },
     {
-      "id": 206,
+      "id": 204,
       "date": "2026-10-15",
       "entry_time": "2026-10-15 10:05 ET",
       "exit_time": "2026-10-15 16:00 ET",
@@ -181075,7 +179446,7 @@
       ]
     },
     {
-      "id": 207,
+      "id": 205,
       "date": "2026-10-15",
       "entry_time": "2026-10-15 10:05 ET",
       "exit_time": "2026-10-15 16:00 ET",
@@ -181888,7 +180259,7 @@
       ]
     },
     {
-      "id": 208,
+      "id": 206,
       "date": "2026-10-19",
       "entry_time": "2026-10-19 09:45 ET",
       "exit_time": "2026-10-19 09:50 ET",
@@ -182701,7 +181072,7 @@
       ]
     },
     {
-      "id": 209,
+      "id": 207,
       "date": "2026-10-19",
       "entry_time": "2026-10-19 10:15 ET",
       "exit_time": "2026-10-19 15:55 ET",
@@ -183514,7 +181885,7 @@
       ]
     },
     {
-      "id": 210,
+      "id": 208,
       "date": "2026-10-19",
       "entry_time": "2026-10-19 10:35 ET",
       "exit_time": "2026-10-19 12:50 ET",
@@ -184327,7 +182698,7 @@
       ]
     },
     {
-      "id": 211,
+      "id": 209,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:50 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -185140,7 +183511,7 @@
       ]
     },
     {
-      "id": 212,
+      "id": 210,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:50 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -185953,7 +184324,7 @@
       ]
     },
     {
-      "id": 213,
+      "id": 211,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:50 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -186766,7 +185137,7 @@
       ]
     },
     {
-      "id": 214,
+      "id": 212,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:45 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -187579,7 +185950,7 @@
       ]
     },
     {
-      "id": 215,
+      "id": 213,
       "date": "2026-10-20",
       "entry_time": "2026-10-20 09:45 ET",
       "exit_time": "2026-10-20 16:00 ET",
@@ -188392,7 +186763,7 @@
       ]
     },
     {
-      "id": 216,
+      "id": 214,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:00 ET",
       "exit_time": "2026-10-21 10:05 ET",
@@ -189205,7 +187576,7 @@
       ]
     },
     {
-      "id": 217,
+      "id": 215,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:05 ET",
       "exit_time": "2026-10-21 11:10 ET",
@@ -190018,7 +188389,7 @@
       ]
     },
     {
-      "id": 218,
+      "id": 216,
       "date": "2026-10-21",
       "entry_time": "2026-10-21 10:10 ET",
       "exit_time": "2026-10-21 10:20 ET",
@@ -190831,7 +189202,7 @@
       ]
     },
     {
-      "id": 219,
+      "id": 217,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 09:30 ET",
       "exit_time": "2026-10-22 09:40 ET",
@@ -191644,7 +190015,7 @@
       ]
     },
     {
-      "id": 220,
+      "id": 218,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 10:05 ET",
       "exit_time": "2026-10-22 16:00 ET",
@@ -192457,7 +190828,7 @@
       ]
     },
     {
-      "id": 221,
+      "id": 219,
       "date": "2026-10-22",
       "entry_time": "2026-10-22 10:00 ET",
       "exit_time": "2026-10-22 10:05 ET",
@@ -193270,7 +191641,7 @@
       ]
     },
     {
-      "id": 222,
+      "id": 220,
       "date": "2026-10-28",
       "entry_time": "2026-10-28 09:45 ET",
       "exit_time": "2026-10-28 09:50 ET",
@@ -194083,7 +192454,7 @@
       ]
     },
     {
-      "id": 223,
+      "id": 221,
       "date": "2026-10-28",
       "entry_time": "2026-10-28 09:45 ET",
       "exit_time": "2026-10-28 12:50 ET",
@@ -194896,7 +193267,7 @@
       ]
     },
     {
-      "id": 224,
+      "id": 222,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 09:40 ET",
       "exit_time": "2026-10-29 16:00 ET",
@@ -195709,7 +194080,7 @@
       ]
     },
     {
-      "id": 225,
+      "id": 223,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 10:00 ET",
       "exit_time": "2026-10-29 13:45 ET",
@@ -196522,7 +194893,7 @@
       ]
     },
     {
-      "id": 226,
+      "id": 224,
       "date": "2026-10-29",
       "entry_time": "2026-10-29 10:00 ET",
       "exit_time": "2026-10-29 13:45 ET",
