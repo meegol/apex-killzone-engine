@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-10 15:24:22 ET",
+  "last_updated": "2026-11-10 19:59:23 ET",
   "status": "ACTIVE",
   "execution_frequency": "Daily post-market (5:00 PM ET)",
   "target_rr": "1:4",
   "metrics": {
     "total_trades": 178,
     "win_rate": 35.4,
-    "total_r": 40.02,
-    "profit_factor": 1.69,
+    "total_r": 39.5,
+    "profit_factor": 1.68,
     "winning_trades": 63,
     "losing_trades": 115
   },
@@ -16,10 +16,10 @@
       "symbol": "NQ=F",
       "trades": 42,
       "win_rate": 4.8,
-      "total_r": 8.56,
-      "profit_factor": 1.81,
+      "total_r": 8.29,
+      "profit_factor": 1.79,
       "max_drawdown": 6.11,
-      "expectancy": 0.204
+      "expectancy": 0.197
     },
     "ES=F": {
       "symbol": "ES=F",
@@ -34,10 +34,10 @@
       "symbol": "MNQ=F",
       "trades": 43,
       "win_rate": 2.3,
-      "total_r": 1.9,
-      "profit_factor": 1.15,
+      "total_r": 1.64,
+      "profit_factor": 1.13,
       "max_drawdown": 7.13,
-      "expectancy": 0.044
+      "expectancy": 0.038
     },
     "MES=F": {
       "symbol": "MES=F",
@@ -300,823 +300,823 @@
       "trade": 42,
       "date": "2026-11-10",
       "symbol": "NQ=F",
-      "cumulative_r": 8.54
+      "cumulative_r": 8.27
     },
     {
       "trade": 43,
       "date": "2026-09-08",
       "symbol": "ES=F",
-      "cumulative_r": 7.54
+      "cumulative_r": 7.27
     },
     {
       "trade": 44,
       "date": "2026-09-08",
       "symbol": "ES=F",
-      "cumulative_r": 7.54
+      "cumulative_r": 7.27
     },
     {
       "trade": 45,
       "date": "2026-09-08",
       "symbol": "ES=F",
-      "cumulative_r": 6.54
+      "cumulative_r": 6.27
     },
     {
       "trade": 46,
       "date": "2026-09-14",
       "symbol": "ES=F",
-      "cumulative_r": 5.54
+      "cumulative_r": 5.27
     },
     {
       "trade": 47,
       "date": "2026-09-14",
       "symbol": "ES=F",
-      "cumulative_r": 4.54
+      "cumulative_r": 4.27
     },
     {
       "trade": 48,
       "date": "2026-09-14",
       "symbol": "ES=F",
-      "cumulative_r": 4.54
+      "cumulative_r": 4.27
     },
     {
       "trade": 49,
       "date": "2026-09-15",
       "symbol": "ES=F",
-      "cumulative_r": 8.54
+      "cumulative_r": 8.27
     },
     {
       "trade": 50,
       "date": "2026-09-15",
       "symbol": "ES=F",
-      "cumulative_r": 12.54
+      "cumulative_r": 12.27
     },
     {
       "trade": 51,
       "date": "2026-09-15",
       "symbol": "ES=F",
-      "cumulative_r": 11.54
+      "cumulative_r": 11.27
     },
     {
       "trade": 52,
       "date": "2026-09-16",
       "symbol": "ES=F",
-      "cumulative_r": 10.54
+      "cumulative_r": 10.27
     },
     {
       "trade": 53,
       "date": "2026-09-16",
       "symbol": "ES=F",
-      "cumulative_r": 10.54
+      "cumulative_r": 10.27
     },
     {
       "trade": 54,
       "date": "2026-09-25",
       "symbol": "ES=F",
-      "cumulative_r": 9.54
+      "cumulative_r": 9.27
     },
     {
       "trade": 55,
       "date": "2026-09-25",
       "symbol": "ES=F",
-      "cumulative_r": 8.54
+      "cumulative_r": 8.27
     },
     {
       "trade": 56,
       "date": "2026-09-25",
       "symbol": "ES=F",
-      "cumulative_r": 10.8
+      "cumulative_r": 10.53
     },
     {
       "trade": 57,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 11.76
+      "cumulative_r": 11.49
     },
     {
       "trade": 58,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 12.72
+      "cumulative_r": 12.45
     },
     {
       "trade": 59,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 13.14
+      "cumulative_r": 12.87
     },
     {
       "trade": 60,
       "date": "2026-09-29",
       "symbol": "ES=F",
-      "cumulative_r": 13.7
+      "cumulative_r": 13.43
     },
     {
       "trade": 61,
       "date": "2026-10-08",
       "symbol": "ES=F",
-      "cumulative_r": 12.7
+      "cumulative_r": 12.43
     },
     {
       "trade": 62,
       "date": "2026-10-08",
       "symbol": "ES=F",
-      "cumulative_r": 11.7
+      "cumulative_r": 11.43
     },
     {
       "trade": 63,
       "date": "2026-10-08",
       "symbol": "ES=F",
-      "cumulative_r": 11.7
+      "cumulative_r": 11.43
     },
     {
       "trade": 64,
       "date": "2026-10-09",
       "symbol": "ES=F",
-      "cumulative_r": 10.7
+      "cumulative_r": 10.43
     },
     {
       "trade": 65,
       "date": "2026-10-09",
       "symbol": "ES=F",
-      "cumulative_r": 9.7
+      "cumulative_r": 9.43
     },
     {
       "trade": 66,
       "date": "2026-10-09",
       "symbol": "ES=F",
-      "cumulative_r": 8.7
+      "cumulative_r": 8.43
     },
     {
       "trade": 67,
       "date": "2026-10-13",
       "symbol": "ES=F",
-      "cumulative_r": 8.7
+      "cumulative_r": 8.43
     },
     {
       "trade": 68,
       "date": "2026-10-13",
       "symbol": "ES=F",
-      "cumulative_r": 8.7
+      "cumulative_r": 8.43
     },
     {
       "trade": 69,
       "date": "2026-10-15",
       "symbol": "ES=F",
-      "cumulative_r": 11.15
+      "cumulative_r": 10.88
     },
     {
       "trade": 70,
       "date": "2026-10-19",
       "symbol": "ES=F",
-      "cumulative_r": 10.15
+      "cumulative_r": 9.88
     },
     {
       "trade": 71,
       "date": "2026-10-19",
       "symbol": "ES=F",
-      "cumulative_r": 10.15
+      "cumulative_r": 9.88
     },
     {
       "trade": 72,
       "date": "2026-10-20",
       "symbol": "ES=F",
-      "cumulative_r": 11.22
+      "cumulative_r": 10.95
     },
     {
       "trade": 73,
       "date": "2026-10-20",
       "symbol": "ES=F",
-      "cumulative_r": 12.29
+      "cumulative_r": 12.02
     },
     {
       "trade": 74,
       "date": "2026-10-20",
       "symbol": "ES=F",
-      "cumulative_r": 13.36
+      "cumulative_r": 13.09
     },
     {
       "trade": 75,
       "date": "2026-10-20",
       "symbol": "ES=F",
-      "cumulative_r": 14.88
+      "cumulative_r": 14.61
     },
     {
       "trade": 76,
       "date": "2026-10-20",
       "symbol": "ES=F",
-      "cumulative_r": 16.11
+      "cumulative_r": 15.84
     },
     {
       "trade": 77,
       "date": "2026-10-21",
       "symbol": "ES=F",
-      "cumulative_r": 15.11
+      "cumulative_r": 14.84
     },
     {
       "trade": 78,
       "date": "2026-10-21",
       "symbol": "ES=F",
-      "cumulative_r": 19.11
+      "cumulative_r": 18.84
     },
     {
       "trade": 79,
       "date": "2026-10-21",
       "symbol": "ES=F",
-      "cumulative_r": 19.11
+      "cumulative_r": 18.84
     },
     {
       "trade": 80,
       "date": "2026-10-22",
       "symbol": "ES=F",
-      "cumulative_r": 19.11
+      "cumulative_r": 18.84
     },
     {
       "trade": 81,
       "date": "2026-10-22",
       "symbol": "ES=F",
-      "cumulative_r": 19.86
+      "cumulative_r": 19.59
     },
     {
       "trade": 82,
       "date": "2026-10-22",
       "symbol": "ES=F",
-      "cumulative_r": 20.77
+      "cumulative_r": 20.5
     },
     {
       "trade": 83,
       "date": "2026-10-28",
       "symbol": "ES=F",
-      "cumulative_r": 20.77
+      "cumulative_r": 20.5
     },
     {
       "trade": 84,
       "date": "2026-10-28",
       "symbol": "ES=F",
-      "cumulative_r": 24.77
+      "cumulative_r": 24.5
     },
     {
       "trade": 85,
       "date": "2026-10-29",
       "symbol": "ES=F",
-      "cumulative_r": 24.28
+      "cumulative_r": 24.02
     },
     {
       "trade": 86,
       "date": "2026-10-29",
       "symbol": "ES=F",
-      "cumulative_r": 23.28
+      "cumulative_r": 23.02
     },
     {
       "trade": 87,
       "date": "2026-10-29",
       "symbol": "ES=F",
-      "cumulative_r": 22.28
+      "cumulative_r": 22.02
     },
     {
       "trade": 88,
       "date": "2026-09-02",
       "symbol": "MNQ=F",
-      "cumulative_r": 26.28
+      "cumulative_r": 26.02
     },
     {
       "trade": 89,
       "date": "2026-09-02",
       "symbol": "MNQ=F",
-      "cumulative_r": 26.28
+      "cumulative_r": 26.02
     },
     {
       "trade": 90,
       "date": "2026-09-04",
       "symbol": "MNQ=F",
-      "cumulative_r": 26.85
+      "cumulative_r": 26.59
     },
     {
       "trade": 91,
       "date": "2026-09-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 27.21
+      "cumulative_r": 26.95
     },
     {
       "trade": 92,
       "date": "2026-09-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 27.14
+      "cumulative_r": 26.88
     },
     {
       "trade": 93,
       "date": "2026-09-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 26.14
+      "cumulative_r": 25.88
     },
     {
       "trade": 94,
       "date": "2026-09-14",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.14
+      "cumulative_r": 24.88
     },
     {
       "trade": 95,
       "date": "2026-09-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.14
+      "cumulative_r": 23.88
     },
     {
       "trade": 96,
       "date": "2026-09-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.14
+      "cumulative_r": 23.88
     },
     {
       "trade": 97,
       "date": "2026-09-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 26.19
+      "cumulative_r": 25.93
     },
     {
       "trade": 98,
       "date": "2026-09-24",
       "symbol": "MNQ=F",
-      "cumulative_r": 26.19
+      "cumulative_r": 25.93
     },
     {
       "trade": 99,
       "date": "2026-09-24",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.19
+      "cumulative_r": 24.93
     },
     {
       "trade": 100,
       "date": "2026-09-25",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.19
+      "cumulative_r": 24.93
     },
     {
       "trade": 101,
       "date": "2026-09-25",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.19
+      "cumulative_r": 24.93
     },
     {
       "trade": 102,
       "date": "2026-09-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.19
+      "cumulative_r": 24.93
     },
     {
       "trade": 103,
       "date": "2026-09-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.19
+      "cumulative_r": 24.93
     },
     {
       "trade": 104,
       "date": "2026-09-28",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.19
+      "cumulative_r": 24.93
     },
     {
       "trade": 105,
       "date": "2026-10-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.19
+      "cumulative_r": 23.93
     },
     {
       "trade": 106,
       "date": "2026-10-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 23.19
+      "cumulative_r": 22.93
     },
     {
       "trade": 107,
       "date": "2026-10-08",
       "symbol": "MNQ=F",
-      "cumulative_r": 22.19
+      "cumulative_r": 21.93
     },
     {
       "trade": 108,
       "date": "2026-10-13",
       "symbol": "MNQ=F",
-      "cumulative_r": 22.36
+      "cumulative_r": 22.1
     },
     {
       "trade": 109,
       "date": "2026-10-13",
       "symbol": "MNQ=F",
-      "cumulative_r": 22.54
+      "cumulative_r": 22.28
     },
     {
       "trade": 110,
       "date": "2026-10-13",
       "symbol": "MNQ=F",
-      "cumulative_r": 22.54
+      "cumulative_r": 22.28
     },
     {
       "trade": 111,
       "date": "2026-10-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.54
+      "cumulative_r": 21.28
     },
     {
       "trade": 112,
       "date": "2026-10-15",
       "symbol": "MNQ=F",
-      "cumulative_r": 20.54
+      "cumulative_r": 20.28
     },
     {
       "trade": 113,
       "date": "2026-10-19",
       "symbol": "MNQ=F",
-      "cumulative_r": 20.08
+      "cumulative_r": 19.82
     },
     {
       "trade": 114,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
-      "cumulative_r": 20.44
+      "cumulative_r": 20.18
     },
     {
       "trade": 115,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
-      "cumulative_r": 20.8
+      "cumulative_r": 20.54
     },
     {
       "trade": 116,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.16
+      "cumulative_r": 20.9
     },
     {
       "trade": 117,
       "date": "2026-10-20",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.61
+      "cumulative_r": 21.35
     },
     {
       "trade": 118,
       "date": "2026-10-21",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.61
+      "cumulative_r": 21.35
     },
     {
       "trade": 119,
       "date": "2026-10-21",
       "symbol": "MNQ=F",
-      "cumulative_r": 21.61
+      "cumulative_r": 21.35
     },
     {
       "trade": 120,
       "date": "2026-10-22",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.27
+      "cumulative_r": 24.01
     },
     {
       "trade": 121,
       "date": "2026-10-22",
       "symbol": "MNQ=F",
-      "cumulative_r": 26.43
+      "cumulative_r": 26.17
     },
     {
       "trade": 122,
       "date": "2026-10-22",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.43
+      "cumulative_r": 25.17
     },
     {
       "trade": 123,
       "date": "2026-10-23",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.43
+      "cumulative_r": 25.17
     },
     {
       "trade": 124,
       "date": "2026-10-23",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.43
+      "cumulative_r": 25.17
     },
     {
       "trade": 125,
       "date": "2026-10-29",
       "symbol": "MNQ=F",
-      "cumulative_r": 25.43
+      "cumulative_r": 25.17
     },
     {
       "trade": 126,
       "date": "2026-10-29",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.43
+      "cumulative_r": 24.17
     },
     {
       "trade": 127,
       "date": "2026-10-29",
       "symbol": "MNQ=F",
-      "cumulative_r": 23.43
+      "cumulative_r": 23.17
     },
     {
       "trade": 128,
       "date": "2026-11-02",
       "symbol": "MNQ=F",
-      "cumulative_r": 23.43
+      "cumulative_r": 23.17
     },
     {
       "trade": 129,
       "date": "2026-11-02",
       "symbol": "MNQ=F",
-      "cumulative_r": 23.43
+      "cumulative_r": 23.17
     },
     {
       "trade": 130,
       "date": "2026-11-10",
       "symbol": "MNQ=F",
-      "cumulative_r": 24.17
+      "cumulative_r": 23.65
     },
     {
       "trade": 131,
       "date": "2026-09-08",
       "symbol": "MES=F",
-      "cumulative_r": 23.17
+      "cumulative_r": 22.65
     },
     {
       "trade": 132,
       "date": "2026-09-08",
       "symbol": "MES=F",
-      "cumulative_r": 23.17
+      "cumulative_r": 22.65
     },
     {
       "trade": 133,
       "date": "2026-09-08",
       "symbol": "MES=F",
-      "cumulative_r": 22.17
+      "cumulative_r": 21.65
     },
     {
       "trade": 134,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 26.17
+      "cumulative_r": 25.65
     },
     {
       "trade": 135,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 30.17
+      "cumulative_r": 29.65
     },
     {
       "trade": 136,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 29.17
+      "cumulative_r": 28.65
     },
     {
       "trade": 137,
       "date": "2026-09-15",
       "symbol": "MES=F",
-      "cumulative_r": 29.67
+      "cumulative_r": 29.15
     },
     {
       "trade": 138,
       "date": "2026-09-16",
       "symbol": "MES=F",
-      "cumulative_r": 28.67
+      "cumulative_r": 28.15
     },
     {
       "trade": 139,
       "date": "2026-09-16",
       "symbol": "MES=F",
-      "cumulative_r": 28.67
+      "cumulative_r": 28.15
     },
     {
       "trade": 140,
       "date": "2026-09-22",
       "symbol": "MES=F",
-      "cumulative_r": 28.84
+      "cumulative_r": 28.32
     },
     {
       "trade": 141,
       "date": "2026-09-22",
       "symbol": "MES=F",
-      "cumulative_r": 27.84
+      "cumulative_r": 27.32
     },
     {
       "trade": 142,
       "date": "2026-09-22",
       "symbol": "MES=F",
-      "cumulative_r": 26.84
+      "cumulative_r": 26.32
     },
     {
       "trade": 143,
       "date": "2026-09-25",
       "symbol": "MES=F",
-      "cumulative_r": 25.84
+      "cumulative_r": 25.32
     },
     {
       "trade": 144,
       "date": "2026-09-25",
       "symbol": "MES=F",
-      "cumulative_r": 24.84
+      "cumulative_r": 24.32
     },
     {
       "trade": 145,
       "date": "2026-09-25",
       "symbol": "MES=F",
-      "cumulative_r": 27.06
+      "cumulative_r": 26.54
     },
     {
       "trade": 146,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 28.01
+      "cumulative_r": 27.49
     },
     {
       "trade": 147,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 28.96
+      "cumulative_r": 28.44
     },
     {
       "trade": 148,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 29.42
+      "cumulative_r": 28.9
     },
     {
       "trade": 149,
       "date": "2026-09-29",
       "symbol": "MES=F",
-      "cumulative_r": 30.03
+      "cumulative_r": 29.51
     },
     {
       "trade": 150,
       "date": "2026-10-08",
       "symbol": "MES=F",
-      "cumulative_r": 30.03
+      "cumulative_r": 29.51
     },
     {
       "trade": 151,
       "date": "2026-10-08",
       "symbol": "MES=F",
-      "cumulative_r": 29.03
+      "cumulative_r": 28.51
     },
     {
       "trade": 152,
       "date": "2026-10-08",
       "symbol": "MES=F",
-      "cumulative_r": 28.03
+      "cumulative_r": 27.51
     },
     {
       "trade": 153,
       "date": "2026-10-09",
       "symbol": "MES=F",
-      "cumulative_r": 27.03
+      "cumulative_r": 26.51
     },
     {
       "trade": 154,
       "date": "2026-10-09",
       "symbol": "MES=F",
-      "cumulative_r": 26.03
+      "cumulative_r": 25.51
     },
     {
       "trade": 155,
       "date": "2026-10-09",
       "symbol": "MES=F",
-      "cumulative_r": 25.03
+      "cumulative_r": 24.51
     },
     {
       "trade": 156,
       "date": "2026-10-13",
       "symbol": "MES=F",
-      "cumulative_r": 25.03
+      "cumulative_r": 24.51
     },
     {
       "trade": 157,
       "date": "2026-10-13",
       "symbol": "MES=F",
-      "cumulative_r": 25.03
+      "cumulative_r": 24.51
     },
     {
       "trade": 158,
       "date": "2026-10-15",
       "symbol": "MES=F",
-      "cumulative_r": 27.33
+      "cumulative_r": 26.81
     },
     {
       "trade": 159,
       "date": "2026-10-15",
       "symbol": "MES=F",
-      "cumulative_r": 29.63
+      "cumulative_r": 29.11
     },
     {
       "trade": 160,
       "date": "2026-10-19",
       "symbol": "MES=F",
-      "cumulative_r": 29.63
+      "cumulative_r": 29.11
     },
     {
       "trade": 161,
       "date": "2026-10-19",
       "symbol": "MES=F",
-      "cumulative_r": 28.63
+      "cumulative_r": 28.11
     },
     {
       "trade": 162,
       "date": "2026-10-19",
       "symbol": "MES=F",
-      "cumulative_r": 28.63
+      "cumulative_r": 28.11
     },
     {
       "trade": 163,
       "date": "2026-10-20",
       "symbol": "MES=F",
-      "cumulative_r": 29.7
+      "cumulative_r": 29.18
     },
     {
       "trade": 164,
       "date": "2026-10-20",
       "symbol": "MES=F",
-      "cumulative_r": 30.77
+      "cumulative_r": 30.25
     },
     {
       "trade": 165,
       "date": "2026-10-20",
       "symbol": "MES=F",
-      "cumulative_r": 31.84
+      "cumulative_r": 31.32
     },
     {
       "trade": 166,
       "date": "2026-10-20",
       "symbol": "MES=F",
-      "cumulative_r": 33.36
+      "cumulative_r": 32.84
     },
     {
       "trade": 167,
       "date": "2026-10-20",
       "symbol": "MES=F",
-      "cumulative_r": 34.61
+      "cumulative_r": 34.09
     },
     {
       "trade": 168,
       "date": "2026-10-21",
       "symbol": "MES=F",
-      "cumulative_r": 33.61
+      "cumulative_r": 33.09
     },
     {
       "trade": 169,
       "date": "2026-10-21",
       "symbol": "MES=F",
-      "cumulative_r": 37.61
+      "cumulative_r": 37.09
     },
     {
       "trade": 170,
       "date": "2026-10-21",
       "symbol": "MES=F",
-      "cumulative_r": 37.61
+      "cumulative_r": 37.09
     },
     {
       "trade": 171,
       "date": "2026-10-22",
       "symbol": "MES=F",
-      "cumulative_r": 37.61
+      "cumulative_r": 37.09
     },
     {
       "trade": 172,
       "date": "2026-10-22",
       "symbol": "MES=F",
-      "cumulative_r": 38.44
+      "cumulative_r": 37.92
     },
     {
       "trade": 173,
       "date": "2026-10-22",
       "symbol": "MES=F",
-      "cumulative_r": 38.44
+      "cumulative_r": 37.92
     },
     {
       "trade": 174,
       "date": "2026-10-28",
       "symbol": "MES=F",
-      "cumulative_r": 38.44
+      "cumulative_r": 37.92
     },
     {
       "trade": 175,
       "date": "2026-10-28",
       "symbol": "MES=F",
-      "cumulative_r": 42.44
+      "cumulative_r": 41.92
     },
     {
       "trade": 176,
       "date": "2026-10-29",
       "symbol": "MES=F",
-      "cumulative_r": 41.96
+      "cumulative_r": 41.44
     },
     {
       "trade": 177,
       "date": "2026-10-29",
       "symbol": "MES=F",
-      "cumulative_r": 40.96
+      "cumulative_r": 40.44
     },
     {
       "trade": 178,
       "date": "2026-10-29",
       "symbol": "MES=F",
-      "cumulative_r": 39.96
+      "cumulative_r": 39.44
     }
   ],
   "recent_feed": [
@@ -1137,7 +1137,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 39.96,
+      "cumulative_r": 39.44,
       "bars": [
         {
           "time": 1793278800,
@@ -1950,7 +1950,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 40.96,
+      "cumulative_r": 40.44,
       "bars": [
         {
           "time": 1793278800,
@@ -2763,7 +2763,7 @@
       "reason": "4H FVG Tap (bullish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 41.96,
+      "cumulative_r": 41.44,
       "bars": [
         {
           "time": 1793278800,
@@ -3576,7 +3576,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 42.44,
+      "cumulative_r": 41.92,
       "bars": [
         {
           "time": 1793192400,
@@ -4389,7 +4389,7 @@
       "reason": "4H FVG Tap (bullish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 38.44,
+      "cumulative_r": 37.92,
       "bars": [
         {
           "time": 1793192400,
@@ -5202,7 +5202,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 38.44,
+      "cumulative_r": 37.92,
       "bars": [
         {
           "time": 1792674000,
@@ -6015,7 +6015,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 38.44,
+      "cumulative_r": 37.92,
       "bars": [
         {
           "time": 1792674000,
@@ -6828,7 +6828,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 37.61,
+      "cumulative_r": 37.09,
       "bars": [
         {
           "time": 1792674000,
@@ -7641,7 +7641,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 37.61,
+      "cumulative_r": 37.09,
       "bars": [
         {
           "time": 1792587600,
@@ -8454,7 +8454,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 37.61,
+      "cumulative_r": 37.09,
       "bars": [
         {
           "time": 1792587600,
@@ -9267,7 +9267,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 33.61,
+      "cumulative_r": 33.09,
       "bars": [
         {
           "time": 1792587600,
@@ -10080,7 +10080,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 34.61,
+      "cumulative_r": 34.09,
       "bars": [
         {
           "time": 1792501200,
@@ -10893,7 +10893,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 33.36,
+      "cumulative_r": 32.84,
       "bars": [
         {
           "time": 1792501200,
@@ -11706,7 +11706,7 @@
       "reason": "Sweep HTF Swing Low + CISD",
       "trigger": "HTF Swing Low",
       "confirmation": "CISD",
-      "cumulative_r": 31.84,
+      "cumulative_r": 31.32,
       "bars": [
         {
           "time": 1792501200,
@@ -12519,7 +12519,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 30.77,
+      "cumulative_r": 30.25,
       "bars": [
         {
           "time": 1792501200,
@@ -46654,20 +46654,20 @@
       "id": 42,
       "date": "2026-11-10",
       "entry_time": "2026-11-10 09:55 ET",
-      "exit_time": "2026-11-10 15:10 ET",
+      "exit_time": "2026-11-10 16:00 ET",
       "symbol": "NQ=F",
       "direction": "SHORT",
       "entry": 28014.75,
-      "exit": 27756.75,
+      "exit": 27848.5,
       "sl": 28358.18,
       "tp": 26641.05,
       "risk_pts": 343.42,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 0.751,
+      "pnl_r": 0.484,
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 8.54,
+      "cumulative_r": 8.27,
       "bars": [
         {
           "time": 1794319200,
@@ -47342,7 +47342,124 @@
           "open": 27730.25,
           "high": 27772.25,
           "low": 27728.0,
-          "close": 27756.75
+          "close": 27765.75
+        },
+        {
+          "time": 1794341700,
+          "time_str": "15:15",
+          "full_time": "2026-11-10 15:15 ET",
+          "open": 27767.25,
+          "high": 27774.25,
+          "low": 27751.75,
+          "close": 27766.5
+        },
+        {
+          "time": 1794342000,
+          "time_str": "15:20",
+          "full_time": "2026-11-10 15:20 ET",
+          "open": 27766.75,
+          "high": 27815.25,
+          "low": 27763.25,
+          "close": 27807.75
+        },
+        {
+          "time": 1794342300,
+          "time_str": "15:25",
+          "full_time": "2026-11-10 15:25 ET",
+          "open": 27808.25,
+          "high": 27827.75,
+          "low": 27799.5,
+          "close": 27812.0
+        },
+        {
+          "time": 1794342600,
+          "time_str": "15:30",
+          "full_time": "2026-11-10 15:30 ET",
+          "open": 27810.0,
+          "high": 27811.5,
+          "low": 27784.0,
+          "close": 27797.0
+        },
+        {
+          "time": 1794342900,
+          "time_str": "15:35",
+          "full_time": "2026-11-10 15:35 ET",
+          "open": 27798.0,
+          "high": 27806.0,
+          "low": 27777.25,
+          "close": 27785.75
+        },
+        {
+          "time": 1794343200,
+          "time_str": "15:40",
+          "full_time": "2026-11-10 15:40 ET",
+          "open": 27786.75,
+          "high": 27799.25,
+          "low": 27775.75,
+          "close": 27778.75
+        },
+        {
+          "time": 1794343500,
+          "time_str": "15:45",
+          "full_time": "2026-11-10 15:45 ET",
+          "open": 27778.0,
+          "high": 27831.0,
+          "low": 27776.75,
+          "close": 27829.0
+        },
+        {
+          "time": 1794343800,
+          "time_str": "15:50",
+          "full_time": "2026-11-10 15:50 ET",
+          "open": 27827.0,
+          "high": 27897.0,
+          "low": 27815.5,
+          "close": 27856.0
+        },
+        {
+          "time": 1794344100,
+          "time_str": "15:55",
+          "full_time": "2026-11-10 15:55 ET",
+          "open": 27859.0,
+          "high": 27879.75,
+          "low": 27826.75,
+          "close": 27835.25
+        },
+        {
+          "time": 1794344400,
+          "time_str": "16:00",
+          "full_time": "2026-11-10 16:00 ET",
+          "open": 27835.5,
+          "high": 27866.0,
+          "low": 27823.75,
+          "close": 27848.5
+        },
+        {
+          "time": 1794344700,
+          "time_str": "16:05",
+          "full_time": "2026-11-10 16:05 ET",
+          "open": 27848.5,
+          "high": 27916.0,
+          "low": 27847.5,
+          "close": 27864.5
+        },
+        {
+          "time": 1794345000,
+          "time_str": "16:10",
+          "full_time": "2026-11-10 16:10 ET",
+          "open": 27864.0,
+          "high": 27877.5,
+          "low": 27856.0,
+          "close": 27859.75
+        },
+        {
+          "time": 1794345300,
+          "time_str": "16:15",
+          "full_time": "2026-11-10 16:15 ET",
+          "open": 27858.75,
+          "high": 27871.75,
+          "low": 27853.75,
+          "close": 27869.0
         }
       ]
     },
@@ -47363,7 +47480,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 7.54,
+      "cumulative_r": 7.27,
       "bars": [
         {
           "time": 1788872400,
@@ -48176,7 +48293,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 7.54,
+      "cumulative_r": 7.27,
       "bars": [
         {
           "time": 1788872400,
@@ -48989,7 +49106,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 6.54,
+      "cumulative_r": 6.27,
       "bars": [
         {
           "time": 1788872400,
@@ -49802,7 +49919,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 5.54,
+      "cumulative_r": 5.27,
       "bars": [
         {
           "time": 1789390800,
@@ -50615,7 +50732,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 4.54,
+      "cumulative_r": 4.27,
       "bars": [
         {
           "time": 1789390800,
@@ -51428,7 +51545,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 4.54,
+      "cumulative_r": 4.27,
       "bars": [
         {
           "time": 1789390800,
@@ -52241,7 +52358,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 8.54,
+      "cumulative_r": 8.27,
       "bars": [
         {
           "time": 1789477200,
@@ -53054,7 +53171,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 12.54,
+      "cumulative_r": 12.27,
       "bars": [
         {
           "time": 1789477200,
@@ -53867,7 +53984,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 11.54,
+      "cumulative_r": 11.27,
       "bars": [
         {
           "time": 1789477200,
@@ -54680,7 +54797,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 10.54,
+      "cumulative_r": 10.27,
       "bars": [
         {
           "time": 1789563600,
@@ -55493,7 +55610,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 10.54,
+      "cumulative_r": 10.27,
       "bars": [
         {
           "time": 1789563600,
@@ -56306,7 +56423,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 9.54,
+      "cumulative_r": 9.27,
       "bars": [
         {
           "time": 1790341200,
@@ -57119,7 +57236,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 8.54,
+      "cumulative_r": 8.27,
       "bars": [
         {
           "time": 1790341200,
@@ -57932,7 +58049,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 10.8,
+      "cumulative_r": 10.53,
       "bars": [
         {
           "time": 1790341200,
@@ -58745,7 +58862,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 11.76,
+      "cumulative_r": 11.49,
       "bars": [
         {
           "time": 1790686800,
@@ -59558,7 +59675,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 12.72,
+      "cumulative_r": 12.45,
       "bars": [
         {
           "time": 1790686800,
@@ -60371,7 +60488,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 13.14,
+      "cumulative_r": 12.87,
       "bars": [
         {
           "time": 1790686800,
@@ -61184,7 +61301,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 13.7,
+      "cumulative_r": 13.43,
       "bars": [
         {
           "time": 1790686800,
@@ -61997,7 +62114,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 12.7,
+      "cumulative_r": 12.43,
       "bars": [
         {
           "time": 1791464400,
@@ -62810,7 +62927,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 11.7,
+      "cumulative_r": 11.43,
       "bars": [
         {
           "time": 1791464400,
@@ -63623,7 +63740,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 11.7,
+      "cumulative_r": 11.43,
       "bars": [
         {
           "time": 1791464400,
@@ -64436,7 +64553,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 10.7,
+      "cumulative_r": 10.43,
       "bars": [
         {
           "time": 1791550800,
@@ -65249,7 +65366,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 9.7,
+      "cumulative_r": 9.43,
       "bars": [
         {
           "time": 1791550800,
@@ -66062,7 +66179,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 8.7,
+      "cumulative_r": 8.43,
       "bars": [
         {
           "time": 1791550800,
@@ -66875,7 +66992,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 8.7,
+      "cumulative_r": 8.43,
       "bars": [
         {
           "time": 1791896400,
@@ -67688,7 +67805,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 8.7,
+      "cumulative_r": 8.43,
       "bars": [
         {
           "time": 1791896400,
@@ -68501,7 +68618,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 11.15,
+      "cumulative_r": 10.88,
       "bars": [
         {
           "time": 1792069200,
@@ -69314,7 +69431,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 10.15,
+      "cumulative_r": 9.88,
       "bars": [
         {
           "time": 1792414800,
@@ -70127,7 +70244,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 10.15,
+      "cumulative_r": 9.88,
       "bars": [
         {
           "time": 1792414800,
@@ -70940,7 +71057,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 11.22,
+      "cumulative_r": 10.95,
       "bars": [
         {
           "time": 1792501200,
@@ -71753,7 +71870,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 12.29,
+      "cumulative_r": 12.02,
       "bars": [
         {
           "time": 1792501200,
@@ -72566,7 +72683,7 @@
       "reason": "Sweep HTF Swing Low + CISD",
       "trigger": "HTF Swing Low",
       "confirmation": "CISD",
-      "cumulative_r": 13.36,
+      "cumulative_r": 13.09,
       "bars": [
         {
           "time": 1792501200,
@@ -73379,7 +73496,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 14.88,
+      "cumulative_r": 14.61,
       "bars": [
         {
           "time": 1792501200,
@@ -74192,7 +74309,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 16.11,
+      "cumulative_r": 15.84,
       "bars": [
         {
           "time": 1792501200,
@@ -75005,7 +75122,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 15.11,
+      "cumulative_r": 14.84,
       "bars": [
         {
           "time": 1792587600,
@@ -75818,7 +75935,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 19.11,
+      "cumulative_r": 18.84,
       "bars": [
         {
           "time": 1792587600,
@@ -76631,7 +76748,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 19.11,
+      "cumulative_r": 18.84,
       "bars": [
         {
           "time": 1792587600,
@@ -77444,7 +77561,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 19.11,
+      "cumulative_r": 18.84,
       "bars": [
         {
           "time": 1792674000,
@@ -78257,7 +78374,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 19.86,
+      "cumulative_r": 19.59,
       "bars": [
         {
           "time": 1792674000,
@@ -79070,7 +79187,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 20.77,
+      "cumulative_r": 20.5,
       "bars": [
         {
           "time": 1792674000,
@@ -79883,7 +80000,7 @@
       "reason": "4H FVG Tap (bullish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 20.77,
+      "cumulative_r": 20.5,
       "bars": [
         {
           "time": 1793192400,
@@ -80696,7 +80813,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.77,
+      "cumulative_r": 24.5,
       "bars": [
         {
           "time": 1793192400,
@@ -81509,7 +81626,7 @@
       "reason": "4H FVG Tap (bullish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.28,
+      "cumulative_r": 24.02,
       "bars": [
         {
           "time": 1793278800,
@@ -82322,7 +82439,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 23.28,
+      "cumulative_r": 23.02,
       "bars": [
         {
           "time": 1793278800,
@@ -83135,7 +83252,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 22.28,
+      "cumulative_r": 22.02,
       "bars": [
         {
           "time": 1793278800,
@@ -83948,7 +84065,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 26.28,
+      "cumulative_r": 26.02,
       "bars": [
         {
           "time": 1788354000,
@@ -84761,7 +84878,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 26.28,
+      "cumulative_r": 26.02,
       "bars": [
         {
           "time": 1788354000,
@@ -85574,7 +85691,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 26.85,
+      "cumulative_r": 26.59,
       "bars": [
         {
           "time": 1788526800,
@@ -86387,7 +86504,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 27.21,
+      "cumulative_r": 26.95,
       "bars": [
         {
           "time": 1788872400,
@@ -87200,7 +87317,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 27.14,
+      "cumulative_r": 26.88,
       "bars": [
         {
           "time": 1788872400,
@@ -88013,7 +88130,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 26.14,
+      "cumulative_r": 25.88,
       "bars": [
         {
           "time": 1789390800,
@@ -88826,7 +88943,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 25.14,
+      "cumulative_r": 24.88,
       "bars": [
         {
           "time": 1789390800,
@@ -89639,7 +89756,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.14,
+      "cumulative_r": 23.88,
       "bars": [
         {
           "time": 1789477200,
@@ -90452,7 +90569,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.14,
+      "cumulative_r": 23.88,
       "bars": [
         {
           "time": 1789477200,
@@ -91265,7 +91382,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 26.19,
+      "cumulative_r": 25.93,
       "bars": [
         {
           "time": 1789477200,
@@ -92078,7 +92195,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 26.19,
+      "cumulative_r": 25.93,
       "bars": [
         {
           "time": 1790254800,
@@ -92891,7 +93008,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 25.19,
+      "cumulative_r": 24.93,
       "bars": [
         {
           "time": 1790254800,
@@ -93704,7 +93821,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.19,
+      "cumulative_r": 24.93,
       "bars": [
         {
           "time": 1790341200,
@@ -94517,7 +94634,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 25.19,
+      "cumulative_r": 24.93,
       "bars": [
         {
           "time": 1790341200,
@@ -95330,7 +95447,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 25.19,
+      "cumulative_r": 24.93,
       "bars": [
         {
           "time": 1790600400,
@@ -96143,7 +96260,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.19,
+      "cumulative_r": 24.93,
       "bars": [
         {
           "time": 1790600400,
@@ -96956,7 +97073,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 25.19,
+      "cumulative_r": 24.93,
       "bars": [
         {
           "time": 1790600400,
@@ -97769,7 +97886,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.19,
+      "cumulative_r": 23.93,
       "bars": [
         {
           "time": 1791464400,
@@ -98582,7 +98699,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 23.19,
+      "cumulative_r": 22.93,
       "bars": [
         {
           "time": 1791464400,
@@ -99395,7 +99512,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 22.19,
+      "cumulative_r": 21.93,
       "bars": [
         {
           "time": 1791464400,
@@ -100208,7 +100325,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 22.36,
+      "cumulative_r": 22.1,
       "bars": [
         {
           "time": 1791896400,
@@ -101021,7 +101138,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 22.54,
+      "cumulative_r": 22.28,
       "bars": [
         {
           "time": 1791896400,
@@ -101834,7 +101951,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 22.54,
+      "cumulative_r": 22.28,
       "bars": [
         {
           "time": 1791896400,
@@ -102647,7 +102764,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 21.54,
+      "cumulative_r": 21.28,
       "bars": [
         {
           "time": 1792069200,
@@ -103460,7 +103577,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 20.54,
+      "cumulative_r": 20.28,
       "bars": [
         {
           "time": 1792069200,
@@ -104273,7 +104390,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 20.08,
+      "cumulative_r": 19.82,
       "bars": [
         {
           "time": 1792414800,
@@ -105086,7 +105203,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 20.44,
+      "cumulative_r": 20.18,
       "bars": [
         {
           "time": 1792501200,
@@ -105899,7 +106016,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 20.8,
+      "cumulative_r": 20.54,
       "bars": [
         {
           "time": 1792501200,
@@ -106712,7 +106829,7 @@
       "reason": "Sweep HTF Swing Low + CISD",
       "trigger": "HTF Swing Low",
       "confirmation": "CISD",
-      "cumulative_r": 21.16,
+      "cumulative_r": 20.9,
       "bars": [
         {
           "time": 1792501200,
@@ -107525,7 +107642,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 21.61,
+      "cumulative_r": 21.35,
       "bars": [
         {
           "time": 1792501200,
@@ -108338,7 +108455,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 21.61,
+      "cumulative_r": 21.35,
       "bars": [
         {
           "time": 1792587600,
@@ -109151,7 +109268,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 21.61,
+      "cumulative_r": 21.35,
       "bars": [
         {
           "time": 1792587600,
@@ -109964,7 +110081,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.27,
+      "cumulative_r": 24.01,
       "bars": [
         {
           "time": 1792674000,
@@ -110777,7 +110894,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 26.43,
+      "cumulative_r": 26.17,
       "bars": [
         {
           "time": 1792674000,
@@ -111590,7 +111707,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.43,
+      "cumulative_r": 25.17,
       "bars": [
         {
           "time": 1792674000,
@@ -112403,7 +112520,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 25.43,
+      "cumulative_r": 25.17,
       "bars": [
         {
           "time": 1792760400,
@@ -113216,7 +113333,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 25.43,
+      "cumulative_r": 25.17,
       "bars": [
         {
           "time": 1792760400,
@@ -114029,7 +114146,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.43,
+      "cumulative_r": 25.17,
       "bars": [
         {
           "time": 1793278800,
@@ -114842,7 +114959,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.43,
+      "cumulative_r": 24.17,
       "bars": [
         {
           "time": 1793278800,
@@ -115655,7 +115772,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 23.43,
+      "cumulative_r": 23.17,
       "bars": [
         {
           "time": 1793278800,
@@ -116468,7 +116585,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 23.43,
+      "cumulative_r": 23.17,
       "bars": [
         {
           "time": 1793628000,
@@ -117281,7 +117398,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 23.43,
+      "cumulative_r": 23.17,
       "bars": [
         {
           "time": 1793628000,
@@ -118081,20 +118198,20 @@
       "id": 130,
       "date": "2026-11-10",
       "entry_time": "2026-11-10 09:55 ET",
-      "exit_time": "2026-11-10 15:10 ET",
+      "exit_time": "2026-11-10 16:00 ET",
       "symbol": "MNQ=F",
       "direction": "SHORT",
       "entry": 28013.0,
-      "exit": 27760.0,
+      "exit": 27848.75,
       "sl": 28356.72,
       "tp": 26638.1,
       "risk_pts": 343.72,
       "outcome": "EOD_CLOSE",
-      "pnl_r": 0.736,
+      "pnl_r": 0.478,
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 24.17,
+      "cumulative_r": 23.65,
       "bars": [
         {
           "time": 1794319200,
@@ -118769,7 +118886,124 @@
           "open": 27730.75,
           "high": 27773.0,
           "low": 27728.25,
-          "close": 27760.0
+          "close": 27767.5
+        },
+        {
+          "time": 1794341700,
+          "time_str": "15:15",
+          "full_time": "2026-11-10 15:15 ET",
+          "open": 27767.5,
+          "high": 27775.75,
+          "low": 27751.5,
+          "close": 27766.5
+        },
+        {
+          "time": 1794342000,
+          "time_str": "15:20",
+          "full_time": "2026-11-10 15:20 ET",
+          "open": 27767.0,
+          "high": 27822.5,
+          "low": 27762.25,
+          "close": 27807.5
+        },
+        {
+          "time": 1794342300,
+          "time_str": "15:25",
+          "full_time": "2026-11-10 15:25 ET",
+          "open": 27807.5,
+          "high": 27827.75,
+          "low": 27799.5,
+          "close": 27812.0
+        },
+        {
+          "time": 1794342600,
+          "time_str": "15:30",
+          "full_time": "2026-11-10 15:30 ET",
+          "open": 27812.0,
+          "high": 27812.0,
+          "low": 27784.75,
+          "close": 27796.75
+        },
+        {
+          "time": 1794342900,
+          "time_str": "15:35",
+          "full_time": "2026-11-10 15:35 ET",
+          "open": 27797.75,
+          "high": 27806.25,
+          "low": 27776.75,
+          "close": 27786.25
+        },
+        {
+          "time": 1794343200,
+          "time_str": "15:40",
+          "full_time": "2026-11-10 15:40 ET",
+          "open": 27786.25,
+          "high": 27799.5,
+          "low": 27775.75,
+          "close": 27779.25
+        },
+        {
+          "time": 1794343500,
+          "time_str": "15:45",
+          "full_time": "2026-11-10 15:45 ET",
+          "open": 27778.5,
+          "high": 27830.5,
+          "low": 27776.75,
+          "close": 27828.75
+        },
+        {
+          "time": 1794343800,
+          "time_str": "15:50",
+          "full_time": "2026-11-10 15:50 ET",
+          "open": 27829.5,
+          "high": 27896.5,
+          "low": 27814.25,
+          "close": 27856.25
+        },
+        {
+          "time": 1794344100,
+          "time_str": "15:55",
+          "full_time": "2026-11-10 15:55 ET",
+          "open": 27856.75,
+          "high": 27879.75,
+          "low": 27826.75,
+          "close": 27836.25
+        },
+        {
+          "time": 1794344400,
+          "time_str": "16:00",
+          "full_time": "2026-11-10 16:00 ET",
+          "open": 27835.25,
+          "high": 27867.0,
+          "low": 27823.25,
+          "close": 27848.75
+        },
+        {
+          "time": 1794344700,
+          "time_str": "16:05",
+          "full_time": "2026-11-10 16:05 ET",
+          "open": 27847.5,
+          "high": 27910.25,
+          "low": 27847.5,
+          "close": 27864.5
+        },
+        {
+          "time": 1794345000,
+          "time_str": "16:10",
+          "full_time": "2026-11-10 16:10 ET",
+          "open": 27864.5,
+          "high": 27877.5,
+          "low": 27855.5,
+          "close": 27859.0
+        },
+        {
+          "time": 1794345300,
+          "time_str": "16:15",
+          "full_time": "2026-11-10 16:15 ET",
+          "open": 27858.0,
+          "high": 27871.25,
+          "low": 27852.75,
+          "close": 27869.25
         }
       ]
     },
@@ -118790,7 +119024,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 23.17,
+      "cumulative_r": 22.65,
       "bars": [
         {
           "time": 1788872400,
@@ -119603,7 +119837,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 23.17,
+      "cumulative_r": 22.65,
       "bars": [
         {
           "time": 1788872400,
@@ -120416,7 +120650,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 22.17,
+      "cumulative_r": 21.65,
       "bars": [
         {
           "time": 1788872400,
@@ -121229,7 +121463,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 26.17,
+      "cumulative_r": 25.65,
       "bars": [
         {
           "time": 1789477200,
@@ -122042,7 +122276,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 30.17,
+      "cumulative_r": 29.65,
       "bars": [
         {
           "time": 1789477200,
@@ -122855,7 +123089,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 29.17,
+      "cumulative_r": 28.65,
       "bars": [
         {
           "time": 1789477200,
@@ -123668,7 +123902,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 29.67,
+      "cumulative_r": 29.15,
       "bars": [
         {
           "time": 1789477200,
@@ -124481,7 +124715,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 28.67,
+      "cumulative_r": 28.15,
       "bars": [
         {
           "time": 1789563600,
@@ -125294,7 +125528,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 28.67,
+      "cumulative_r": 28.15,
       "bars": [
         {
           "time": 1789563600,
@@ -126107,7 +126341,7 @@
       "reason": "Sweep HTF Swing High + CISD",
       "trigger": "HTF Swing High",
       "confirmation": "CISD",
-      "cumulative_r": 28.84,
+      "cumulative_r": 28.32,
       "bars": [
         {
           "time": 1790082000,
@@ -126920,7 +127154,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 27.84,
+      "cumulative_r": 27.32,
       "bars": [
         {
           "time": 1790082000,
@@ -127733,7 +127967,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 26.84,
+      "cumulative_r": 26.32,
       "bars": [
         {
           "time": 1790082000,
@@ -128546,7 +128780,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.84,
+      "cumulative_r": 25.32,
       "bars": [
         {
           "time": 1790341200,
@@ -129359,7 +129593,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 24.84,
+      "cumulative_r": 24.32,
       "bars": [
         {
           "time": 1790341200,
@@ -130172,7 +130406,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 27.06,
+      "cumulative_r": 26.54,
       "bars": [
         {
           "time": 1790341200,
@@ -130985,7 +131219,7 @@
       "reason": "Sweep Asia High + CISD",
       "trigger": "Asia High",
       "confirmation": "CISD",
-      "cumulative_r": 28.01,
+      "cumulative_r": 27.49,
       "bars": [
         {
           "time": 1790686800,
@@ -131798,7 +132032,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 28.96,
+      "cumulative_r": 28.44,
       "bars": [
         {
           "time": 1790686800,
@@ -132611,7 +132845,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 29.42,
+      "cumulative_r": 28.9,
       "bars": [
         {
           "time": 1790686800,
@@ -133424,7 +133658,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 30.03,
+      "cumulative_r": 29.51,
       "bars": [
         {
           "time": 1790686800,
@@ -134237,7 +134471,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 30.03,
+      "cumulative_r": 29.51,
       "bars": [
         {
           "time": 1791464400,
@@ -135050,7 +135284,7 @@
       "reason": "1H IFVG Tap (bullish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 29.03,
+      "cumulative_r": 28.51,
       "bars": [
         {
           "time": 1791464400,
@@ -135863,7 +136097,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 28.03,
+      "cumulative_r": 27.51,
       "bars": [
         {
           "time": 1791464400,
@@ -136676,7 +136910,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 27.03,
+      "cumulative_r": 26.51,
       "bars": [
         {
           "time": 1791550800,
@@ -137489,7 +137723,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 26.03,
+      "cumulative_r": 25.51,
       "bars": [
         {
           "time": 1791550800,
@@ -138302,7 +138536,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 25.03,
+      "cumulative_r": 24.51,
       "bars": [
         {
           "time": 1791550800,
@@ -139115,7 +139349,7 @@
       "reason": "4H FVG Tap (bearish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 25.03,
+      "cumulative_r": 24.51,
       "bars": [
         {
           "time": 1791896400,
@@ -139928,7 +140162,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 25.03,
+      "cumulative_r": 24.51,
       "bars": [
         {
           "time": 1791896400,
@@ -140741,7 +140975,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 27.33,
+      "cumulative_r": 26.81,
       "bars": [
         {
           "time": 1792069200,
@@ -141554,7 +141788,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 29.63,
+      "cumulative_r": 29.11,
       "bars": [
         {
           "time": 1792069200,
@@ -142367,7 +142601,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 29.63,
+      "cumulative_r": 29.11,
       "bars": [
         {
           "time": 1792414800,
@@ -143180,7 +143414,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 28.63,
+      "cumulative_r": 28.11,
       "bars": [
         {
           "time": 1792414800,
@@ -143993,7 +144227,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 28.63,
+      "cumulative_r": 28.11,
       "bars": [
         {
           "time": 1792414800,
@@ -144806,7 +145040,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 29.7,
+      "cumulative_r": 29.18,
       "bars": [
         {
           "time": 1792501200,
@@ -145619,7 +145853,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 30.77,
+      "cumulative_r": 30.25,
       "bars": [
         {
           "time": 1792501200,
@@ -146432,7 +146666,7 @@
       "reason": "Sweep HTF Swing Low + CISD",
       "trigger": "HTF Swing Low",
       "confirmation": "CISD",
-      "cumulative_r": 31.84,
+      "cumulative_r": 31.32,
       "bars": [
         {
           "time": 1792501200,
@@ -147245,7 +147479,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 33.36,
+      "cumulative_r": 32.84,
       "bars": [
         {
           "time": 1792501200,
@@ -148058,7 +148292,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 34.61,
+      "cumulative_r": 34.09,
       "bars": [
         {
           "time": 1792501200,
@@ -148871,7 +149105,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 33.61,
+      "cumulative_r": 33.09,
       "bars": [
         {
           "time": 1792587600,
@@ -149684,7 +149918,7 @@
       "reason": "1H FVG Tap (bullish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 37.61,
+      "cumulative_r": 37.09,
       "bars": [
         {
           "time": 1792587600,
@@ -150497,7 +150731,7 @@
       "reason": "1H IFVG Tap (bearish)",
       "trigger": "1H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 37.61,
+      "cumulative_r": 37.09,
       "bars": [
         {
           "time": 1792587600,
@@ -151310,7 +151544,7 @@
       "reason": "1H FVG Tap (bearish)",
       "trigger": "1H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 37.61,
+      "cumulative_r": 37.09,
       "bars": [
         {
           "time": 1792674000,
@@ -152123,7 +152357,7 @@
       "reason": "Sweep London High + CISD",
       "trigger": "London High",
       "confirmation": "CISD",
-      "cumulative_r": 38.44,
+      "cumulative_r": 37.92,
       "bars": [
         {
           "time": 1792674000,
@@ -152936,7 +153170,7 @@
       "reason": "4H IFVG Tap (bullish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 38.44,
+      "cumulative_r": 37.92,
       "bars": [
         {
           "time": 1792674000,
@@ -153749,7 +153983,7 @@
       "reason": "4H FVG Tap (bullish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 38.44,
+      "cumulative_r": 37.92,
       "bars": [
         {
           "time": 1793192400,
@@ -154562,7 +154796,7 @@
       "reason": "4H IFVG Tap (bearish)",
       "trigger": "4H IFVG",
       "confirmation": "IFVG",
-      "cumulative_r": 42.44,
+      "cumulative_r": 41.92,
       "bars": [
         {
           "time": 1793192400,
@@ -155375,7 +155609,7 @@
       "reason": "4H FVG Tap (bullish)",
       "trigger": "4H FVG",
       "confirmation": "FVG",
-      "cumulative_r": 41.96,
+      "cumulative_r": 41.44,
       "bars": [
         {
           "time": 1793278800,
@@ -156188,7 +156422,7 @@
       "reason": "Sweep Asia Low + CISD",
       "trigger": "Asia Low",
       "confirmation": "CISD",
-      "cumulative_r": 40.96,
+      "cumulative_r": 40.44,
       "bars": [
         {
           "time": 1793278800,
@@ -157001,7 +157235,7 @@
       "reason": "Sweep London Low + CISD",
       "trigger": "London Low",
       "confirmation": "CISD",
-      "cumulative_r": 39.96,
+      "cumulative_r": 39.44,
       "bars": [
         {
           "time": 1793278800,
