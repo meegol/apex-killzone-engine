@@ -1,7 +1,7 @@
 {
   "source": "apex-killzone-engine",
   "version": 1,
-  "generated_at": "2026-11-20T20:59:58Z",
+  "generated_at": "2026-11-21T01:57:28Z",
   "total_trades": 209,
   "instruments": [
     "ES=F",
@@ -4784,9 +4784,9 @@
       "entry_price": 26065.0,
       "stop_price": 26489.96,
       "target_price": 24365.15,
-      "exit_price": 25267.5,
+      "exit_price": 25247.25,
       "risk_pts": 424.96,
-      "realized_r": 1.877,
+      "realized_r": 1.924,
       "result": "eod_close",
       "setup": "London High",
       "trigger": "London High",
@@ -4796,7 +4796,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-11-20 10:15 ET",
-      "exit_time": "2026-11-20 15:45 ET"
+      "exit_time": "2026-11-20 16:00 ET"
     },
     {
       "id": "trade-NQF-0209",
@@ -4807,9 +4807,9 @@
       "entry_price": 26063.5,
       "stop_price": 26486.19,
       "target_price": 24372.75,
-      "exit_price": 25268.0,
+      "exit_price": 25248.0,
       "risk_pts": 422.69,
-      "realized_r": 1.882,
+      "realized_r": 1.929,
       "result": "eod_close",
       "setup": "London High",
       "trigger": "London High",
@@ -4819,7 +4819,7 @@
       "be_active": false,
       "rr_target": 4.0,
       "entry_time": "2026-11-20 10:15 ET",
-      "exit_time": "2026-11-20 15:45 ET"
+      "exit_time": "2026-11-20 16:00 ET"
     }
   ]
 }
